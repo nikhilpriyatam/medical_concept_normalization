@@ -1,0 +1,3477 @@
+neonatal drug withdrawal syndrome	414819007
+articular gout (disorder)	48440001
+blood in feces	405729008
+angle-closure glaucoma	392291006
+fresh blood passed per rectum	405729008
+impaired renal function	236423003
+liver cyst (disorder)	85057007
+muscle bulk	271696003
+partial sight	7973008
+infarction of heart	22298006
+respiratory obstruction	79688008
+interstitial lung disease	233703007
+sensory disorder (finding)	85972008
+disease of musculoskeletal system (disorder)	928000
+toothache	27355003
+disorder of rectum (disorder)	5964004
+anisocytosis	165475005
+pathologic erection	6273006
+interstitial lung disease (disorder)	233703007
+infective vaginitis	237091009
+localized pain	112104007
+hesitancy of micturition	5972002
+hyperaemia	30098003
+disease of cardiovascular system (disorder)	49601007
+bloody stool	405729008
+disorder of nail (disorder)	17790008
+gastroesophageal reflux disease (disorder)	235595009
+dyslipidemia	370992007
+increased food appetite	72405004
+hypomelanosis	23006000
+large breast	372283008
+dependent edema	248499004
+postural hypotension	28651003
+hypomanic mood	281257007
+synovitis	416209007
+tooth disorder (disorder)	234947003
+aseptic meningitis (disorder)	301770000
+mycosis	3218000
+urinary hesitancy	5972002
+polyinfection, nos	4559000
+disorder of cervix	63339007
+rhinitis, nos	70076002
+inflammation of fallopian tube	88157006
+osteopathia, nos	76069003
+mycotic disease	3218000
+estrogen effect	86513005
+early satiety	442076002
+tendovaginitis	67801009
+watery eye (finding)	420103007
+deep vein thrombosis	128053003
+pancreatitis (disorder)	75694006
+anisocytosis, red cells (finding)	165475005
+disorder of immune system (disorder)	41266007
+irregular pulse	61086009
+chronic venous insufficiency	20696009
+visual impairment	7973008
+thinning of skin	277797007
+pleurisy (disorder)	196075003
+thrombotic thrombocytopenic purpura	78129009
+dental disease	234947003
+gastrointestinal alteration	61578001
+disorders of the sleep-wake schedule	271794005
+bloody stool	405729008
+hungry (finding)	55350005
+hypohidrosis	45004005
+muscle weakness of limb (finding)	713514005
+acute renal failure syndrome	14669001
+tenosynovitis	67801009
+poor long-term memory	247588002
+red colour	386713009
+herpes simplex viral infection	88594005
+acute infective polyneuritis	40956001
+night sweats (finding)	42984000
+fibrocystic change of breast	27431007
+foreign body sensation (finding)	247342009
+infectious disorder of bronchus (disorder)	233795005
+primary polycythaemia	109992005
+tracheitis (disorder)	62994001
+tearing eye	420103007
+localised pain	112104007
+homicidal ideation	225450009
+renal dysfunction	236423003
+granulomatous enteritis	34000006
+intraocular inflammation	128473001
+gilberts syndrome	27503000
+common wart	57019003
+gynaecomazia	4754008
+word finding difficulty	229738006
+loose muscle tone	398152000
+chronic pain	82423001
+neonatal drug withdrawal syndrome	414819007
+suicidal behaviour	425104003
+fetal alcohol syndrome (disorder)	205788004
+disorder of ejaculation (disorder)	386790008
+ankle swelling	267039000
+bone disease	76069003
+infection of bronchus	233795005
+black tongue	81934005
+renotubular acidemia	1776003
+lymphocytosis	67023009
+ileitis (disorder)	52457000
+prostatitis caused by bacteria	281801000009108
+tender breasts	55222007
+generalized seizure (finding)	246545002
+abscess morphology	44132006
+transformed migraine	427419006
+sensory anesthesia	33653009
+muscle hypotonia	398152000
+angiopathy	27550009
+polyneuropathy (multiple nerve disorder)	42345000
+fecal impaction (disorder)	44635007
+pruritus ani (disorder)	90446007
+skin irritation	367466007
+anisocytosis, red cells	165475005
+hypertriglyceridemia	302870006
+hypopigmentation of skin (disorder)	23006000
+angiopathy	27550009
+finding of movement of visual image (finding)	246650003
+flat affect (finding)	932006
+benign unconjugated bilirubinaemia syndrome	27503000
+dyslipidemia (disorder)	370992007
+tenosynovitis	67801009
+infectious disorder of bronchus (disorder)	233795005
+pilosis	399939002
+hypomagnesemia (disorder)	190855004
+vascular disease (disorder)	27550009
+feeling drunk	102897001
+articular gout	48440001
+tooth abscess	299709002
+oligohidrosis	45004005
+hypotonia	398152000
+atopic neurodermatitis	200775004
+crohn's disease (disorder)	34000006
+proptosis	18265008
+acute renal failure syndrome (disorder)	14669001
+hyponatraemia	89627008
+nearsightedness	57190000
+disease of musculoskeletal system (disorder)	928000
+tenontolemmitis	67801009
+corneal erosion	50792001
+cmo - cystoid macular oedema	193387007
+paraparesis (disorder)	1845001
+mixed infectious disease	4559000
+fibrocystic mastopathy	27431007
+uremia	44730006
+paralysis of tongue (disorder)	38228000
+disorder of optic nerve (disorder)	77157004
+acute intermittent porphyria	234422006
+general unsteadiness	271713000
+congenital familial cholaemia	27503000
+restless legs syndrome	32914008
+disorder of blood vessel (disorder)	27550009
+mi - myocardial infarction	22298006
+colon inflammation	64226004
+fasting	16985007
+pulmonary embolism (disorder)	59282003
+macular oedema	37231002
+distention of vein	248495005
+mosaic wart	57019003
+bekhterev's disease	9631008
+hirsutes	399939002
+acid reflux	235595009
+gilbert's syndrome (disorder)	27503000
+odynophagia	30233002
+feces - impacted	44635007
+laryngitis (disorder)	45913009
+gastroesophageal reflux disease	235595009
+reduced libido (finding)	8357008
+maculopathy	312999006
+trembling	26079004
+infection of tooth (disorder)	427898007
+steroid facies	67967009
+trichinellosis	709018004
+fetal alcohol syndrome (disorder)	205788004
+macular edema	37231002
+difficulty seeing	7973008
+pain in pelvis	30473006
+decreased vision	7973008
+vasculitis of the skin (disorder)	53312001
+tuberculosis of respiratory system	700272008
+liver cyst	85057007
+neuralgia-neuritis of sciatic nerve	23056005
+primary dilated cardiomyopathy	195021004
+exophthalmos (disorder)	18265008
+gastro-esophageal reflux	235595009
+nose running	267101005
+ulcer of anus	20928004
+faecal impaction of rectum	44635007
+reduced ability to see	7973008
+ekbom syndrome	32914008
+schimmelbusch's disease	27431007
+finding of movement of visual image (finding)	246650003
+phototoxic dermatitis, nos	53597009
+heart attack, nos	22298006
+bone disease, nos	76069003
+gingival hemorrhage	86276007
+periodontal abscess (disorder)	83412009
+hypotonus	398152000
+disorder of autonomic nervous system (disorder)	15241006
+pulmonary congestion, nos	67599009
+diabetes insipidus (disorder)	15771004
+familial nonhaemolytic jaundice	27503000
+angle-closure glaucoma (disorder)	392291006
+dental infection	427898007
+acute otitis media, nos	3110003
+disorder of stomach	29384001
+sighing respiration	25423001
+semisolid stools	27731006
+angiitis	31996006
+uraemia	44730006
+thrombotic microangiopathy	78129009
+diffuse cystic mastopathy	27431007
+obese (finding)	414915002
+problem sight	7973008
+tearful	271951008
+duodenitis, nos	72007001
+uricacidemia	35885006
+myocardial disease (disorder)	57809008
+visual disorder	7973008
+macular disease	312999006
+reflux gastritis (disorder)	57433008
+suicidal behavior (finding)	425104003
+soft feces	27731006
+juvenile idiopathic arthritis (disorder)	410502007
+postoperative pain (finding)	213299007
+bacterial vaginosis	419760006
+neonatal withdrawal syndrome	414819007
+incomplete atrioventricular block, first degree	270492004
+infectious disease of abdomen (disorder)	128070006
+feeling intoxicated (finding)	102897001
+congestive cardiac failure	42343007
+dysesthesia (abnormal sensation)	279079003
+swollen vein (finding)	248495005
+dependent edema	248499004
+infectious disease of abdomen (disorder)	128070006
+optic disc oedema	423341008
+gor - gastro-esophageal reflux	235595009
+lennox-gastaut syndrome (disorder)	230418006
+herpes simplex (disorder)	88594005
+abnormal digestive tract function (finding)	61578001
+cardiac fibrillation, nos	40593004
+tooth disorder	234947003
+vaginal synovitis	67801009
+bradypnea	86684002
+poor vision	7973008
+leukopenia	419188005
+forgetful (finding)	55533009
+policeman's heel	202882003
+mycosis (disorder)	3218000
+rhinitis (disorder)	70076002
+myocardial infarction	22298006
+breast tenderness	55222007
+worn out	60119000
+ankylosing spondylitis (disorder)	9631008
+shortened pr interval (finding)	49578007
+feeling groggy	102897001
+cutaneous small vessel vasculitis	718217000
+metallic taste	11193009
+slow respiration (finding)	86684002
+faecal impaction of rectum	44635007
+gonorrhoea	15628003
+trembling	26079004
+throat irritation (finding)	162400007
+cvd, nos	49601007
+decreased blood leucocyte number	419188005
+tuberculosis of meninges	58437007
+colitis (disorder)	64226004
+herpes simplex complex	88594005
+pain in lower limb (finding)	10601006
+trichinelliasis	709018004
+kidney stone	95570007
+ttp	78129009
+lymphocytosis	67023009
+acute inflammatory demyelinating polyradiculoneuropathy	40956001
+guillain barre syndrome	40956001
+cardiovascular disease	49601007
+disease of rectum	5964004
+infectious disease of abdomen	128070006
+disorder of coronary artery (disorder)	414024009
+tightness in throat	247323005
+bone disease	76069003
+angiitis, nos	31996006
+embolus	55584005
+cvs disease	49601007
+granulomatous enteritis	34000006
+optic disc edema	423341008
+marie-strumpell spondylitis	9631008
+crocodile tears	418035005
+complete atrioventricular block (disorder)	27885002
+phototoxicity (finding)	84326006
+bone pain	12584003
+ulcer of skin, nos	46742003
+rti - respiratory tract infection	275498002
+long-term memory loss	247588002
+anisocytosis	165475005
+arthritis due to gout	48440001
+gastrointestinal alteration	61578001
+glossodynia	30731004
+metabolic bone disease	50279003
+fibrocystic breast changes	27431007
+acute otitis media (disorder)	3110003
+disease caused by fungus, nos	3218000
+paralysis of both lower limbs	60389000
+immunity disorders	41266007
+di - diabetes insipidus	15771004
+myelosuppression (finding)	370569000
+interstitial pneumonia (disorder)	64667001
+guillain-barre syndrome (disorder)	40956001
+the shakes	26079004
+diabetic renal disease	127013003
+polyneuropathy (multiple nerve disorder)	42345000
+cardiac infarction, nos	22298006
+infectious disorder of kidney (disorder)	129128006
+mean blood pressure (observable entity)	6797001
+nephrolithiasis	95570007
+common wart	57019003
+vasculitis of the skin (disorder)	53312001
+glossodynia (disorder)	30731004
+ccf - congestive cardiac failure	42343007
+hypomagnesemia (disorder)	190855004
+periodontal abscess	83412009
+nightmares	419145002
+regional enteritis, nos	34000006
+metabolic bone disease (disorder)	50279003
+stomach discomfort	271681002
+disorder of sleep-wake cycle (disorder)	271794005
+alzheimer's disease, nos	26929004
+atrial fibrillation	49436004
+bundle branch block (disorder)	6374002
+tremor (finding)	26079004
+disorder of stomach (disorder)	29384001
+mucopurulent conjunctivitis	243321006
+crohn's disease (disorder)	34000006
+hunger	55350005
+disorder of cardiovascular system	49601007
+secondary adrenal insufficiency	16685009
+csr - central serous retinopathy	312956001
+hematopoietic aplasia (disorder)	304132006
+disorder of stomach	29384001
+disorder of ejaculation	386790008
+na deficiency, nos	89627008
+lymphocytosis (disorder)	67023009
+tongue ulceration	66123000
+solitary ulcer of anus	20928004
+hyperuricemia (disorder)	35885006
+rigidity, nos	16046003
+abnormal vision	7973008
+dry skin (finding)	16386004
+cme - cystoid macular edema	193387007
+gonorrhea	15628003
+tummy ache	271681002
+poor muscle tone (finding)	398152000
+nosocomial pneumonia	425464007
+flashes	56170001
+dribbling from mouth (finding)	62718007
+disease of rectum	5964004
+photosensitisation reaction	84326006
+panic	79823003
+dependent oedema	248499004
+regional enteritis	34000006
+laboratory finding abnormal (navigational concept)	309158009
+cutaneous leukocytoclastic angiitis	718217000
+increased energy	276301007
+infectious disorder of kidney	129128006
+red color	386713009
+infarction of heart, nos	22298006
+dysaesthesia	279079003
+nsv - nonspecific vaginitis	419760006
+central serous choroidopathy	312956001
+breakthrough bleeding	56169002
+body temperature above normal (finding)	50177009
+infectious disease of lung	128601007
+dysautonomia	15241006
+loss of power in limb	713514005
+nocturnal lower leg cramp	102549009
+disorder of heart muscle	57809008
+hyponatremia	89627008
+neuropathy	386033004
+increased diastolic blood pressure	23154005
+disorder of macula of retina	312999006
+word finding difficulty	229738006
+embolus (morphologic abnormality)	55584005
+orthostatic hypotension	28651003
+rigidity	16046003
+intermittent acute porphyria syndrome	234422006
+nasal discharge present (context-dependent category)	267101005
+alcohol intolerance (finding)	102612005
+kidney stone (disorder)	95570007
+low diastolic arterial pressure	42689008
+itching of ear (finding)	699392007
+abdominal discomfort	43364001
+verruca vulgaris	57019003
+osteosclerosis (disorder)	49347007
+pulmonary embolism	59282003
+boeck's sarcoid	31541009
+infection of bladder	236620008
+cataplexy (disorder)	46263000
+leg pain, nos	10601006
+slow respiration	86684002
+pulmonary disease	19829001
+vascular engorgement	30098003
+neonatal abstinence syndrome (disorder)	414819007
+uveoparotid fever	31541009
+angiopathy, nos	27550009
+urinary hesitancy	5972002
+metabolic disorder of bone	50279003
+swollen ankle (finding)	267039000
+atopic conjunctivitis	231854006
+neonatal abstinence syndrome	414819007
+disease of prostate	30281009
+rickets, nos	41345002
+infection by larvae of trichinella (disorder)	709018004
+somniloquism	36321004
+dental abscess (disorder)	299709002
+increased appetite (finding)	72405004
+black tongue	81934005
+thrombocytopenic purpura	302873008
+disease of rectum (disorder)	5964004
+neutrophil count below reference range	165517008
+mastitis (disorder)	45198002
+simple partial seizures with consciousness preserved	79348005
+disorder of testis (disorder)	64910008
+rickets	41345002
+hypomelanosis	23006000
+leucoderma	23006000
+hunger pangs	55350005
+hypoadrenalism	237785004
+vasculitis, nos	31996006
+primary dilated cardiomyopathy (disorder)	195021004
+disease of stomach (disorder)	29384001
+myelitis (disorder)	41370002
+orthostatic hypotension (disorder)	28651003
+wc - whooping cough	27836007
+opportunistic infectious disease	61274003
+bacterial vaginosis (disorder)	419760006
+rheumatoid arthritis of spine	9631008
+alcohol intolerance	102612005
+phototoxicity	84326006
+psychiatric symptom (finding)	75864003
+presyncope	427461000
+polymicrobial infection	4559000
+immunity disorders	41266007
+guillain-barré syndrome	40956001
+phototoxic reaction	53597009
+bleeding ulcer (morphologic abnormality)	55075001
+vasculitis of the skin	53312001
+water intoxication syndrome	71785001
+senile vaginitis	52441000
+walking disability (finding)	228158008
+temporal arteritis	400130008
+colon inflammation	64226004
+hypertrophy of male breast	4754008
+disorder of cardiovascular system	49601007
+generalized convulsion	246545002
+cushingoid facies (finding)	67967009
+dehydration (disorder)	34095006
+despair	17029006
+benign lymphogranulomatosis of schaumann	31541009
+food interaction with drug	95907004
+movement disorder	60342002
+septicemic plague (disorder)	9012003
+disorder of uterine cervix (disorder)	63339007
+abnormal digestion	61578001
+perioral dermatitis	238751002
+av - anaerobic vaginosis	419760006
+enlarged prostate	249607009
+macromastia	372283008
+absence of sensation (finding)	33653009
+vascular headache (disorder)	128187005
+impaired walking	228158008
+tendinous synovitis	67801009
+opportunistic infectious disease	61274003
+movement disorder	60342002
+erythema nodosum (disorder)	32861005
+paraplegia (disorder)	60389000
+irregular menstruation	80182007
+itching of eye	74776002
+low serum potassium level - finding	166690008
+form of muscle (finding)	271696003
+blind spot	23388006
+impaired renal function	236423003
+disease of musculoskeletal system	928000
+facial spasm	32402008
+secondary adrenocortical insufficiency	16685009
+skin ulcer	46742003
+sleeptalking (finding)	36321004
+esophageal reflux	235595009
+hyperthyroidism, nos	34486009
+anal itch	90446007
+hyperemia (morphologic abnormality)	30098003
+sensation of something in-	247342009
+gastro-oesophageal reflux	235595009
+high body temperature	50177009
+clonic seizure (finding)	6208003
+pleuritis	196075003
+urethritis	31822004
+rheumatoid spondylitis	9631008
+infection of tooth	427898007
+superficial corneal ulcer	50792001
+decreased blood leukocyte number	419188005
+patch of erysipelas	44653001
+optic disc oedema	423341008
+disorder of lung (disorder)	19829001
+liquid faeces	398212009
+obese	414915002
+gc - gonococcus infection	15628003
+vasculitis	31996006
+muscular stiffness	16046003
+hand dermatitis	238539001
+uveitis (disorder)	128473001
+hairy tongue	81934005
+horton's disease	400130008
+metabolic disorder of bone	50279003
+foot pain (finding)	47933007
+distention of vein	248495005
+erysipelas	44653001
+engorgement	30098003
+general unsteadiness (finding)	271713000
+allorhythmic pulse	61086009
+forgetful	55533009
+watery stool	398212009
+right bundle branch block (disorder)	59118001
+trichinosis	709018004
+familial nonhaemolytic bilirubinaemia	27503000
+central serous chorioretinopathy (disorder)	312956001
+hyponatraemia	89627008
+infection of tooth (disorder)	427898007
+prostatitis (disorder)	9713002
+leucocytosis	414478003
+spondylosis deformans	9631008
+alzheimer disease	26929004
+right bundle branch block (disorder)	59118001
+crohn's disease	34000006
+infectious warts	57019003
+psychomotor retardation	398991009
+high diastolic arterial pressure	23154005
+excessive tear production	418035005
+disorder of nail (disorder)	17790008
+cutaneous leucocytoclastic angiitis	718217000
+sighing respiration (finding)	25423001
+mixed infection	4559000
+synovitis (disorder)	416209007
+hypopigmentation	23006000
+night sweats	42984000
+tender breasts	55222007
+boeck's sarcoidosis	31541009
+postoperative pain (finding)	213299007
+disease of prostate (disorder)	30281009
+chest wall pain	102588006
+irregular menstrual cycle	80182007
+prostatic disorder, nos	30281009
+primary proliferative polycythemia	109992005
+hand pain	53057004
+body temperature above reference range (finding)	50177009
+corneal erosion (disorder)	50792001
+kidney pain	274279008
+cmo - cystoid macular edema	193387007
+erythema multiforme minor (disorder)	123571000119104
+hyperuricemia, nos	35885006
+connective tissue disease	105969002
+gastroenteritis, nos	25374005
+disorder of testis	64910008
+pertussis (disorder)	27836007
+mean blood pressure	6797001
+excitability	102893002
+drooling	62718007
+sinusitis	36971009
+herpes simplex complex	88594005
+lupus pernio of besnier	31541009
+paraplegia	60389000
+sleepwalking disorder	80495009
+eye infection	128351009
+tuberculous	371569005
+tuberculous (qualifier value)	371569005
+erythrocyte sedimentation rate (esr) raised	165468009
+pruritus ani (finding)	90446007
+partial deafness (disorder)	343087000
+secondary hypocortisolism	16685009
+lack of concentration	60032008
+embolus, nos	55584005
+cardiovascular disease, nos	49601007
+mean arterial pressure	6797001
+polycythaemia vera (clinical)	109992005
+abnormal ecg	102594003
+partial deafness (finding)	343087000
+disorder of circulatory system, nos	49601007
+renal impairment	236423003
+cystic disease of breast	27431007
+human papilloma virus infection of skin	57019003
+blood pressure alteration (finding)	129899009
+gynaecomastia	4754008
+bacterial vaginitis	419760006
+disturbed nyctohemeral rhythm	271794005
+iritis, nos	65074000
+abnormal vision	7973008
+otitis (disorder)	43275000
+body odour finding	301340007
+as - ankylosing spondylitis	9631008
+myocardial infarct	22298006
+tuberculous meningitis	58437007
+trichinelliasis	709018004
+paresis	26544005
+laboratory finding abnormal (navigational concept)	309158009
+watery eye (finding)	420103007
+has a tremor	26079004
+single organ dysfunction (disorder)	251526004
+disorder of optic nerve	77157004
+abscess (morphologic abnormality)	44132006
+liquid stool	398212009
+disease of cardiovascular system	49601007
+disorder of immune system (disorder)	41266007
+word finding difficulty (disorder)	229738006
+mi - myocardial infarction	22298006
+interstitial lung disease (disorder)	233703007
+hyperemia	30098003
+superadded infection	193198003
+diabetic peripheral neuropathy	424736006
+sleep talking	36321004
+liquid stool (finding)	398212009
+watery eye	420103007
+hypocalcemia syndrome	5291005
+angle-closure glaucoma	392291006
+superadded infection	193198003
+inflammatory bowel disease, nos	24526004
+temporal giant cell arteritis	400130008
+tenontolemmitis	67801009
+hip joint pain	49218002
+erythrocythaemia	109992005
+pulmonary congestion	67599009
+ischaemic colitis, nos	30588004
+alzheimer's disease (disorder)	26929004
+tearing eye	420103007
+irregular menstrual cycle	80182007
+symptoms of depression (finding)	394924000
+rta	1776003
+forgetful (finding)	55533009
+gynecomastia	4754008
+gingival bleeding	86276007
+papilledema	423341008
+soft faeces	27731006
+uraemia	44730006
+anaesthesia	33653009
+soreness of tongue	30731004
+peridental abscess	83412009
+juvenile idiopathic arthritis (disorder)	410502007
+landry-guillain-barré syndrome	40956001
+inflammatory disorder of ear	43275000
+opportunistic infectious disease (disorder)	61274003
+urethritis, nos	31822004
+vaquez's disease	109992005
+neuropathy	386033004
+liver cyst (disorder)	85057007
+renotubular acidemia	1776003
+post-prandial hypoglycaemia	237638000
+fecal impaction	44635007
+gbs - guillain-barre syndrome	40956001
+early satiety (fullness)	442076002
+ischaemic colitis	30588004
+alcohol intolerance	102612005
+paraplegia (disorder)	60389000
+water intoxication syndrome	71785001
+tremor, nos	26079004
+disorder of nail	17790008
+viral bronchitis	16146001
+dyskinesia	9748009
+drool	62718007
+salpingitis	88157006
+increased appetite	72405004
+liver cyst (disorder)	85057007
+embolism - lesion	55584005
+torsade de pointes	31722008
+increased energy (finding)	276301007
+landry-guillain-barré syndrome	40956001
+clonic seizure (finding)	6208003
+observation of form of skeletal muscle	271696003
+form of muscle (finding)	271696003
+disease of bone (disorder)	76069003
+pe - pulmonary embolism	59282003
+vascular disease	27550009
+pounding heart (finding)	248657009
+on examination - dry lips (context-dependent category)	275943004
+narcolepsy (disorder)	60380001
+high blood cholesterol/triglycerides	370992007
+eye displaced forwards	18265008
+motor retardation (finding)	398991009
+papilloedema	423341008
+patch of erysipelas	44653001
+disorder of sleep-wake schedule	271794005
+fibrocystic disease of breast (disorder)	27431007
+testicular disorder	64910008
+circadian dysregulation	271794005
+moon face	67967009
+detailed recall of dream	247953009
+swallowing painful (finding)	30233002
+inflammation of penis	371163003
+decreased diastolic arterial pressure	42689008
+laboured respiration	248549001
+abnormal ekg finding	102594003
+disorder of testis, nos	64910008
+clumsiness	7006003
+incontinence (finding)	48340000
+pain in oral cavity	102616008
+paroxysmal digital cyanosis	266261006
+panic reaction	79823003
+hip pain	49218002
+torsades de pointes (disorder)	31722008
+renal tubular acidosis, nos	1776003
+cardiovascular disorder, nos	49601007
+pulmonary congestion (disorder)	67599009
+walking disability	228158008
+paralysis of tongue (disorder)	38228000
+lymphocytosis, nos	67023009
+disorder of immune system (navigational concept)	41266007
+heaving	84480002
+disorder of prostate	30281009
+large prostate (finding)	249607009
+high grade atrioventricular block	27885002
+vasculitis of the skin, nos	53312001
+narcolepsy	60380001
+inflammation of urethra	31822004
+abnormal ecg (finding)	102594003
+flank pain (finding)	247355005
+diabetic renal disease (disorder)	127013003
+decrease in appetite (finding)	64379006
+atrophic vaginitis	52441000
+blepharospasm (disorder)	59026006
+disorder of coronary artery (disorder)	414024009
+chronic migraine	427419006
+metallic taste (finding)	11193009
+hirsutism	399939002
+sinus headache (finding)	4969004
+cutaneous cyst	285302001
+local congestion	30098003
+bronchial sepsis (disorder)	233795005
+hirsuties	399939002
+muscle strength reduced	26544005
+sleep walking disorder (disorder)	80495009
+ef - epileptic fit	246545002
+pharyngeal dryness (finding)	102618009
+paraparesis	1845001
+odynophagia	30233002
+photopsia (disorder)	56170001
+bacterial prostatitis	281801000009108
+dysautonomia, nos	15241006
+esr raised (finding)	165468009
+cushingoid facies	67967009
+feeling despair	17029006
+facial palsy (disorder)	280816001
+hepatic cyst	85057007
+infectious disease of abdomen	128070006
+feeling groggy	102897001
+c/o - cough (context-dependent category)	272039006
+disease of uterine cervix	63339007
+ccf - congestive cardiac failure	42343007
+polycythemia rubra vera	109992005
+polycythemia vera	109992005
+cold sweat (finding)	83547004
+drug withdrawal (disorder)	363101005
+infection of ear (disorder)	129127001
+serous macular detachment	312956001
+dribbling from mouth	62718007
+drooling	62718007
+low-grade chronic hyperbilirubinaemia syndrome	27503000
+connective tissue disease	105969002
+complete atrioventricular block (disorder)	27885002
+priapism (disorder)	6273006
+disease of cardiovascular system (disorder)	49601007
+stress at work	276074009
+lower abdominal pain	54586004
+restless legs (disorder)	32914008
+hypocalcemia (disorder)	5291005
+chest wall pain (finding)	102588006
+furunculosis (morphologic abnormality)	112650006
+hypercholesterolemia, nos	13644009
+mbp - mean blood pressure	6797001
+whooping cough	27836007
+epigastric discomfort (finding)	119416008
+toothache (finding)	27355003
+diabetes mellitus (disorder)	73211009
+infection of abdomen	128070006
+painful penile erection (finding)	8034008
+dry heaves	84480002
+atrial fibrillation (disorder)	49436004
+increased energy	276301007
+movement of visual image	246650003
+large prostate	249607009
+pericarditis	3238004
+toe-walking gait (finding)	250018006
+muscle stiffness	16046003
+superinfection () #02	193198003
+candidiasis of skin (disorder)	49883006
+kidney pain	274279008
+phototoxic dermatitis (disorder)	53597009
+sore tummy	271681002
+scotoma, nos	23388006
+black hairy tongue (disorder)	81934005
+macular retinal edema	37231002
+chf - congestive heart failure	42343007
+disorder of peripheral autonomic nervous system, nos	15241006
+adrenal suppression	16685009
+pain in tooth	27355003
+poor appetite	64379006
+status epilepticus	230456007
+showers of floaters	162278001
+complete atrioventricular block	27885002
+inflammation of urethra	31822004
+neuropathy co-occurrent and due to diabetes mellitus	230572002
+passage of bloody stools	405729008
+viral warts due to papilloma virus	57019003
+gonococcal infection, nos	15628003
+poor muscle tone	398152000
+raised serum potassium level	166689004
+disorder of vegetative system	15241006
+ejaculation disorder	386790008
+pulse irregular	61086009
+incontinence, nos	48340000
+infection due to bordetella pertussis	27836007
+cvd - cardiovascular disease	49601007
+gc - gonococcus infection	15628003
+disorders of the sleep-wake schedule	271794005
+obese	414915002
+third degree heart block	27885002
+esophageal reflux	235595009
+large prostate	249607009
+superimposed infection (disorder)	193198003
+hypomanic mood (finding)	281257007
+infection of abdomen	128070006
+rickets (disorder)	41345002
+raynaud's phenomenon (finding)	266261006
+neonatal abstinence syndrome (disorder)	414819007
+deep vein thrombosis	128053003
+vitreous detachment	53772007
+c/o - cough (context-dependent category)	272039006
+infective cystitis	236620008
+hungry	55350005
+hypertriglyceridemia	302870006
+motor retardation	398991009
+leg pain	10601006
+impaired digestion	61578001
+near syncope	427461000
+hyponatraemia, nos	89627008
+foot pain	47933007
+temperature elevated	50177009
+diabetic nephropathy	127013003
+variable menstrual cycle	80182007
+kidney stone	95570007
+disorder of ejaculation (disorder)	386790008
+somnambulism	80495009
+disorder of rectum	5964004
+feeling intoxicated	102897001
+washed out	60119000
+painful tongue	30731004
+vascular disease, nos	27550009
+ulcer of anus	20928004
+shortened pr interval	49578007
+cushingoid facies (finding)	67967009
+crevicular bleeding of gum	86276007
+aom - acute otitis media	3110003
+deep venous thrombosis	128053003
+candidiasis of skin	49883006
+vitreous detachment (disorder)	53772007
+sore mouth (finding)	162011005
+respiratory tract infection	275498002
+cutaneous small vessel vasculitis	718217000
+gastresophageal reflux disease	235595009
+hypoadrenalism (disorder)	237785004
+toe walking	250018006
+faecal impaction	44635007
+diabetes insipidus	15771004
+post-prandial hypoglycaemia	237638000
+night sweats (finding)	42984000
+pain in pelvis (finding)	30473006
+low vision	7973008
+symptoms of depression (finding)	394924000
+soft faeces	27731006
+immobile	102491009
+opportunistic infectious disease (disorder)	61274003
+break through bleeding	56169002
+localized pain	112104007
+hip pain	49218002
+hydroblepharon	89091004
+sarcoidosis (disorder)	31541009
+tb - tuberculous meningitis	58437007
+neuropathy co-occurrent and due to diabetes mellitus (disorder)	230572002
+papilledema	423341008
+disorder of nail	17790008
+motor retardation	398991009
+incomplete paralysis	26544005
+first degree atrioventricular block (disorder)	270492004
+disorder of testis	64910008
+cramp in lower leg associated with rest	102549009
+hip pain (finding)	49218002
+trichiniasis	709018004
+flank pain	247355005
+impaired walking	228158008
+breast tenderness (finding)	55222007
+myocardial infarct	22298006
+exhaustion	60119000
+aseptic meningitis	301770000
+disorder of vegetative system	15241006
+drug seeking behavior (finding)	441668002
+facial palsy	280816001
+candida of skin	49883006
+painful swallowing	30233002
+myopia (disorder)	57190000
+excessive hair growth (finding)	271607001
+osler-vaquez syndrome	109992005
+sensation of something in	247342009
+melanoglossia	81934005
+clonic seizure	6208003
+hand eczema	238539001
+pruritus of vagina	34363003
+obese (finding)	414915002
+edema of eyelid	89091004
+cheilitis	7847004
+sighing	25423001
+disease of lung	19829001
+hyponatremia (disorder)	89627008
+granulomatous enteritis, nos	34000006
+increased energy (finding)	276301007
+body temperature above normal (finding)	50177009
+lennox-gastaut syndrome	230418006
+salpingitis (disorder)	88157006
+bleeding of subgingival space	86276007
+ketosis (disorder)	2538008
+central serous chorioretinopathy	312956001
+hematochezia (finding)	405729008
+oral infection	275393007
+nail disease	17790008
+disease of connective tissues (disorder)	105969002
+paralysis of tongue	38228000
+benign essential blepharospasm	59026006
+chronic intermittent juvenile jaundice	27503000
+drug withdrawal syndrome in newborn	414819007
+ostealgia	12584003
+nose dripping	267101005
+cranial arteritis	400130008
+articular gout, nos	48440001
+monocytosis (disorder)	19636003
+disorder of uterine cervix, nos	63339007
+flank pain (finding)	247355005
+respiratory obstruction	79688008
+disease of prostate (disorder)	30281009
+poor vision	7973008
+upset tummy	162059005
+facial spasm (finding)	32402008
+dentalgia	27355003
+disease of cervix	63339007
+first degree atrioventricular block (disorder)	270492004
+aching sensation quality (qualifier value)	410711009
+myopia (disorder)	57190000
+photosensitive dermatitis	84326006
+acute tracheobronchitis	35301006
+generalised convulsion	246545002
+uraemia, nos	44730006
+painful hand	53057004
+pulmonary embolism (disorder)	59282003
+superimposed infection	193198003
+cutaneous leukocytoclastic angiitis	718217000
+diffuse cystic mastopathy	27431007
+gynecomastia (disorder)	4754008
+renal stone	95570007
+skin hypopigmented (disorder)	23006000
+herpes simplex infection	88594005
+torsades de pointes (disorder)	31722008
+secondary hypocortisolism (disorder)	16685009
+muscle twitch	60238002
+polyneuropathy (disorder)	42345000
+glossoplegia, nos	38228000
+labored breathing	248549001
+pure water depletion syndrome	34095006
+polycythemia vera	109992005
+pain on swallowing	30233002
+tuberculosis of meninges	58437007
+familial nonhemolytic bilirubinemia	27503000
+gelineau's syndrome	60380001
+prostatitis, nos	9713002
+alzheimers disease	26929004
+embarrassed airway	79688008
+gingivitis, nos	66383009
+first degree heart block	270492004
+muscular stiffness	16046003
+swallowing painful	30233002
+estrogen effect (morphologic abnormality)	86513005
+myelosuppression	370569000
+lexical retrieval deficit	229738006
+chest pain on exertion (finding)	81953000
+inhalation pneumonia	422588002
+viral warts due to papilloma virus	57019003
+gouty arthropathy	48440001
+arthritis due to gout (disorder)	48440001
+marie strumpell spondylitis	9631008
+urolithiasis, nos	95566004
+fibrocystic breast changes (finding)	27431007
+poor muscle tone	398152000
+intraocular inflammation	128473001
+erythrocythaemia	109992005
+myopia	57190000
+gastrooesophageal reflux disease	235595009
+gingivitis (disorder)	66383009
+burning sensation (finding)	90673000
+viral wart	57019003
+lip swelling	699376002
+tenovaginitis	67801009
+prostatitis	9713002
+rickets (disorder)	41345002
+renal infection	129128006
+complaining of cough	272039006
+disease of nail, nos	17790008
+dental disorder	234947003
+gci - gonococcal infection	15628003
+disease of testis	64910008
+gastroenteritis (disorder)	25374005
+disease of rectum, nos	5964004
+cutaneous leukocytoclastic angiitis (disorder)	718217000
+mixed infection	4559000
+lexical retrieval deficit	229738006
+painful swallowing	30233002
+disorder of circulatory system	49601007
+cranial diabetes insipidus	15771004
+gilbert-lereboullet syndrome	27503000
+ventricular bigeminy	11157007
+hand dermatitis	238539001
+abscess (morphologic abnormality)	44132006
+dvt - deep vein thrombosis	128053003
+spondylosis deformans	9631008
+nightmares	419145002
+dermatitis of hand	238539001
+fibrillation	40593004
+liquid feces	398212009
+hand eczema (disorder)	238539001
+bundle branch block	6374002
+en - erythema nodosum	32861005
+moschcowitz syndrome	78129009
+photopsia (disorder)	56170001
+diabetic peripheral neuropathy (disorder)	424736006
+tightness in throat (finding)	247323005
+monocytosis	19636003
+dizziness on standing up	407645004
+compartment syndrome (disorder)	111245009
+hand pain (finding)	53057004
+observation of form of skeletal muscle	271696003
+infective vaginitis (disorder)	237091009
+acute idiopathic polyneuritis	40956001
+phototoxic eczema	53597009
+edema of optic disc (disorder)	423341008
+neonatal abstinence syndrome	414819007
+increased diastolic arterial pressure (finding)	23154005
+flank pain	247355005
+distractibility	28102002
+secondary adrenocortical insufficiency	16685009
+symptoms of depression	394924000
+plantar fasciitis (disorder)	202882003
+hypocortisolism secondary to another disorder (disorder)	16685009
+complete heart block	27885002
+abnormal digestive tract function	61578001
+skin hypopigmented (disorder)	23006000
+infective cystitis (disorder)	236620008
+burning sensation (finding)	90673000
+gynecomazia	4754008
+slow breathing	86684002
+bbb - bundle branch block	6374002
+intermittent acute porphyria	234422006
+laryngitis, nos	45913009
+weakness of face muscles (finding)	95666008
+facial swelling	278528006
+increased diastolic arterial pulse pressure	23154005
+decreased muscle strength	26544005
+transformed migraine (disorder)	427419006
+retching	84480002
+hypocalcaemia	5291005
+cystoid macular edema (disorder)	193387007
+lip swelling	699376002
+gross cystic disease of breast	27431007
+twitch	60238002
+fasting	16985007
+podalgia	47933007
+pruritus ani (disorder)	90446007
+mycoses	3218000
+lower paraplegia	60389000
+red color	386713009
+stomach ache	271681002
+urinary hesitation	5972002
+thin skin (finding)	277797007
+pussey spot	271760008
+mixed infectious disease (disorder)	4559000
+simple partial seizure, consciousness not impaired	79348005
+gor - gastro-oesophageal reflux	235595009
+phototoxic dermatitis	53597009
+diabetic renal disease (disorder)	127013003
+vascular disorder	27550009
+sensory anaesthesia	33653009
+disease of nail (disorder)	17790008
+fecal impaction of rectum	44635007
+disorder of ejaculation	386790008
+electrocardiogram abnormal	102594003
+labored breathing (finding)	248549001
+allergic disorder of skin (disorder)	422290000
+sleeptalking (finding)	36321004
+disease of connective tissues	105969002
+decreased muscle strength	26544005
+weakness of face muscles (finding)	95666008
+tooth disease	234947003
+congenital familial cholemia	27503000
+muscle twitch (finding)	60238002
+exhaustion (finding)	60119000
+chest pain on exertion (finding)	81953000
+abdominal discomfort (finding)	43364001
+alcohol intolerance (finding)	102612005
+chronic cystic mastitis	27431007
+cvd	49601007
+congestive heart failure	42343007
+feeling intoxicated	102897001
+ejaculation disorder	386790008
+oesophageal reflux	235595009
+dentalgia	27355003
+diabetic renal disease	127013003
+observation of body odor	301340007
+crohns disease	34000006
+cold feet (finding)	271585001
+neurodermatitis (disorder)	267854005
+break through bleeding	56169002
+awkwardness	7006003
+perforation of intestine	56905009
+otitis	43275000
+impacted feces	44635007
+gingival crevicular bleeding	86276007
+inflammatory disorder of ear	43275000
+disorder of the circulatory system	49601007
+neutropenia (finding)	165517008
+muscle hypotonicity	398152000
+sensory anaesthesia	33653009
+muscle weakness (finding)	26544005
+enteritis	64613007
+metallic taste (finding)	11193009
+regional enteritis	34000006
+dizziness on standing up (finding)	407645004
+pruritus of vagina (disorder)	34363003
+intermittent acute porphyria syndrome	234422006
+stomach ache	271681002
+abscess morphology	44132006
+atrophic vaginitis (disorder)	52441000
+acute inflammatory neuropathy	40956001
+right bundle branch block	59118001
+fascicular block	6374002
+abnormal laboratory findings	309158009
+colitis, nos	64226004
+ttp - thrombotic thrombocytopenic purpura	78129009
+liver cyst	85057007
+panic state	79823003
+variable menstrual cycle	80182007
+infectious disease of lung (disorder)	128601007
+hypopigmentation of skin, nos	23006000
+sinus headache	4969004
+infectious disorder of bronchus	233795005
+excessive tear production	418035005
+mycosis (disorder)	3218000
+herpes simplex without mention of complication	88594005
+fungal infection	3218000
+mixed infectious disease, nos	4559000
+anisocytosis, red cells	165475005
+acute tracheobronchitis	35301006
+alzheimers disease	26929004
+af - atrial fibrillation	49436004
+muscle weakness (finding)	26544005
+stomach ache (finding)	271681002
+abnormal ecg (finding)	102594003
+cardiac infarction	22298006
+dysesthesia (finding)	279079003
+muscle bulk	271696003
+drug withdrawal	363101005
+bronchial sepsis (disorder)	233795005
+nasal discharge present (finding)	267101005
+neutropenia	165517008
+dry skin (finding)	16386004
+itching of eye (finding)	74776002
+bacterial vaginosis	419760006
+disturbance in thinking	26628009
+nasal discharge present (finding)	267101005
+abnormal platelet	127566005
+diabetic peripheral neuropathy (disorder)	424736006
+compartment syndrome, nos	111245009
+inflammation of tendon sheath	67801009
+erythrocyte sedimentation rate raised (finding)	165468009
+trachyonychia (disorder)	69192004
+pure water depletion syndrome	34095006
+periocular infection	128351009
+low-grade chronic hyperbilirubinaemia syndrome	27503000
+dependent edema (finding)	248499004
+dyskinesia (finding)	9748009
+bone pain (finding)	12584003
+bleeding ulcer	55075001
+cramp in lower leg associated with rest (finding)	102549009
+hesitancy	5972002
+wart	57019003
+clumsiness (finding)	7006003
+moschowitz's syndrome	78129009
+urolithiasis	95566004
+prostatitis (disorder)	9713002
+tearfulness	271951008
+body temperature above normal	50177009
+throat irritation	162400007
+viral bronchitis (disorder)	16146001
+leucopenia	419188005
+rhinitis (disorder)	70076002
+disorder of coronary artery	414024009
+cheilitis, nos	7847004
+peridental abscess	83412009
+hemorrhagic diarrhea	95545007
+thrombocytopenia	415116008
+blind spot	23388006
+partial deafness (disorder)	343087000
+ulcer of anus (disorder)	20928004
+reduced ability to see	7973008
+abdominal discomfort (finding)	43364001
+rubor	386713009
+crohn's regional enteritis	34000006
+paralysis of tongue, nos	38228000
+increased blood leukocyte number	414478003
+trismus	87866006
+mycosis, nos	3218000
+chest pain on exertion	81953000
+semisolid stools	27731006
+sensory disorder (disorder)	85972008
+candidosis of skin	49883006
+optic neuropathy	77157004
+detailed recall of dream (finding)	247953009
+status epilepticus	230456007
+infection due to neisseria gonorrheae	15628003
+disorder of connective tissue (disorder)	105969002
+lung disorder	19829001
+hypocalcemia	5291005
+temporal giant cell arteritis	400130008
+crohn disease	34000006
+foot pain (finding)	47933007
+dependent oedema	248499004
+generalized seizure (finding)	246545002
+menstrual periods irregular	80182007
+disease of nail	17790008
+diabetic neuropathy	230572002
+brbpr	405729008
+presbyopia (disorder)	41256004
+hypohydrosis	45004005
+warm skin (finding)	102599008
+sleepwalking disorder	80495009
+central serous chorioretinopathy	312956001
+watering eye	420103007
+ad - alzheimer's disease	26929004
+crohns disease	34000006
+hyperaemia	30098003
+salpingitis (disorder)	88157006
+primary proliferative polycythaemia	109992005
+lateral alveolar abscess	83412009
+skin ulcer (disorder)	46742003
+cataplexy (disorder)	46263000
+crying associated with mood (finding)	271951008
+rigor	16046003
+thin skin	277797007
+hypertriglyceridaemia	302870006
+awkwardness	7006003
+forgetful	55533009
+poor long-term memory (finding)	247588002
+erysipelas	44653001
+gastro-esophageal reflux	235595009
+disorder of bone (disorder)	76069003
+allergic conjunctivitis	231854006
+raynaud's phenomenon	266261006
+sleeptalking	36321004
+dm - diabetes mellitus	73211009
+reduced appetite	64379006
+movement of visual image	246650003
+gastro-oesophageal reflux disease	235595009
+partial deafness (finding)	343087000
+pustule (disorder)	271760008
+gastroenteritis	25374005
+pruritus ani	90446007
+suicidal behavior (finding)	425104003
+itching of eye	74776002
+rectal disorder	5964004
+trachyonychia	69192004
+hematochezia	405729008
+toothache	27355003
+chronic venous insufficiency	20696009
+solitary ulcer of anus	20928004
+respiratory tract infection (disorder)	275498002
+bundle branch block (disorder)	6374002
+decreased diastolic arterial pressure	42689008
+general unsteadiness (finding)	271713000
+endocarditis	56819008
+disorder of connective tissue	105969002
+slow breathing	86684002
+abscess	44132006
+inflammation of pancreas	75694006
+cutaneous ulcer	46742003
+intestinal perforation	56905009
+delay when starting to pass urine (finding)	5972002
+toothache (finding)	27355003
+muscular rigidity	16046003
+delay when starting to pass urine (finding)	5972002
+urethritis	31822004
+macular retinal edema (disorder)	37231002
+pyrroloporphyria	234422006
+feeling despair (finding)	17029006
+oral infection (disorder)	275393007
+chest wall pain	102588006
+glossopharyngeal neuralgia	43763009
+gilberts syndrome	27503000
+low muscle tone	398152000
+muscle weakness	26544005
+dehydration	34095006
+crohn's disease, nos	34000006
+bloody diarrhoea	95545007
+compartment syndrome, nos	111245009
+serous macular detachment	312956001
+body temperature above normal	50177009
+edema of optic disc	423341008
+carditis (disorder)	399617002
+ulcer on tongue	66123000
+single organ dysfunction (disorder)	251526004
+pain in pelvis (finding)	30473006
+feels shaky	271713000
+thrombotic thrombocytopenic purpura (disorder)	78129009
+trichiniasis	709018004
+spasm of cerebral arteries	73173006
+facial swelling (finding)	278528006
+inflammation of prostate	9713002
+periocular infection	128351009
+cyst of skin (disorder)	285302001
+floaters in visual field	162278001
+dvt	128053003
+stomach ache (finding)	271681002
+anal ulcer	20928004
+magnesium deficiency syndrome	190855004
+alzheimers disease	26929004
+reduced libido (finding)	8357008
+complaining of cough (finding)	272039006
+bloody diarrhea	95545007
+duodenitis (disorder)	72007001
+irregular menstrual bleeding	80182007
+laboratory finding abnormal	309158009
+exophthalmia	18265008
+foot swelling (finding)	297142003
+walking disability	228158008
+dyskinesia (finding)	9748009
+vasculitis of the skin	53312001
+oligohidrosis	45004005
+priapism	6273006
+hereditary nonhemolytic jaundice	27503000
+senile atrophic vaginitis	52441000
+itching of vagina	34363003
+congestive heart failure (disorder)	42343007
+rheumatoid spondylitis	9631008
+hypocalcemia	5291005
+visual field scotoma	23388006
+cutaneous leucocytoclastic angiitis	718217000
+observation of body odor	301340007
+hypocalcaemia	5291005
+food interaction with drug	95907004
+thrombotic thrombocytopenic purpura (disorder)	78129009
+hematochezia (finding)	405729008
+glossopharyngeal neuralgia (disorder)	43763009
+gilbert syndrome	27503000
+homicidal ideation	225450009
+ischemic colitis, nos	30588004
+increased diastolic blood pressure	23154005
+raynaud's phenomenon (finding)	266261006
+overactivity	28277004
+nasal discharge present (situation)	267101005
+skin allergy	422290000
+dysesthesia	279079003
+cheilitis	7847004
+corneal subepithelial haze	413921009
+irregular menstruation	80182007
+rhinitis	70076002
+diabetes insipidus, nos	15771004
+neonatal withdrawal syndrome	414819007
+macular retinal oedema	37231002
+bleeding ulcer	55075001
+intestinal perforation	56905009
+gastroesophageal reflux disease	235595009
+hospital acquired pneumonia	425464007
+macromastia	372283008
+gingival crevice bleeding	86276007
+hypocalcemia (disorder)	5291005
+carditis	399617002
+inverted t wave (finding)	59931005
+hyperthyroidism	34486009
+photosensitive dermatitis	84326006
+fibrocystic breast changes	27431007
+has a tremor	26079004
+carditis	399617002
+bundle branch block	6374002
+paroxysmal digital cyanosis	266261006
+irritation of nose	70076002
+skin irritation (disorder)	367466007
+rubor	386713009
+swollen face	278528006
+upset tummy	162059005
+nearsightedness	57190000
+atrophic vaginitis (disorder)	52441000
+pounding heart	248657009
+neurogenic diabetes insipidus	15771004
+osteopathia	76069003
+hap - hospital acquired pneumonia	425464007
+gross cystic disease of breast	27431007
+gastrooesophageal reflux disease	235595009
+pancreatitis	75694006
+psychomotor retardation	398991009
+fibrillation	40593004
+compartmental syndrome, nos	111245009
+pruritus of vagina	34363003
+en - erythema nodosum	32861005
+ventricular fibrillation (disorder)	71908006
+skin hypopigmented	23006000
+renal calculus	95570007
+weight increased (finding)	262286000
+hairiness	271607001
+sarcoidosis	31541009
+chronic venous insufficiency, nos	20696009
+dribbling from mouth (finding)	62718007
+pain in pelvis	30473006
+central serous retinopathy	312956001
+disease of connective tissues (disorder)	105969002
+urolithiasis (disorder)	95566004
+disorder of blood vessel (disorder)	27550009
+increased tendon reflexes	86854008
+narcoleptic syndrome	60380001
+increased libido	58436003
+soft stool	27731006
+acute renal failure syndrome	14669001
+acute renal failure syndrome, nos	14669001
+immobile	102491009
+disease of bone	76069003
+fetal alcohol syndrome	205788004
+gord - gastro-esophageal reflux disease	235595009
+uveitis	128473001
+myocardial infarction	22298006
+disorder of autonomic nervous system, nos	15241006
+pleurisy	196075003
+arthralgia of hip	49218002
+orthostatic hypotension (disorder)	28651003
+vascular disease (disorder)	27550009
+exophthalmos	18265008
+raised serum potassium level (finding)	166689004
+sensation of burning of skin	90673000
+skin allergy	422290000
+sensory disorder	85972008
+infectious disorder of kidney (disorder)	129128006
+low libido	8357008
+influenza-like symptoms	315642008
+ankylosing spondylitis	9631008
+homicidal thoughts (finding)	225450009
+cme - cystoid macular edema	193387007
+airway obstruction, nos	79688008
+hematochezia	405729008
+sensory loss	33653009
+superimposed infection	193198003
+disease of cervix	63339007
+macular disorder (disorder)	312999006
+cerebral arterial spasm	73173006
+near syncope	427461000
+pelvic pain, nos	30473006
+salpingitis, nos	88157006
+myocardial infarction (disorder)	22298006
+haematochezia	405729008
+benign unconjugated bilirubinaemia syndrome	27503000
+disorder of autonomic nervous system	15241006
+reduced appetite	64379006
+food hunger	55350005
+gastrointestinal alteration	61578001
+muscle rigidity (finding)	16046003
+lingua villosa nigra	81934005
+light flashes	56170001
+neuropathy (nerve damage)	386033004
+distractibility (finding)	28102002
+uveitis	128473001
+raynaud's phenomenon (disorder)	266261006
+nose running	267101005
+upset stomach (finding)	162059005
+diffuse parenchymal lung disease	233703007
+benign unconjugated bilirubinemia syndrome	27503000
+hypoadrenalism	237785004
+perioral dermatitis	238751002
+dyslipidemia (disorder)	370992007
+hypohidrosis (disorder)	45004005
+tooth disorder (disorder)	234947003
+gingivitis	66383009
+painful hand	53057004
+diabetic renal disease (disorder)	127013003
+muscle weakness of limb	713514005
+iritis (disorder)	65074000
+detached retina	42059000
+phototoxicity (finding)	84326006
+enteritis	64613007
+weepiness	271951008
+inflammatory bowel disease	24526004
+disease of bone, nos	76069003
+gingival crevice bleeding	86276007
+disorder of prostate (disorder)	30281009
+blepharospasm (spasm of eyelid)	59026006
+exaggeration of the deep reflexes	86854008
+foreign body sensation	247342009
+first degree heart block	270492004
+disorder of macula of retina (disorder)	312999006
+senile vaginitis	52441000
+behavior showing increased motor activity (finding)	28277004
+faeces - impacted	44635007
+mouth ulcer	26284000
+fas - fetal alcohol syndrome	205788004
+disease of immune system, nos	41266007
+impacted stool in rectum	44635007
+cerebral arterial spasm	73173006
+congestive heart failure (disorder)	42343007
+herpes simplex infection	88594005
+problem seeing	7973008
+peripheral venous insufficiency (disorder)	20696009
+sighing respiration	25423001
+erythema of skin (finding)	444827008
+primary central diabetes insipidus	15771004
+epigastric discomfort	119416008
+bone marrow suppression	370569000
+map - mean arterial pressure	6797001
+tbm - tuberculous meningitis	58437007
+lymphocytosis (disorder)	67023009
+exaggeration of the deep reflexes	86854008
+tenderness of breasts	55222007
+gingival hemorrhage	86276007
+epileptic fit	246545002
+disorder of musculoskeletal system (disorder)	928000
+cd - crohn's disease	34000006
+cardiovascular disorder	49601007
+bronchial infection	233795005
+purulent conjunctivitis	243321006
+inflammation of small intestine (disorder)	64613007
+gingival bleeding	86276007
+stomach discomfort	271681002
+narrow-angle glaucoma	392291006
+diabetic peripheral neuropathy	424736006
+increased motor activity, nos	28277004
+suprainfection	193198003
+decreased renal function	76114004
+dvt	128053003
+polyneuropathy, nos	42345000
+bigeminy	11157007
+pericarditis (disorder)	3238004
+ketosis, nos	2538008
+verruca vulgaris (disorder)	57019003
+diabetes mellitus with neuropathy	230572002
+hyperuricaemia	35885006
+atrial fibrillation (disorder)	49436004
+lv - low vision	7973008
+otitis (disorder)	43275000
+narcolepsy (disorder)	60380001
+diabetic neuropathy	230572002
+hesitancy	5972002
+shakes	26079004
+body odor finding	301340007
+excessive tear production (finding)	418035005
+disorder of autonomic nervous system	15241006
+on examination - dry lips (disorder)	275943004
+hirsuties	399939002
+cold sweat (finding)	83547004
+fungal infection, nos	3218000
+primary dilated cardiomyopathy (disorder)	195021004
+erythema nodosum (disorder)	32861005
+bigeminal rhythm	11157007
+hydrocephalus	230745008
+sinus pain	4969004
+generalized seizure	246545002
+thrombotic thrombocytopenic purpura	78129009
+drug withdrawal (disorder)	363101005
+clap	15628003
+early satiety	442076002
+sleepwalking	80495009
+influenza-like symptoms (finding)	315642008
+aspiration pneumonia (disorder)	422588002
+pulse irregular (finding)	61086009
+oscillopsia	246650003
+corneal haze	413921009
+pleurisy	196075003
+foreign body sensation	247342009
+dizziness on standing up	407645004
+disorder of sleep-wake cycle	271794005
+renal disorder associated with diabetes mellitus	127013003
+polyinfection	4559000
+disorder of macula of retina	312999006
+acquired polyneuropathy, nos	42345000
+cold hands (finding)	271584002
+sciatic neuralgia	23056005
+pancreatitis	75694006
+oestrogen effect	86513005
+fibrillation (disorder)	40593004
+increased blood leukocyte number (finding)	414478003
+increased blood leukocyte number	414478003
+laboratory finding abnormal	309158009
+sinusitis	36971009
+alzheimer's disease (disorder)	26929004
+drug withdrawal	363101005
+bronchial sepsis	233795005
+irregular periods	80182007
+metallic taste	11193009
+showers of floaters	162278001
+verruca vulgaris	57019003
+bleeding on the pill	56169002
+high cholesterol	13644009
+increased motor activity	28277004
+darier-roussy sarcoid	31541009
+hyperuricemia (disorder)	35885006
+exertional chest pain	81953000
+on examination - dry lips (context-dependent category)	275943004
+hypercholesterolaemia	13644009
+clonic seizure	6208003
+nephrolith	95570007
+gastro-oesophageal reflux	235595009
+diabetes mellitus (disorder)	73211009
+diabetic peripheral neuropathy (disorder)	424736006
+hairiness	271607001
+leucocytosis	414478003
+nosocomial pneumonia (disorder)	425464007
+pounding heart (finding)	248657009
+acute renal failure syndrome (disorder)	14669001
+disorder of circulatory system	49601007
+pustule	271760008
+juvenile rheumatoid arthritis	410502007
+rbbb - right bundle branch block	59118001
+oscillopsia	246650003
+dry throat	102618009
+pituitary diabetes insipidus	15771004
+vasculitis (disorder)	31996006
+upset stomach (finding)	162059005
+breast enlargement	372283008
+hesitancy of micturition	5972002
+sleep walking	80495009
+painful erection	8034008
+soft tissue infection	95880003
+phototoxic dermatitis	53597009
+right fascicular block	59118001
+erysipelas (disorder)	44653001
+disorder of optic nerve (disorder)	77157004
+fungus infection	3218000
+involuntary trembling	26079004
+eye infection (disorder)	128351009
+neurodermatitis	267854005
+red colour	386713009
+disorder of macula lutea	312999006
+cataplexy	46263000
+interstitial lung disease	233703007
+hungry (finding)	55350005
+postmenopausal atrophic vaginitis	52441000
+stomach upset	271681002
+chf - congestive heart failure	42343007
+temporal arteritis (disorder)	400130008
+purulent conjunctivitis (disorder)	243321006
+thinning of skin	277797007
+acute porphyria	234422006
+finding of movement of visual image	246650003
+articular gout	48440001
+hyperuricemia	35885006
+congenital familial cholaemia	27503000
+paraplegia	60389000
+nail changes	416596008
+hirsutism (disorder)	399939002
+stress at work (finding)	276074009
+embolism	55584005
+muscular rigidity	16046003
+disorder of sleep-wake cycle (disorder)	271794005
+odontalgia	27355003
+nasal discharge present (situation)	267101005
+prostatitis caused by bacteria (disorder)	281801000009108
+decreased renal function	76114004
+duodenitis	72007001
+irregular periods (finding)	80182007
+acute porphyria	234422006
+increased appetite	72405004
+prostate disease	30281009
+laryngitis	45913009
+increased body temperature	50177009
+adrenal hypofunction	237785004
+perforation of intestine (disorder)	56905009
+temperature elevated	50177009
+mi - myocardial infarction	22298006
+myelitis	41370002
+drug seeking behavior	441668002
+transformed migraine (disorder)	427419006
+ulcer of mouth	26284000
+abnormal thinking	26628009
+body odour finding	301340007
+dependent edema (finding)	248499004
+candidiasis of skin (disorder)	49883006
+facial weakness	95666008
+infection caused by larvae of trichinella (disorder)	709018004
+uveitis (disorder)	128473001
+ulcer of mouth (disorder)	26284000
+uremia, nos	44730006
+polycythaemia vera	109992005
+pain in lower limb	10601006
+localised pain	112104007
+ventricular fibrillation	71908006
+fibrocystic mastopathy	27431007
+disease of testis, nos	64910008
+swelling of vein	248495005
+irregular uterine bleeding	80182007
+pancreatitis (disorder)	75694006
+hereditary nonhaemolytic jaundice	27503000
+irregular pulse	61086009
+inflammatory disorder of penis (disorder)	371163003
+decreased diastolic arterial	42689008
+status epilepticus (disorder)	230456007
+disorder of vegetative system, nos	15241006
+abscess	44132006
+scaliness of skin	271761007
+vasculitis	31996006
+neuropathy (disorder)	386033004
+somnanbulism	80495009
+abnormal ekg finding	102594003
+cvd	49601007
+pain in lower limb (finding)	10601006
+abdominal infection	128070006
+increased diastolic arterial pressure (finding)	23154005
+disorder of musculoskeletal system (disorder)	928000
+secondary adrenal insufficiency	16685009
+hypomanic mood (finding)	281257007
+lateral alveolar abscess	83412009
+dyskinesia	9748009
+epigastric discomfort	119416008
+ankylosing spondylitis, nos	9631008
+eye infection	128351009
+fragilitas unguium	69192004
+secondary infection	264569006
+cutaneous cyst	285302001
+bleeding on the pill	56169002
+coxalgia	49218002
+map - mean arterial pressure	6797001
+hypercholesterolaemia, nos	13644009
+leucopenia	419188005
+rta - renal tubular acidosis	1776003
+behaviour showing increased motor activity	28277004
+disorder of macula lutea	312999006
+bright red blood in stool	405729008
+lateral periodontal abscess	83412009
+haematopoietic aplasia	304132006
+gonococcal infection	15628003
+renal impairment	236423003
+washed out	60119000
+verruca simplex	57019003
+abscess	44132006
+acute otitis media (disorder)	3110003
+infectious disorder of kidney	129128006
+secondary infection (disorder)	264569006
+cramp in lower leg associated with rest (finding)	102549009
+tuberculosis of meninges (disorder)	58437007
+generalised fit	246545002
+porphyrinopathy	371628009
+hypomagnesaemia	190855004
+presyncope	427461000
+burning sensation	90673000
+involuntary quiver	26079004
+dribbling from mouth	62718007
+landry-guillain-barre syndrome	40956001
+tuberculous	371569005
+metabolic bone disease (disorder)	50279003
+heaving	84480002
+cheilitis (disorder)	7847004
+disease of stomach	29384001
+hyperreflexia (finding)	86854008
+articular gout (disorder)	48440001
+blepharospasm	59026006
+status epilepticus	230456007
+osteosclerosis	49347007
+erythrocythemia	109992005
+cold sweat	83547004
+skin ulcer (disorder)	46742003
+feces: blood	405729008
+hypertriglyceridaemia	302870006
+bright red blood per rectum	405729008
+rbc's - anisocytosis (finding)	165475005
+myocardial infarction, nos	22298006
+localized pain (finding)	112104007
+disorder of bone	76069003
+cholaemia familiaris simplex	27503000
+weight increased (finding)	262286000
+overactivity, nos	28277004
+guillain-barre syndrome	40956001
+thrombotic microangiopathy	78129009
+disease of musculoskeletal system	928000
+upset stomach	162059005
+gastro-esophageal reflux disease	235595009
+rheumatoid arthritis of spine, nos	9631008
+cystoid macular edema (disorder)	193387007
+exophthalmos (disorder)	18265008
+increased appetite (finding)	72405004
+generalised seizure	246545002
+disorder of blood vessel	27550009
+infection caused by larvae of trichinella	709018004
+raynaud phenomenon	266261006
+diabetes mellitus	73211009
+nasal discharge present (context-dependent category)	267101005
+burning sensation	90673000
+cyst of liver (disorder)	85057007
+toe walking	250018006
+night cramps	102549009
+quivering	26079004
+inhalation pneumonia	422588002
+phototoxic eczema	53597009
+abnormal thinking	26628009
+ketosis	2538008
+narrow-angle glaucoma	392291006
+inflammatory bowel disease (disorder)	24526004
+absence of sensation	33653009
+impacted feces	44635007
+fibrocystic disease of breast	27431007
+low diastolic arterial pressure	42689008
+foot swelling	297142003
+decrease in appetite (finding)	64379006
+suicidal behaviour	425104003
+cme - cystoid macular oedema	193387007
+perianal itch	90446007
+disease of cervix, nos	63339007
+infectious warts	57019003
+scotoma	23388006
+hunger, nos	55350005
+simple partial seizure, consciousness not impaired (disorder)	79348005
+degenerative disorder of macula (disorder)	422338006
+passage of bloody stools	405729008
+fetal alcohol syndrome	205788004
+watering eye	420103007
+kidney calculus	95570007
+fungal infection	3218000
+immobility	102491009
+skin ulcer	46742003
+cushingoid facies	67967009
+liquid stool	398212009
+bbb - bundle branch block	6374002
+psychiatric symptom	75864003
+disease caused by fungus	3218000
+tightness in throat (finding)	247323005
+neuralgia-neuritis of sciatic nerve	23056005
+trismus (finding)	87866006
+respiratory tuberculosis	700272008
+problem seeing	7973008
+drug withdrawal syndrome	363101005
+post-prandial hypoglycemia (disorder)	237638000
+pertussis	27836007
+weight increased (observable entity)	262286000
+lower abdominal pain (finding)	54586004
+increased diastolic arterial pressure	23154005
+nasal discharge present	267101005
+skin irritation (disorder)	367466007
+anal ulcer	20928004
+painful penile erection	8034008
+peripheral neuropathy co-occurrent and due to diabetes mellitus (disorder)	424736006
+myelosuppression (finding)	370569000
+disorder of rectum	5964004
+faeces: blood	405729008
+ef - epileptic fit	246545002
+macular retinal oedema	37231002
+atopic conjunctivitis (disorder)	231854006
+rheumatoid arthritis of spine	9631008
+hydrocephalus (disorder)	230745008
+blepharospasm (spasm of eyelid)	59026006
+superficial ulcer of cornea	50792001
+epileptic fit	246545002
+influenza-like symptoms (finding)	315642008
+mastitis	45198002
+disease caused by fungus	3218000
+cholemia familiaris simplex	27503000
+disorders of autonomic nervous system	15241006
+tightness in throat	247323005
+feces: blood	405729008
+renal pain	274279008
+vitreous detachment	53772007
+impaired digestion, nos	61578001
+hypertrophy of male breast	4754008
+aseptic meningitis (disorder)	301770000
+narrow angle glaucoma	392291006
+cyst of skin (disorder)	285302001
+plantar fasciitis (disorder)	202882003
+vaginal infection	237091009
+tuberculosis of respiratory system	700272008
+kidney infection	129128006
+decreased diastolic blood pressure	42689008
+soft tissue infection (disorder)	95880003
+policeman's heel	202882003
+distractability	28102002
+decreased kidney function	76114004
+tonic-clonic epilepsy	352818000
+lateral periodontal abscess	83412009
+disease of testis	64910008
+pleuritis	196075003
+glossodynia (disorder)	30731004
+disease of testis (disorder)	64910008
+low diastolic arterial	42689008
+bradypnea	86684002
+blepharospasm (disorder)	59026006
+facial paresis	95666008
+gastropathy	29384001
+feeling drunk	102897001
+allergic conjunctivitis	231854006
+cyst of skin	285302001
+somniloquism	36321004
+incontinence	48340000
+vasculitis (disorder)	31996006
+fungal infectious disease	3218000
+embolus (morphologic abnormality)	55584005
+furunculosis	112650006
+diabetes mellitus	73211009
+symptoms of depression	394924000
+acute intermittent porphyria	234422006
+marie strümpell spondylitis	9631008
+platelet count below reference range (finding)	415116008
+mixed infectious disease (disorder)	4559000
+difficulty walking	228158008
+blood pressure alteration (finding)	129899009
+lung infection	128601007
+myopia	57190000
+hydrocephaly	230745008
+acid reflux	235595009
+trismus	87866006
+drug seeking behaviour	441668002
+behaviour showing increased motor activity	28277004
+bloody diarrhea	95545007
+central serous retinopathy	312956001
+increased blood leucocyte number	414478003
+vascular engorgement	30098003
+breasts enlarged	372283008
+myelitis (disorder)	41370002
+breakthrough bleeding	56169002
+loss of power in limb	713514005
+infection of bronchus	233795005
+muscle stiffness	16046003
+ischemic colitis (disorder)	30588004
+disorder of autonomic nervous system (disorder)	15241006
+foetal alcohol syndrome	205788004
+stiffness (finding)	271587009
+disorder of the circulatory system	49601007
+psychiatric symptom (finding)	75864003
+paraparesis (disorder)	1845001
+clap	15628003
+circadian rhythm sleep-wake disorder	271794005
+cystoid macular edema	193387007
+tracheitis, nos	62994001
+weakness of face muscles	95666008
+macular disease	312999006
+erythrocyte sedimentation rate raised (finding)	165468009
+degenerative disorder of macula	422338006
+parietal abscess of tooth	83412009
+neurohypophyseal diabetes insipidus, nos	15771004
+chronic intermittent juvenile jaundice	27503000
+neonatal abstinence syndrome (disorder)	414819007
+abnormal platelet (morphologic abnormality)	127566005
+duodenitis (disorder)	72007001
+moon face	67967009
+disturbed nyctohemeral rhythm	271794005
+poor muscle tone (finding)	398152000
+maldigestion	61578001
+excitability (finding)	102893002
+high blood cholesterol/triglycerides	370992007
+distention of vein (finding)	248495005
+chronic cystic mastitis	27431007
+hypocortisolism secondary to another disorder	16685009
+disorder of prostate (disorder)	30281009
+hypoadrenalism (disorder)	237785004
+polycythaemia rubra vera	109992005
+postural hypotension	28651003
+facial nerve paralysis	280816001
+hematopoietic aplasia	304132006
+clumsiness (finding)	7006003
+superinfection () #02	193198003
+atopic neurodermatitis	200775004
+incontinence (finding)	48340000
+impaired vision	7973008
+embolism, nos	55584005
+inflammatory disorder of penis (disorder)	371163003
+gingivitis	66383009
+hyperemia	30098003
+prv - polycythemia rubra vera	109992005
+blepharospasm	59026006
+hypomanic mood	281257007
+pain in lower limb	10601006
+rta, nos	1776003
+separation of retinal layers	42059000
+newborn drug withdrawal syndrome	414819007
+hypohydrosis	45004005
+monocytosis, nos	19636003
+myocardial infarction (disorder)	22298006
+alcohol withdrawal syndrome	191480000
+pain on swallowing	30233002
+muscle twitch	60238002
+tummy ache	271681002
+sinusitis, nos	36971009
+itching of ear (finding)	699392007
+disease of uterine cervix (disorder)	63339007
+diabetic neuropathy (disorder)	230572002
+ventricular bigeminy (disorder)	11157007
+gastroenteritis	25374005
+inflammation of small intestine	64613007
+impaired digestion	61578001
+boecks sarcoidosis	31541009
+abnormal laboratory findings (finding)	309158009
+disorder of immune system, nos	41266007
+esr raised	165468009
+swollen vein	248495005
+disorder of uterine cervix	63339007
+cvs disease - cardiovascular system disease	49601007
+homicidal thoughts	225450009
+renal pain (finding)	274279008
+sensory retinal detachment	42059000
+deep venous thrombosis (disorder)	128053003
+complete heart block	27885002
+spasm of eyelids	59026006
+allergic contact dermatitis (disorder)	238575004
+alcohol withdrawal syndrome (disorder)	191480000
+gilbert's syndrome (disorder)	27503000
+absence of sensation (finding)	33653009
+crying associated with mood	271951008
+guillain-barré syndrome	40956001
+disease of stomach (disorder)	29384001
+fluid stool	398212009
+decreased blood leukocyte number (finding)	419188005
+tremor	26079004
+ulcer on tongue (disorder)	66123000
+optic disc edema (disorder)	423341008
+reflux gastritis (disorder)	57433008
+bone pain (finding)	12584003
+blepharoedema	89091004
+aching	410711009
+uricacidaemia	35885006
+perioral dermatitis (disorder)	238751002
+alzheimer's disease	26929004
+colitis (disorder)	64226004
+disease of uterine cervix, nos	63339007
+polycythemia vera (clinical)	109992005
+decreased blood leucocyte number	419188005
+oral cavity pain	102616008
+swollen foot	297142003
+impacted stool in rectum	44635007
+acg - angle closure glaucoma	392291006
+herpes simplex	88594005
+lack of sensation	33653009
+hand pain	53057004
+anisocytosis, red cells (finding)	165475005
+cystoid macular oedema	193387007
+dental abscess	299709002
+low-grade chronic hyperbilirubinemia syndrome	27503000
+black hairy tongue	81934005
+tonic-clonic epilepsy (disorder)	352818000
+sensory disturbance	85972008
+clumsiness	7006003
+spasm of eyelids	59026006
+aspiration pneumonia	422588002
+disease of rectum (disorder)	5964004
+pericardial effusion (disorder)	373945007
+re - regional enteritis	34000006
+cmo - cystoid macular edema	193387007
+disorder of cervix	63339007
+excessive tear production (finding)	418035005
+simple partial seizure, consciousness not impaired (finding)	79348005
+hydroblepharon	89091004
+disorder of sleep-wake cycle	271794005
+sleep walking disorder	80495009
+mosaic wart	57019003
+abdominal discomfort	43364001
+infection by larvae of trichinella	709018004
+osteosclerosis (disorder)	49347007
+skin hypopigmented	23006000
+essential blepharospasm	59026006
+haematopoietic aplasia	304132006
+renal calculus	95570007
+dry heaves	84480002
+break-through bleeding (finding)	56169002
+high body temperature	50177009
+re - regional enteritis	34000006
+infection due to neisseria gonorrhoeae	15628003
+red	386713009
+feels shaky	271713000
+fumbling	7006003
+pericardial effusion (disorder)	373945007
+osler's disease	109992005
+complaining of cough	272039006
+disease of bone	76069003
+nail changes (finding)	416596008
+panic reaction	79823003
+irregular menstrual cycle	80182007
+gor - gastro-esophageal reflux	235595009
+fibrillation, nos	40593004
+pleurisy (disorder)	196075003
+nail changes (finding)	416596008
+scaly skin (finding)	271761007
+disease of testis (disorder)	64910008
+hand eczema (disorder)	238539001
+cardiovascular system disease	49601007
+drug seeking	441668002
+painful mouth	102616008
+purulent conjunctivitis (disorder)	243321006
+hypertriglyceridemia (disorder)	302870006
+plantar fascial fibromatosis	202882003
+disease of stomach, nos	29384001
+nsv - nonspecific vaginitis	419760006
+decreased vision	7973008
+general unsteadiness	271713000
+gynecomastia	4754008
+tracheitis	62994001
+rhinitis	70076002
+decrease in appetite	64379006
+forgetfulness	55533009
+compartment syndrome	111245009
+reflux gastritis	57433008
+anal itch	90446007
+ankylosing spondylitis	9631008
+metabolic bone disease	50279003
+abnormal thinking, nos	26628009
+prv - polycythaemia rubra vera	109992005
+dental sepsis	299709002
+mbp - mean blood pressure	6797001
+immobile (finding)	102491009
+disease of the musculoskeletal system, nos	928000
+sensation of something in	247342009
+cutaneous hypersensitivity vasculitis	718217000
+generalized seizure	246545002
+hypocortisolism secondary to another disorder (disorder)	16685009
+infectious disease of lung	128601007
+uricacidemia, nos	35885006
+drug interaction with food	95907004
+peripheral neuropathy co-occurrent and due to diabetes mellitus	424736006
+low serum potassium level	166690008
+low serum potassium level (finding)	166690008
+erysipelas (disorder)	44653001
+sleep related lower leg cramp	102549009
+pruritus ani (finding)	90446007
+colonic ischemia	30588004
+generalized fit	246545002
+myelitis, nos	41370002
+macular oedema	37231002
+near sighted	57190000
+floaters in visual field	162278001
+oestrogen effect, nos	86513005
+ankle swelling	267039000
+rectal disorder, nos	5964004
+polymicrobial infection	4559000
+disease of lung, nos	19829001
+dizziness on standing up (finding)	407645004
+alcohol withdrawal syndrome	191480000
+watery stool	398212009
+inflammation of tendon sheath	67801009
+toe-walking gait	250018006
+infective cystitis	236620008
+dysesthesia (abnormal sensation)	279079003
+thrombocytopenic purpura	302873008
+vascular headache	128187005
+oral ulcer	26284000
+o/e - dry lips	275943004
+edema of eyelid (disorder)	89091004
+eye infection (disorder)	128351009
+cranial arteritis	400130008
+dysesthesia (finding)	279079003
+oral pain	102616008
+leukocytosis	414478003
+respiratory tract infection	275498002
+movement disorder (disorder)	60342002
+unable to concentrate	60032008
+brbpr - bright red blood per rectum	405729008
+laboured breathing	248549001
+large breast	372283008
+disorder of bone (disorder)	76069003
+aip - acute intermittent porphyria	234422006
+hyperthyroidism (disorder)	34486009
+the shakes	26079004
+hereditary nonhemolytic jaundice	27503000
+colonic ischaemia	30588004
+decreased blood leukocyte number	419188005
+sleep related lower leg cramp	102549009
+chronic pain (finding)	82423001
+feeding drive	55350005
+palpitations - pounding	248657009
+parodontal abscess	83412009
+sciatica neuralgia	23056005
+ear infection	129127001
+compartment syndrome (disorder)	111245009
+decreased diastolic arterial	42689008
+delay when starting to pass urine	5972002
+viral warts	57019003
+renal impairment (disorder)	236423003
+peripheral venous insufficiency (disorder)	20696009
+sore mouth	162011005
+achromoderma	23006000
+verruca vulgaris (disorder)	57019003
+ulcer on tongue	66123000
+sensory loss	33653009
+swallowing painful	30233002
+raynaud's phenomenon (disorder)	266261006
+painful penile erection (finding)	8034008
+hypocortisolism secondary to another disorder	16685009
+facial palsy	280816001
+stiffness	271587009
+pulmonary infection	128601007
+disorder of stomach (disorder)	29384001
+acute abscess	44132006
+periodontal abscess (disorder)	83412009
+generalised seizure	246545002
+has a temperature	50177009
+sarcoidosis (disorder)	31541009
+prostatomegaly	249607009
+observation of body odour	301340007
+dyslipidaemia	370992007
+compartmental syndrome, nos	111245009
+glossodynia	30731004
+ankylosing spondylitis (disorder)	9631008
+csc - central serous choroidopathy	312956001
+prostatomegaly	249607009
+congenital familial cholemia	27503000
+enteritis, inflammatory disorder of small intestine	64613007
+polycythaemia vera (clinical)	109992005
+long-term memory loss	247588002
+horton's disease	400130008
+fibrocystic breast changes (finding)	27431007
+perioral dermatitis (disorder)	238751002
+fibrocystic disease of breast	27431007
+painful mouth	102616008
+redness	386713009
+feces - impacted	44635007
+increased diastolic arterial	23154005
+problem sight	7973008
+septicemic plague	9012003
+inflammation of small intestine	64613007
+faecal impaction	44635007
+ventricular bigeminy (disorder)	11157007
+absence of sensation	33653009
+panic state	79823003
+pod - perioral dermatitis	238751002
+vitreous separation	53772007
+decreased diastolic arterial pressure (finding)	42689008
+fungus infection, nos	3218000
+exophthalmia	18265008
+nose dripping	267101005
+cutaneous leukocytoclastic angiitis (disorder)	718217000
+sore eye	302017001
+gingival crevicular bleeding	86276007
+shaking all over	26079004
+human papilloma virus infection of skin	57019003
+ge - gastroenteritis	25374005
+early satiety (finding)	442076002
+nosocomial pneumonia	425464007
+narrow angle glaucoma	392291006
+abnormal digestive tract function	61578001
+pilosis	399939002
+inflammation of small intestine (disorder)	64613007
+decreased blood leukocyte number (finding)	419188005
+iritis (disorder)	65074000
+hyponatremia, nos	89627008
+gouty arthritis, nos	48440001
+weepiness	271951008
+cold hands (finding)	271584002
+guillain barre syndrome	40956001
+breasts enlarged	372283008
+septicemic plague	9012003
+ulceration of oral mucosa	26284000
+early satiety (fullness)	442076002
+cholaemia familiaris simplex	27503000
+facial spasm	32402008
+hemorrhagic diarrhea (disorder)	95545007
+red	386713009
+high diastolic arterial pulse pressure	23154005
+hypocalcaemia syndrome	5291005
+gynecomastia (disorder)	4754008
+hip joint pain	49218002
+low serum potassium level (finding)	166690008
+hypomagnesaemia	190855004
+testicular disorder, nos	64910008
+visual field scotoma (finding)	23388006
+tremor	26079004
+tooth abscess	299709002
+water intoxication	71785001
+corneal subepithelial haze	413921009
+large prostate (finding)	249607009
+dental abscess (disorder)	299709002
+ulcer on tongue (disorder)	66123000
+gynecomazia	4754008
+body temperature above reference range	50177009
+throat irritation (finding)	162400007
+lip swelling (finding)	699376002
+stomach upset	271681002
+polycythemia vera (disorder)	109992005
+myelosuppression	370569000
+polycythemia vera (clinical)	109992005
+gonorrhea (disorder)	15628003
+muscle weakness of limb (finding)	713514005
+fecal impaction (disorder)	44635007
+dysaesthesia (abnormal sensation)	279079003
+distractibility (finding)	28102002
+polyinfection	4559000
+blood in stool	405729008
+gynaecomastia	4754008
+faeces: blood	405729008
+generalised convulsion	246545002
+acute post-infective radiculoneuropathy	40956001
+photosensitisation reaction	84326006
+slow respiration	86684002
+belly ache	271681002
+involuntary trembling	26079004
+ventricular bigeminy	11157007
+cold hands	271584002
+bleeding ulcer (morphologic abnormality)	55075001
+odontalgia	27355003
+senile atrophic vaginitis	52441000
+perforation of intestine, nos	56905009
+crevicular bleeding of gum	86276007
+increased body temperature	50177009
+pulmonary infection	128601007
+itching of ear	699392007
+heart attack	22298006
+reduced libido	8357008
+congestive cardiac failure	42343007
+soft tissue infection (disorder)	95880003
+detached retina	42059000
+dermatitis of hand	238539001
+post-prandial hypoglycemia	237638000
+paraplegia (complete or partial paralysis of legs)	60389000
+polyneuropathy	42345000
+pustule	271760008
+aching sensation quality (qualifier value)	410711009
+engorgement, nos	30098003
+gastresophageal reflux disease	235595009
+grand mal epilepsy	352818000
+weight increased (observable entity)	262286000
+hyperreflexia (finding)	86854008
+delay when starting to pass urine	5972002
+bronchial sepsis	233795005
+infectious disorder of bronchus	233795005
+alcohol withdrawal syndrome (disorder)	191480000
+infection of tooth	427898007
+word finding difficulty (disorder)	229738006
+exhaustion, nos	60119000
+fas - foetal alcohol syndrome	205788004
+panic (finding)	79823003
+high cholesterol	13644009
+dysautonomia	15241006
+t wave inversion	59931005
+soft tissue infection, nos	95880003
+aom - acute otitis media	3110003
+flashes	56170001
+phototoxic dermatitis (disorder)	53597009
+re - regional enteritis	34000006
+myocardial disease	57809008
+uremia (disorder)	44730006
+disorder of immune system	41266007
+excessive hair growth	271607001
+hemorrhagic diarrhea	95545007
+restless legs (disorder)	32914008
+juvenile idiopathic arthritis	410502007
+mycosis	3218000
+bleeding gums	86276007
+disorder of cardiovascular system (disorder)	49601007
+trichinellosis	709018004
+renotubular acidaemia	1776003
+drug interaction with food	95907004
+toe-walking gait (finding)	250018006
+tenosynovitis (disorder)	67801009
+abnormal laboratory findings (finding)	309158009
+cyst of liver	85057007
+renal tubular acidosis	1776003
+calculus of kidney	95570007
+bundle branch block, nos	6374002
+high diastolic arterial	23154005
+near syncope (disorder)	427461000
+disorder of blood vessel	27550009
+ta - temporal arteritis	400130008
+excitability (finding)	102893002
+feeling despair (finding)	17029006
+ventricular tachycardia, polymorphic with q-t prolongation	31722008
+ischemic colitis	30588004
+disease of connective tissues	105969002
+raynaud's phenomenon (disorder)	266261006
+melanoglossia	81934005
+form of muscle	271696003
+cholemia familiaris simplex	27503000
+leucoderma	23006000
+homicidal thoughts	225450009
+stress at work	276074009
+presbyopia (disorder)	41256004
+hypercholesterolemia	13644009
+nightmares (finding)	419145002
+floaters in visual field (finding)	162278001
+temporal arteritis (disorder)	400130008
+rigor	16046003
+candidiasis of skin	49883006
+viral wart	57019003
+allergic disorder of skin	422290000
+pharyngeal dryness	102618009
+mycoses	3218000
+warm skin (finding)	102599008
+aspiration pneumonia (disorder)	422588002
+trichinosis	709018004
+erythema multiforme minor (disorder)	123571000119104
+musculoskeletal disorder	928000
+facial swelling	278528006
+erythema of skin	444827008
+anesthesia	33653009
+gouty arthritis	48440001
+facial spasm, nos	32402008
+third degree heart block	27885002
+interstitial pneumonia	64667001
+lower abdominal pain	54586004
+odynophagia	30233002
+belly ache	271681002
+optic disc edema (disorder)	423341008
+renal disorder associated with diabetes mellitus	127013003
+water intoxication	71785001
+complete atrioventricular block	27885002
+break-through bleeding	56169002
+allergic contact dermatitis (disorder)	238575004
+vascular disorder	27550009
+first degree atrioventricular block	270492004
+tonic-clonic epilepsy	352818000
+complaining of cough (finding)	272039006
+allergic disorder of skin	422290000
+lip swelling (finding)	699376002
+mixed infectious disease	4559000
+cardiovascular disease	49601007
+ppp - primary proliferative polycythemia	109992005
+epigastric discomfort (finding)	119416008
+muscle weakness	26544005
+hypocalcemia syndrome	5291005
+pns neuronitis	40956001
+bleeding gums (finding)	86276007
+decreased renal function (finding)	76114004
+lower abdominal pain (finding)	54586004
+disturbance in thinking, nos	26628009
+colitis	64226004
+paraplegia (complete or partial paralysis of legs)	60389000
+hairy tongue	81934005
+arthralgia of hip	49218002
+synovitis	416209007
+ad - alzheimer's disease	26929004
+inflammatory bowel disease (disorder)	24526004
+low serum potassium level - finding	166690008
+anhydrotic skin	16386004
+facial swelling (finding)	278528006
+rbbb - right bundle branch block	59118001
+grand mal epilepsy	352818000
+primary proliferative polycythaemia	109992005
+sore eye	302017001
+candidosis of skin	49883006
+drug seeking behavior	441668002
+inflammation of prostate	9713002
+electrocardiogram abnormal	102594003
+gastropathy	29384001
+disorder of cervix, nos	63339007
+inflammation of penis	371163003
+besnier-boeck-schaumann syndrome	31541009
+swelling of vein	248495005
+hydrocephalus	230745008
+vascular disease	27550009
+atrial fibrillation	49436004
+hunger	55350005
+vivid dream	247953009
+tuberculosis of meninges (disorder)	58437007
+cutaneous hypersensitivity vasculitis	718217000
+light flashes	56170001
+water intoxication syndrome (disorder)	71785001
+suicidal behavior	425104003
+breast tenderness (finding)	55222007
+warm to touch	102599008
+cheilitis (disorder)	7847004
+prostatic disorder	30281009
+skin hypopigmented (disorder)	23006000
+congestive heart disease	42343007
+painful tongue	30731004
+uricacidaemia	35885006
+impacted faeces	44635007
+impaired vision	7973008
+cardiac fibrillation	40593004
+abnormal vision (finding)	7973008
+pounding heart	248657009
+herpes simplex	88594005
+congestive heart disease	42343007
+disorder of optic nerve	77157004
+atopic conjunctivitis (disorder)	231854006
+gingivitis (disorder)	66383009
+sore mouth	162011005
+abnormal digestion	61578001
+disorder of lung	19829001
+ileitis	52457000
+acute post-infective radiculoneuropathy	40956001
+dysesthesia	279079003
+hyperreflexia	86854008
+paralysis of both lower limbs	60389000
+form of muscle	271696003
+osteopathia	76069003
+gerd - gastro-esophageal reflux disease	235595009
+diabetic neuropathy (disorder)	230572002
+hypercholesterolemia (disorder)	13644009
+sore mouth - symptom	162011005
+sensation of burning of skin	90673000
+atopic neurodermatitis (disorder)	200775004
+kidney calculus	95570007
+disorder of immune system	41266007
+hyperthyroidism (disorder)	34486009
+iritis	65074000
+cyst of liver	85057007
+fungal infectious disease	3218000
+hyperaemia, nos	30098003
+ascending paralysis	40956001
+inverted t wave	59931005
+monocytosis (disorder)	19636003
+disturbance in thinking (finding)	26628009
+pericardial effusion	373945007
+hematopoietic aplasia (disorder)	304132006
+maculopathy	312999006
+hepatic cyst	85057007
+prostatitis caused by bacteria	281801000009108
+hyperemia, nos	30098003
+drug interaction with food (finding)	95907004
+disturbance in thinking (finding)	26628009
+anesthesia	33653009
+enlarged prostate	249607009
+peripheral venous insufficiency	20696009
+ibd - inflammatory bowel disease	24526004
+body temperature above reference range	50177009
+bleeding gums	86276007
+crying associated with mood (finding)	271951008
+gonococcal infection	15628003
+aching sensation quality	410711009
+paraparesis	1845001
+disorder of sleep-wake schedule	271794005
+disorder of testis (disorder)	64910008
+status epilepticus (disorder)	230456007
+laboured breathing	248549001
+sore eye (finding)	302017001
+hydrocephaly	230745008
+blood in faeces	405729008
+nail disease	17790008
+haemorrhagic diarrhoea	95545007
+polycythaemia rubra vera	109992005
+liquid feces	398212009
+prostatitis caused by bacteria (disorder)	281801000009108
+disorder of lung (disorder)	19829001
+bacterial vaginosis (disorder)	419760006
+mycotic disease	3218000
+blood pressure alteration	129899009
+single organ dysfunction	251526004
+infarction of heart	22298006
+homicidal thoughts (finding)	225450009
+hyperreflexia	86854008
+sensory disorder (disorder)	85972008
+incomplete atrioventricular block, first degree	270492004
+infection mouth	275393007
+tuberculous meningitis	58437007
+rta - renal tubular acidosis	1776003
+tongue ulceration, nos	66123000
+cystoid macular oedema	193387007
+fecal impaction in rectum	44635007
+monocytosis	19636003
+hyperuricemia	35885006
+sinusitis (disorder)	36971009
+estrogen effect, nos	86513005
+erythema multiforme minor	123571000119104
+photosensitization reaction	84326006
+atopic neurodermatitis (disorder)	200775004
+uricacidemia	35885006
+hyponatremia (disorder)	89627008
+has a temperature	50177009
+slow respiration (finding)	86684002
+degenerative disorder of macula	422338006
+cold hands	271584002
+laboured respiration	248549001
+infectious disorder of abdomen	128070006
+hypopigmentation of skin	23006000
+embolism - lesion	55584005
+prv - polycythemia rubra vera	109992005
+retching (finding)	84480002
+low-grade chronic hyperbilirubinemia syndrome	27503000
+polycythemia vera (disorder)	109992005
+pe - pulmonary embolism	59282003
+clonic convulsion	6208003
+incontinence	48340000
+erythema multiforme minor	123571000119104
+sleep walking disorder (disorder)	80495009
+benign unconjugated bilirubinemia syndrome	27503000
+secondary hypocortisolism (disorder)	16685009
+dental abscess	299709002
+infectious neuronitis	40956001
+inflammation of fallopian tube	88157006
+sleep walking	80495009
+renal dysfunction	236423003
+breast enlargement	372283008
+hyperthermia	50177009
+viral bronchitis, nos	16146001
+hypohidrosis (disorder)	45004005
+sight impaired	7973008
+mastitis, nos	45198002
+stress at work (finding)	276074009
+disorder of optic nerve, nos	77157004
+disorder of musculoskeletal system	928000
+post-prandial hypoglycemia	237638000
+enteritis of small intestine	64613007
+peripheral venous insufficiency, nos	20696009
+cme - cystoid macular oedema	193387007
+ketosis	2538008
+abnormal digestive tract function (finding)	61578001
+sciatica (disorder)	23056005
+soft stool (finding)	27731006
+tenovaginitis	67801009
+trismus (finding)	87866006
+exophthalmos, nos	18265008
+prostatic disorder	30281009
+guillain-barre syndrome (disorder)	40956001
+bv - bacterial vaginosis	419760006
+acute otitis media	3110003
+pulse irregular	61086009
+observation of body odour	301340007
+leukoderma	23006000
+wart	57019003
+separation of retinal layers	42059000
+excessive growth of hair	271607001
+oestrogen effect	86513005
+pulse irregular (finding)	61086009
+papilloedema	423341008
+renal pain (finding)	274279008
+osteodynia	12584003
+gastroenteropathy	25374005
+gord - gastro-oesophageal reflux disease	235595009
+ascending paralysis	40956001
+behavior showing increased motor activity	28277004
+dehydration (disorder)	34095006
+drug interaction with food (disorder)	95907004
+thin skin (finding)	277797007
+blood pressure alteration	129899009
+night cramps (finding)	102549009
+paroxysmal sleep	60380001
+influenza-like symptoms	315642008
+corneal subepithelial haze (disorder)	413921009
+boeck's sarcoidosis	31541009
+sciatica	23056005
+nonspecific vaginitis	419760006
+brittle nails	69192004
+tearful	271951008
+chronic pain (finding)	82423001
+urolithiasis	95566004
+increased libido (finding)	58436003
+tracheitis	62994001
+decreased diastolic arterial pulse pressure	42689008
+mastitis	45198002
+oesophageal reflux	235595009
+decreased libido	8357008
+toe-walking gait	250018006
+throat irritation	162400007
+disease of immune system	41266007
+increased blood leucocyte number	414478003
+pancreatitis, nos	75694006
+pyrroloporphyria	234422006
+pericardial effusion	373945007
+sore mouth (finding)	162011005
+familial nonhemolytic jaundice	27503000
+cold sweat	83547004
+disease of bone (disorder)	76069003
+hypopigmentation of skin	23006000
+meulengracht syndrome	27503000
+abnormal vision (finding)	7973008
+soft stool	27731006
+disorder of uterine cervix	63339007
+urethritis (disorder)	31822004
+painful penile erection	8034008
+erythema nodosum	32861005
+arf - acute renal failure	14669001
+distractibility	28102002
+poor long-term memory (finding)	247588002
+inflammation of pancreas	75694006
+labored breathing (finding)	248549001
+presbyopia	41256004
+orthostatic hypotension	28651003
+retinal detachment	42059000
+polycythaemia vera	109992005
+lennox-gastaut syndrome (disorder)	230418006
+crying associated with mood	271951008
+generalised fit	246545002
+ulcer of tongue, nos	66123000
+postoperative pain	213299007
+steroid facies	67967009
+hyperthyroidism	34486009
+glossopharyngeal neuralgia	43763009
+inflammatory disorder of penis	371163003
+pathologic erection	6273006
+soft feces	27731006
+disease of cardiovascular system	49601007
+osteosclerosis	49347007
+dentagra	27355003
+postoperative pain	213299007
+muscle weakness of limb	713514005
+worn out	60119000
+calculus of kidney	95570007
+psychiatric symptom, nos	75864003
+hepatic cyst	85057007
+porphyrinopathy (disorder)	371628009
+diabetic neuropathy (disorder)	230572002
+dysaesthesia (abnormal sensation)	279079003
+hypercholesterolemia (disorder)	13644009
+ventricular fibrillation (disorder)	71908006
+decreased food appetite	64379006
+chest wall pain (finding)	102588006
+suprainfection	193198003
+visual impairment	7973008
+cutaneous ulcer	46742003
+tenosynovitis, nos	67801009
+fibrocystic disease of breast (disorder)	27431007
+disorder of lung	19829001
+estrogen effect (morphologic abnormality)	86513005
+depressive symptoms	394924000
+sensory disturbance	85972008
+painful mouth (finding)	102616008
+gastro-esophageal reflux disease	235595009
+porphyrinopathy	371628009
+acute otitis media	3110003
+floaters in visual field (finding)	162278001
+gouty arthritis	48440001
+large breast (finding)	372283008
+respiratory obstruction (disorder)	79688008
+gonorrhoea	15628003
+bronchial infection	233795005
+bone pain	12584003
+central serous retinopathy	312956001
+musculoskeletal disorder	928000
+gbs - guillain-barre syndrome	40956001
+disease of immune system (disorder)	41266007
+cramp in lower leg associated with rest	102549009
+macular retinal edema (disorder)	37231002
+infection due to neisseria gonorrheae	15628003
+essential blepharospasm	59026006
+aching sensation quality	410711009
+temperature raised	50177009
+purulent conjunctivitis	243321006
+acute inflammatory demyelinating polyradiculoneuropathy	40956001
+twisting spikes	31722008
+heart attack	22298006
+erythrocyte sedimentation rate (esr) raised (finding)	165468009
+corneal haze	413921009
+decreased diastolic blood pressure	42689008
+neonatal abstinence syndrome	414819007
+low diastolic arterial pulse pressure	42689008
+allergic disorder of skin (disorder)	422290000
+poor long-term memory	247588002
+superficial ulcer of cornea	50792001
+mastitis (disorder)	45198002
+weight increased	262286000
+finding of movement of visual image	246650003
+gci - gonococcal infection	15628003
+central serous chorioretinopathy (disorder)	312956001
+crying associated with emotion	271951008
+feeling despair	17029006
+acute intermittent porphyria (disorder)	234422006
+fecal impaction of rectum	44635007
+gastroesophageal reflux disease (disorder)	235595009
+tongue ulceration	66123000
+dry skin	16386004
+ekbom syndrome	32914008
+polyneuropathy (disorder)	42345000
+swollen ankle	267039000
+achromoderma	23006000
+pericarditis	3238004
+ulceration of oral mucosa	26284000
+gingival haemorrhage	86276007
+erythema of skin (finding)	444827008
+gynaecomazia	4754008
+large breast (finding)	372283008
+muscle rigidity	16046003
+disorder of connective tissue (disorder)	105969002
+drug seeking behaviour	441668002
+constitutional hepatic dysfunction	27503000
+erythrocythemia	109992005
+hypomagnesemia	190855004
+urinary hesitancy	5972002
+erythema nodosum, nos	32861005
+disease of prostate	30281009
+sleep talking	36321004
+on examination - dry lips	275943004
+hospital acquired pneumonia	425464007
+foot pain	47933007
+tuberculosis of respiratory system (disorder)	700272008
+neuropathy (nerve damage)	386033004
+disorder of uterine cervix (disorder)	63339007
+redness	386713009
+hypopigmentation	23006000
+movement of visual image - finding	246650003
+trachyonychia (disorder)	69192004
+parodontal abscess	83412009
+fungal infectious disease, nos	3218000
+neuropathy (disorder)	386033004
+crocodile tears	418035005
+breast tenderness	55222007
+disease of uterine cervix (disorder)	63339007
+whooping cough	27836007
+pharyngeal dryness (finding)	102618009
+ulcer of tongue	66123000
+thrombocytopenia	415116008
+acute tracheobronchitis (disorder)	35301006
+simple partial seizure, consciousness not impaired (finding)	79348005
+excitability	102893002
+herpes simplex viral infection	88594005
+cardiac fibrillation	40593004
+decreased diastolic arterial pressure (finding)	42689008
+vasopressin deficiency syndrome	15771004
+disorder of coronary artery	414024009
+increased libido (finding)	58436003
+paralysis of tongue	38228000
+quivering	26079004
+ketosis (disorder)	2538008
+painful mouth (finding)	102616008
+secondary infection (disorder)	264569006
+increased diastolic arterial pressure	23154005
+sore eye (finding)	302017001
+renal tubular acidosis (disorder)	1776003
+renal stone	95570007
+secondary infection	264569006
+esr raised (finding)	165468009
+interstitial lung disease	64667001
+concentration impairment	60032008
+septicemic plague (disorder)	9012003
+high diastolic arterial pressure	23154005
+lung disorder, nos	19829001
+sciatic neuralgia	23056005
+disorder of cardiovascular system (disorder)	49601007
+familial nonhemolytic jaundice	27503000
+weight increased	262286000
+disease of immune system	41266007
+central serous choroidopathy	312956001
+tearfulness	271951008
+bright red blood per rectum	405729008
+facial palsy (disorder)	280816001
+infectious disorder of abdomen	128070006
+sensory disorder, nos	85972008
+urinary hesitation	5972002
+acute idiopathic polyneuritis	40956001
+af - atrial fibrillation	49436004
+glossalgia	30731004
+sinusitis (disorder)	36971009
+sensory anesthesia	33653009
+infective vaginitis (disorder)	237091009
+renal tubular acidosis (disorder)	1776003
+pv - vaginal infection	237091009
+concentration impairment	60032008
+abdominal infection	128070006
+liquid faeces	398212009
+nail changes	416596008
+suicidal behavior	425104003
+fasting (finding)	16985007
+scaly skin	271761007
+swollen vein	248495005
+foetal alcohol syndrome	205788004
+neutrophil count below reference range	165517008
+colonic ischaemia	30588004
+nonspecific bacterial vaginosis	419760006
+unable to concentrate	60032008
+torsades de pointes	31722008
+water intoxication syndrome (disorder)	71785001
+muscle hypotonicity	398152000
+sleep walking disorder	80495009
+uremia	44730006
+carditis (disorder)	399617002
+sleepwalking	80495009
+tendovaginitis	67801009
+vascular headache (disorder)	128187005
+infective cystitis (disorder)	236620008
+sensory disturbance, nos	85972008
+uremia (disorder)	44730006
+hyperuricaemia	35885006
+post-prandial hypoglycemia (disorder)	237638000
+interstitial pneumonitis	64667001
+fasting (finding)	16985007
+cardiovascular disorder	49601007
+poor appetite	64379006
+raised serum potassium level (finding)	166689004
+shaking all over	26079004
+tuberculous (qualifier value)	371569005
+twitch	60238002
+sighing respiration (finding)	25423001
+chb - complete heart block	27885002
+infective vaginitis	237091009
+stiffness (finding)	271587009
+labored respiration	248549001
+pain in hand	53057004
+despair	17029006
+rbc's - anisocytosis (finding)	165475005
+acute idiopathic polyradiculoneuritis	40956001
+mucopurulent conjunctivitis	243321006
+loose muscle tone	398152000
+marie-strumpell spondylitis	9631008
+cardiac arrest - ventricular fibrillation	71908006
+pericarditis, nos	3238004
+disease of lung	19829001
+tooth disorder	234947003
+acute tracheobronchitis (disorder)	35301006
+trachyonychia	69192004
+cystic disease of breast	27431007
+psychiatric symptom	75864003
+reflux gastritis	57433008
+platelet count below reference range	415116008
+maldigestion	61578001
+vitreous detachment (disorder)	53772007
+renal infection	129128006
+pulmonary congestion	67599009
+detailed recall of dream	247953009
+nonspecific vaginitis	419760006
+hereditary nonhaemolytic jaundice	27503000
+faeces - impacted	44635007
+tonic-clonic epilepsy (disorder)	352818000
+neonatal abstinence syndrome	414819007
+sciatica (disorder)	23056005
+leukocytosis	414478003
+generalized convulsion	246545002
+thrombocytopenic purpura (disorder)	302873008
+benign essential blepharospasm	59026006
+temporal arteritis	400130008
+gastro-oesophageal reflux disease	235595009
+interstitial pneumonia	64667001
+exhaustion (finding)	60119000
+diabetes insipidus	15771004
+boecks sarcoidosis	31541009
+restless legs	32914008
+disorder of prostate, nos	30281009
+hunger pain	55350005
+dysaesthesia	279079003
+pulmonary embolism	59282003
+hyperthermia	50177009
+electrocardiogram abnormal (finding)	102594003
+facial weakness	95666008
+retinal detachment, nos	42059000
+parietal abscess of tooth	83412009
+idiopathic ankylosing spondylitis	9631008
+endocarditis	56819008
+lingua villosa nigra	81934005
+infection of bladder	236620008
+enteritis, nos	64613007
+partial deafness	343087000
+immobile (finding)	102491009
+disease of prostate, nos	30281009
+hypertriglyceridemia (disorder)	302870006
+renal impairment (disorder)	236423003
+haematochezia	405729008
+disease of cardiovascular system, nos	49601007
+urolithiasis (disorder)	95566004
+retinal detachment (disorder)	42059000
+inflammatory bowel disease	24526004
+degenerative disorder of macula (disorder)	422338006
+disturbance in thinking	26628009
+crying associated with emotion	271951008
+neutropenia (finding)	165517008
+viral bronchitis	16146001
+sore tummy	271681002
+compartment syndrome	111245009
+pharyngeal dryness	102618009
+impacted faeces	44635007
+polycythemia rubra vera	109992005
+break-through bleeding (finding)	56169002
+disorder of rectum (disorder)	5964004
+disorder of myocardium	57809008
+congestive heart failure	42343007
+mean blood pressure (observable entity)	6797001
+swollen ankle (finding)	267039000
+aching	410711009
+flat affect	932006
+movement disorder, nos	60342002
+low libido	8357008
+pain in tooth	27355003
+sensation of something in-	247342009
+hemorrhagic diarrhea (disorder)	95545007
+platelet count below reference range	415116008
+gonorrhea	15628003
+edema of optic disc (disorder)	423341008
+circadian dysregulation	271794005
+overactivity	28277004
+gastroenteropathy	25374005
+embolus	55584005
+foreign body sensation (finding)	247342009
+miliary lupoid of boeck	31541009
+soft stool (finding)	27731006
+acute inflammatory neuropathy	40956001
+right bundle branch block	59118001
+embolism	55584005
+av - anaerobic vaginosis	419760006
+abnormal platelet	127566005
+neutropenia	165517008
+pruritus of vagina (disorder)	34363003
+vascular headache	128187005
+hypotonus	398152000
+infectious disease of lung (disorder)	128601007
+vf - ventricular fibrillation	71908006
+single organ dysfunction	251526004
+infection mouth	275393007
+plantar fasciitis	202882003
+cold feet	271585001
+cold feet	271585001
+cardiac infarction	22298006
+c/o - cough	272039006
+allergic contact dermatitis	238575004
+sinus headache	4969004
+sight impaired	7973008
+gilbert's disease	27503000
+paradontal abscess	83412009
+disorder of kidney co-occurrent and due to diabetes mellitus (disorder)	127013003
+edema of optic disc	423341008
+perforation of intestine	56905009
+aseptic meningitis	301770000
+magnesium deficiency syndrome	190855004
+erythrocyte sedimentation rate raised	165468009
+idiopathic ankylosing spondylitis	9631008
+pruritus ani	90446007
+familial nonhemolytic bilirubinemia	27503000
+endocarditis, nos	56819008
+pertussis	27836007
+osteodynia	12584003
+t wave inversion in ekg	59931005
+ischaemic colitis	30588004
+aspiration pneumonia	422588002
+glossoplegia	38228000
+allergic contact dermatitis	238575004
+endocarditis (disorder)	56819008
+visual field scotoma (finding)	23388006
+na deficiency	89627008
+localized pain (finding)	112104007
+unable to concentrate (finding)	60032008
+acquired polyneuropathy	42345000
+hyperthermia	50177009
+infection of ear	129127001
+irregular menstrual bleeding	80182007
+status epilepticus	230456007
+drug interaction with food (finding)	95907004
+fecal impaction	44635007
+gingival haemorrhage	86276007
+chronic pain	82423001
+paresis, nos	26544005
+phototoxicity	84326006
+endocarditis (disorder)	56819008
+right fascicular block	59118001
+infection of ear (disorder)	129127001
+tendinous synovitis	67801009
+interstitial pneumonitis	64667001
+itching of eye (finding)	74776002
+otitis, nos	43275000
+calcium deficiency disease	5291005
+vitreous separation	53772007
+edema of eyelid	89091004
+abnormal platelet (morphologic abnormality)	127566005
+irregular uterine bleeding	80182007
+porphyrinopathy (disorder)	371628009
+ileitis, nos	52457000
+viral warts	57019003
+deep venous thrombosis (disorder)	128053003
+mouth ulceration	26284000
+body temperature above reference range (finding)	50177009
+mean blood pressure	6797001
+muscle twitch (finding)	60238002
+prostatitis	9713002
+disease of stomach	29384001
+feeling intoxicated (finding)	102897001
+urethritis (disorder)	31822004
+rectal disorder	5964004
+drug interaction with food (disorder)	95907004
+dental disorder	234947003
+sarcoidosis, nos	31541009
+facial nerve paralysis	280816001
+fluid stool	398212009
+sciatica	23056005
+otitis	43275000
+excessive growth of hair	271607001
+ear infection	129127001
+infection of ear	129127001
+scaly skin	271761007
+corneal erosion (disorder)	50792001
+lung infection	128601007
+restless legs	32914008
+ekbom syndrome	32914008
+hydrocephalus (disorder)	230745008
+watery eye	420103007
+rbc's - anisocytosis	165475005
+soreness of tongue	30731004
+warm skin	102599008
+primary proliferative polycythemia	109992005
+abscess	44132006
+disorders of autonomic nervous system	15241006
+enteritis, inflammatory disorder of small intestine	64613007
+walking disability (finding)	228158008
+distention of vein (finding)	248495005
+priapism (disorder)	6273006
+decreased consistency of stools	27731006
+movement disorder (disorder)	60342002
+mouth ulcer	26284000
+bacterial vaginitis	419760006
+polyneuropathy	42345000
+photopsia	56170001
+swollen ankle region	267039000
+disorder of bone	76069003
+dyslipidaemia	370992007
+ulcer of mouth	26284000
+kidney infection	129128006
+neurodermatitis (disorder)	267854005
+brittle nails	69192004
+foot swelling (finding)	297142003
+retching (finding)	84480002
+swollen foot	297142003
+acd - allergic contact dermatitis	238575004
+hypotonia	398152000
+newborn drug withdrawal syndrome	414819007
+disease of teeth	234947003
+bleeding gums (finding)	86276007
+drug withdrawal syndrome	363101005
+hand eczema	238539001
+disorder of immune system (navigational concept)	41266007
+depressive symptoms	394924000
+disorder of macula of retina (disorder)	312999006
+articular gout (disorder)	48440001
+decreased kidney function	76114004
+renal pain	274279008
+pericarditis (disorder)	3238004
+vf - ventricular fibrillation	71908006
+diabetes mellitus, nos	73211009
+abnormal laboratory findings	309158009
+incomplete paralysis	26544005
+bleeding of subgingival space	86276007
+low vision	7973008
+c/o - cough (context-dependent category)	272039006
+myocardial disease	57809008
+dyslipidemia	370992007
+reduced libido	8357008
+renal tubular acidosis	1776003
+weakness of face muscles	95666008
+acute renal failure	14669001
+low diastolic arterial	42689008
+ulcer of mouth (disorder)	26284000
+eye displaced forwards	18265008
+intermittent acute porphyria	234422006
+ild - interstitial lung disease	233703007
+rta	1776003
+lack of concentration	60032008
+as - ankylosing spondylitis	9631008
+partial deafness	343087000
+disease of uterine cervix	63339007
+cardiac arrest - ventricular fibrillation	71908006
+erythema of skin	444827008
+hand pain (finding)	53057004
+platelet count below reference range (finding)	415116008
+nosocomial pneumonia (disorder)	425464007
+juvenile rheumatoid arthritis	410502007
+hirsutism (disorder)	399939002
+maldigestion, nos	61578001
+rickets	41345002
+corneal subepithelial haze (disorder)	413921009
+willis-ekbom disease	32914008
+edema of eyelid (disorder)	89091004
+thrombocytopenic purpura (disorder)	302873008
+fasting state	16985007
+hypocalcaemia syndrome	5291005
+herpes simplex (disorder)	88594005
+painful erection	8034008
+ppp - primary proliferative polycythaemia	109992005
+low serum potassium level	166690008
+night cramps	102549009
+alzheimer dementia	26929004
+oedema of eyelid	89091004
+disorder of heart muscle	57809008
+motor retardation (finding)	398991009
+atopic conjunctivitis	231854006
+irregular periods (finding)	80182007
+high grade atrioventricular block	27885002
+phototoxic reaction	53597009
+swollen vein (finding)	248495005
+drug seeking behavior (finding)	441668002
+airway obstruction	79688008
+weight increased (finding)	262286000
+primary polycythaemia	109992005
+sarcoidosis	31541009
+sore mouth - symptom	162011005
+acute idiopathic polyradiculoneuritis	40956001
+low muscle tone	398152000
+disorder of kidney co-occurrent and due to diabetes mellitus	127013003
+movement of visual image - finding	246650003
+nasal discharge present	267101005
+dental infection	427898007
+infection by larvae of trichinella (disorder)	709018004
+haemorrhagic diarrhoea	95545007
+herpes simplex, nos	88594005
+hypercholesterolaemia	13644009
+scaly skin (finding)	271761007
+fascicular block	6374002
+respiratory tuberculosis	700272008
+plantar fasciitis	202882003
+perforation of intestine (disorder)	56905009
+vaginal synovitis	67801009
+erythrocyte sedimentation rate raised	165468009
+electrocardiogram abnormal (finding)	102594003
+vaginal infection	237091009
+acute renal failure	14669001
+swollen ankle	267039000
+kidney disorder due to diabetes mellitus	127013003
+erythrocyte sedimentation rate (esr) raised (finding)	165468009
+juvenile idiopathic arthritis	410502007
+first degree atrioventricular block	270492004
+whooping cough, nos	27836007
+acute intermittent porphyria (disorder)	234422006
+disorder of musculoskeletal system	928000
+disease of lung (disorder)	19829001
+disorder of the musculoskeletal system, nos	928000
+plantar fascial fibromatosis	202882003
+bright red blood in stool	405729008
+shaking	26079004
+difficulty walking	228158008
+cardiovascular system disease	49601007
+temperature raised	50177009
+dry skin	16386004
+embarrassed airway	79688008
+priapism	6273006
+pelvic pain	30473006
+tenosynovitis (disorder)	67801009
+retching	84480002
+anaesthesia	33653009
+drug interaction with food (disorder)	95907004
+retinal detachment (disorder)	42059000
+glossopharyngeal neuralgia (disorder)	43763009
+atrophic vaginitis	52441000
+narcoleptic syndrome	60380001
+muscle strength reduced	26544005
+pulmonary disease, nos	19829001
+flat affect (finding)	932006
+detailed recall of dream (finding)	247953009
+weight increased (finding)	262286000
+spasm of cerebral arteries (disorder)	73173006
+twisting spikes	31722008
+impaired vision	7973008
+oedema of eyelid	89091004
+nonspecific vaginitis	419760006
+somnambulism	80495009
+familial nonhaemolytic jaundice	27503000
+macular disorder	312999006
+laryngitis (disorder)	45913009
+muscle rigidity	16046003
+vivid dream	247953009
+fungus infection	3218000
+fibrocystic change of breast	27431007
+myocardial disease (disorder)	57809008
+difficulty seeing	7973008
+angle-closure glaucoma (disorder)	392291006
+body odor finding (finding)	301340007
+sinus pain	4969004
+oral infection	275393007
+deep venous thrombosis	128053003
+blood in feces	405729008
+skin irritation	367466007
+metabolic bone disease, nos	50279003
+dry throat	102618009
+shortened p-r interval	49578007
+postmenopausal atrophic vaginitis	52441000
+fumbling	7006003
+neonatal abstinence syndrome	414819007
+perianal itch	90446007
+tender breasts	55222007
+on examination - dry lips (disorder)	275943004
+swollen face	278528006
+nightmares (finding)	419145002
+night cramps (finding)	102549009
+salpingitis	88157006
+adrenal suppression	16685009
+diabetes mellitus with neuropathy	230572002
+mentulagra	6273006
+near syncope (disorder)	427461000
+bloody diarrhoea	95545007
+lv - low vision	7973008
+macular disorder	312999006
+muscle rigidity (finding)	16046003
+soft tissue infection	95880003
+ileitis (disorder)	52457000
+involuntary quiver	26079004
+verruca simplex	57019003
+septicaemic plague	9012003
+glossoplegia	38228000
+hirsutes	399939002
+blood in stool	405729008
+duodenitis	72007001
+transformed migraine	427419006
+candida of skin	49883006
+cystoid macular edema	193387007
+pustule (disorder)	271760008
+break-through bleeding	56169002
+stiffness	271587009
+hypercholesterolemia	13644009
+enteritis of small intestine	64613007
+gord - gastro-esophageal reflux disease	235595009
+hyperemia (morphologic abnormality)	30098003
+testicular disorder	64910008
+ischemic colitis (disorder)	30588004
+furunculosis (morphologic abnormality)	112650006
+proptosis, nos	18265008
+optic disc edema	423341008
+drug withdrawal syndrome in newborn	414819007
+palpitations - pounding	248657009
+third degree atrioventricular block	27885002
+hirsutism	399939002
+mixed infection, nos	4559000
+black hairy tongue (disorder)	81934005
+anhydrotic skin	16386004
+cvs disease	49601007
+lower paraplegia	60389000
+bacterial prostatitis	281801000009108
+fecal impaction in rectum	44635007
+estrogen effect	86513005
+foot swelling	297142003
+upset stomach	162059005
+primary dilated cardiomyopathy	195021004
+nocturnal lower leg cramp	102549009
+drug seeking	441668002
+retinal detachment	42059000
+synovitis (disorder)	416209007
+sensory disorder	85972008
+blood in faeces	405729008
+partial sight	7973008
+bone marrow suppression	370569000
+rd - retinal detachment	42059000
+fbs - foreign body sensation	247342009
+oral cavity pain	102616008
+leukopenia	419188005
+disorder of connective tissue	105969002
+ventricular fibrillation	71908006
+dental sepsis	299709002
+enteritis, inflammatory disorder of small intestine (disorder)	64613007
+red color (finding)	386713009
+disorder of myocardium	57809008
+night sweats	42984000
+unable to concentrate (finding)	60032008
+raised serum potassium level	166689004
+ulcer of skin	46742003
+itching of vagina	34363003
+fibrillation (disorder)	40593004
+oral pain	102616008
+excessive hair growth	271607001
+shakes	26079004
+esr raised (finding)	165468009
+brbpr	405729008
+hypomagnesemia	190855004
+body odor finding (finding)	301340007
+sensory disorder (finding)	85972008
+medication interaction with food	95907004
+laryngitis	45913009
+periodontal abscess	83412009
+swedish porphyria	234422006
+kidney stone (disorder)	95570007
+chest pain on exertion	81953000
+brbpr - bright red blood per rectum	405729008
+exhaustion	60119000
+corneal erosion	50792001
+presbyopia	41256004
+marie strümpell spondylitis	9631008
+dental disease	234947003
+ppp - primary proliferative polycythemia	109992005
+peripheral venous insufficiency	20696009
+tooth disease	234947003
+gonorrhea (disorder)	15628003
+spasm of cerebral arteries (disorder)	73173006
+constitutional hepatic dysfunction	27503000
+gastroenteritis (disorder)	25374005
+arf - acute renal failure	14669001
+tremor (finding)	26079004
+prostate disease	30281009
+near sighted	57190000
+irritation of nose	70076002
+oral ulcer	26284000
+hypohidrosis	45004005
+increased tendon reflexes	86854008
+bradypnoea	86684002
+behavior showing increased motor activity (finding)	28277004
+pertussis (disorder)	27836007
+restless legs syndrome	32914008
+lung disorder	19829001
+muscle hypotonia	398152000
+third degree atrioventricular block	27885002
+glossalgia	30731004
+guillain-barré syndrome (disorder)	40956001
+disease of teeth	234947003
+secondary hypocortisolism	16685009
+cataplexy	46263000
+colonic ischemia	30588004
+oral infection (disorder)	275393007
+myocardial disease, nos	57809008
+panic (finding)	79823003
+mouth ulceration	26284000
+hyponatremia	89627008
+central serous retinopathy	312956001
+decreased renal function (finding)	76114004
+pulmonary disease	19829001
+enteritis, inflammatory disorder of small intestine (disorder)	64613007
+shaking	26079004
+superimposed infection (disorder)	193198003
+swallowing painful (finding)	30233002
+photopsia	56170001
+gonorrhea, nos	15628003
+engorgement	30098003
+macular disorder (disorder)	312999006
+photosensitization reaction	84326006
+respiratory tract infection (disorder)	275498002
+tuberculosis of respiratory system (disorder)	700272008
+increased blood leukocyte number (finding)	414478003
+facial spasm (finding)	32402008
+viral bronchitis (disorder)	16146001
+vascular disorder, nos	27550009
+gouty arthropathy	48440001
+diabetic nephropathy	127013003
+excessive hair growth (finding)	271607001
+swollen ankle region	267039000
+sciatica neuralgia	23056005
+menstrual periods irregular	80182007
+visual field scotoma	23388006
+nephrolithiasis	95570007
+spasm of cerebral arteries	73173006
+sensory retinal detachment	42059000
+disease of immune system (disorder)	41266007
+cold feet (finding)	271585001
+behavior showing increased motor activity	28277004
+familial nonhaemolytic bilirubinaemia	27503000
+septicaemic plague	9012003
+hematopoietic aplasia	304132006
+furunculosis	112650006
+generalized fit	246545002
+high diastolic arterial	23154005
+respiratory obstruction (disorder)	79688008
+local congestion	30098003
+simple partial seizure, consciousness not impaired (disorder)	79348005
+exophthalmos	18265008
+paroxysmal sleep	60380001
+itching of ear	699392007
+inflammatory disorder of penis	371163003
+hungry	55350005
+disease of nail	17790008
+feeding drive	55350005
+acquired polyneuropathy	42345000
+early satiety (finding)	442076002
+myelitis	41370002
+diabetes insipidus (disorder)	15771004
+thin skin	277797007
+macular edema	37231002
+colitis	64226004
+opportunistic infectious disease, nos	61274003
+warm skin	102599008
+central serous retinopathy	312956001
+calcium deficiency disease	5291005
+ulcer of anus (disorder)	20928004
+irregular periods	80182007
+interstitial pneumonia (disorder)	64667001
+cyst of skin	285302001
+red color (finding)	386713009
+pulmonary congestion (disorder)	67599009
+decrease in appetite	64379006
+sinus headache (finding)	4969004
+disorder of prostate	30281009
+rheumatoid arthritis of spine	9631008
+panic	79823003
+increased diastolic arterial	23154005
+tracheitis (disorder)	62994001
+ischemic colitis	30588004
+feeling of despair	17029006
+disease of nail (disorder)	17790008
+narcolepsy	60380001
+macular retinal edema	37231002
+body odor finding	301340007
+simple partial seizure, consciousness not impaired	79348005
+on examination - dry lips	275943004
+neurodermatitis	267854005
+gilbert's syndrome	27503000
+angiitis	31996006
+ileitis	52457000
+disease of lung (disorder)	19829001
+erythema nodosum	32861005
+guillain-barre syndrome (disorder)	40956001
+liquid stool (finding)	398212009
+increased libido	58436003
+proptosis	18265008
+dehydration	34095006
+hip pain (finding)	49218002
+iritis	65074000
+flat affect	932006
+leukoderma	23006000
+black hairy tongue	81934005

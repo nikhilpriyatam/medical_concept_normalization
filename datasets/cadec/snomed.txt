@@ -1,0 +1,803 @@
+blood in feces	405729008
+ringing in ear	162352007
+cramp (finding)	55300003
+headache	25064002
+depressive episode	35489007
+myalgia/myositis - lower leg (finding)	288231001
+niddm	44054006
+cognitive disturbance	386806002
+shoulder pain (finding)	45326000
+visual disturbance	63102001
+tendon pain	21545007
+cephalgia	25064002
+increased pulse rate	86651002
+ht - hypertension	38341003
+policeman's heel	202882003
+paresis, nos	26544005
+flooding during periods	386692008
+sore tummy	271681002
+numbness of lower limb	309537005
+heart attack	22298006
+elbow pain	74323005
+cramp	55300003
+rheumatoid arthritis (disorder)	69896004
+d - diarrhea	62315008
+poor sleep	301345002
+muscle twitch	60238002
+bp - high blood pressure	38341003
+agitation	24199005
+brbpr	405729008
+muscle atrophy, nos	88092000
+clouding of consciousness	40917007
+myalgia	68962001
+observation of diarrhea	62315008
+blood in stool	405729008
+cephalalgia	25064002
+major depression	35489007
+finding of increased blood pressure (finding)	24184005
+hypertensive disease, nos	38341003
+lightheaded	386705008
+bloody stool	405729008
+spasmodic abdominal pain	9991008
+hypersomnia, nos	77692006
+pain in head	25064002
+fresh blood passed per rectum	405729008
+drowsy (finding)	271782001
+lack of concentration	60032008
+amyotrophy, nos	88092000
+cva - cerebrovascular accident	230690007
+paresis	26544005
+pain in calf	300954003
+worn out	60119000
+d - diarrhoea	62315008
+parkinson's disease	49049000
+weight gain	8943002
+labile in mood	18963009
+severe pain	76948002
+ncdmm	44054006
+heavy legs (finding)	161873000
+niddm - non-insulin dependent diabetes mellitus	44054006
+ill-defined experience	367391008
+hypertensive vascular disease	38341003
+cognitive deficit	386806002
+numbness of lower limb (finding)	309537005
+insomnia	193462001
+muscle twitch (finding)	60238002
+spasm	45352006
+coxalgia	49218002
+disorder of heart	56265001
+feels poorly	367391008
+myalgia/myositis - lower leg	288231001
+primary parkinsonism	49049000
+spasm of back muscles (finding)	203095000
+burning feet (finding)	36031001
+muscle wasting, nos	88092000
+sleepiness	271782001
+paraesthesia of (numbness/tingling) of lower limb	429783005
+wooziness	40917007
+primary parkinsonism	49049000
+non-insulin dependent diabetes mellitus	44054006
+spasm - movement	249966004
+stroke	230690007
+constant pain	426206001
+clouded consciousness	40917007
+inflammatory arthritis	3723001
+emotional instability	18963009
+myoneuralgia	68962001
+decreased muscle strength	26544005
+generalised acute body aches	102480002
+stiff legs (finding)	225609009
+facial swelling	278528006
+uterine spasm	29542008
+dizziness	404640003
+pain in shoulder	45326000
+generalized pain	82991003
+abdominal crisis	9991008
+diarrhea, nos	62315008
+off food	79890006
+stomach discomfort	271681002
+maturity onset diabetes mellitus	44054006
+stomach cramps (finding)	51197009
+unable to walk (finding)	282145008
+joint movement restrained	70733008
+twitch	60238002
+feeling irritable (finding)	55929007
+limitation of joint motion	70733008
+not feeling well	367391008
+diarrhea	62315008
+neck pain	81680005
+menorrhagia	386692008
+neuropathy	386033004
+cognitive dysfunction	386806002
+muscle weakness (finding)	26544005
+influenza-like illness (finding)	95891005
+pain in calf (finding)	300954003
+claudication	16973004
+major depression, nos	35489007
+cramp in lower limb	449917004
+raised blood pressure (disorder)	38341003
+diarrhea (finding)	62315008
+leg pain, nos	10601006
+diabetes mellitus type ii	44054006
+myocardial infarction	22298006
+bad memory	386807006
+walking disability (finding)	228158008
+generally unwell	213257006
+tenalgia (finding)	21545007
+depressive disorder, nos	35489007
+muscle atrophy (disorder)	88092000
+muscular fatigue, nos	80449002
+upset stomach (finding)	162059005
+blood pressure elevation	24184005
+hand pain	53057004
+feeling weak	13791008
+itch	418290006
+full of wind	162076009
+unable to get off a bed (finding)	301676004
+muscle atrophy	88092000
+muscle pain	68962001
+menorrhagia (finding)	386692008
+feels off-color	367391008
+vomiting (disorder)	422400008
+ra - rheumatoid arthritis	69896004
+numbness of upper limb (finding)	298753001
+numbness of hand	309521004
+tenodynia	21545007
+decreased libido	8357008
+blood in urine (finding)	34436003
+numbness of foot (finding)	309538000
+facial swelling (finding)	278528006
+muscle thinning	88092000
+itching of skin	418363000
+random blood sugar raised (finding)	166892002
+restriction of joint motion	70733008
+limited range of motion	70733008
+thoracic back pain	279038004
+loss of appetite	79890006
+profuse menstrual flow	386692008
+unable to concentrate	60032008
+muscle ache	68962001
+lassitude	13791008
+influenza-like illness	95891005
+meralgia	78514002
+unable to think clearly (finding)	247640008
+blood in urine	34436003
+myodynia	68962001
+muscular fatigue	80449002
+bleeding	131148009
+falling hair	278040002
+back ache	161891005
+infarction of heart, nos	22298006
+tingling	62507009
+muzzy headed	40917007
+weakness - general	13791008
+rapid pulse	86651002
+impaired cognition (finding)	386806002
+joint movement restricted	70733008
+sleepy	271782001
+spasm of uterus	29542008
+haemorrhage	131148009
+fatigue	84229001
+malaise (finding)	367391008
+blood in faeces	405729008
+parkinson's disease, nos	49049000
+hemorrhage	131148009
+dazed state	40917007
+rheumatoid disease	69896004
+lightheadedness	386705008
+faeces: blood	405729008
+tummy ache	271681002
+unable to get off a bed	301676004
+head pain	25064002
+cramp in lower limb (finding)	449917004
+walking disability	228158008
+chest tightness	23924001
+cervicalgia	81680005
+hypertension, nos	38341003
+palpitations (finding)	80313002
+muscle tension (finding)	250069006
+reduced mobility (finding)	8510008
+tightness in throat	247323005
+ha - headache	25064002
+paresthesia (numbness/tingling) of lower limb	429783005
+loose bowel motions	62315008
+vertigo (spinning sensation)	399153001
+mood disorder of depressed type	35489007
+memory dysfunction	386807006
+cerebrovascular accident (disorder)	230690007
+thinning hair	278040002
+pain provoked by movement	425423002
+excessive sleepiness	77692006
+thoracic back pain (finding)	279038004
+burning feet	36031001
+peripheral nerve disease	302226006
+migraine (disorder)	37796009
+numbness of foot	309538000
+muscle wasting	88092000
+ekbom syndrome	32914008
+paraesthesia of hand	309086004
+twitching	249966004
+amyotrophy	88092000
+weight increased	262286000
+pain in back	161891005
+serum creatinine raised	166717003
+unable to sleep	248255005
+involuntary trembling	26079004
+arm pain	102556003
+hip joint pain	49218002
+cramp in lower leg (finding)	449918009
+exhaustion, nos	60119000
+thigh pain (finding)	78514002
+itching	418290006
+major depressive disorder	35489007
+myalgia/myositis - shoulder (finding)	288226003
+observation of nausea	422587007
+arthritis (disorder)	3723001
+the shakes	26079004
+restless legs syndrome	32914008
+cloudy vision	246636008
+loss of hair (finding)	278040002
+knee joint pain	30989003
+ankle pain	247373008
+severe pain (finding)	76948002
+drowsy	271782001
+backache	161891005
+lameness	16973004
+tremor, nos	26079004
+generalised pain	82991003
+morbus cordis	56265001
+mentally dull (finding)	419723007
+shaking	26079004
+rheumatic gout	69896004
+brbpr - bright red blood per rectum	405729008
+generalized acute body pains (finding)	102480002
+pins and needles (finding)	62507009
+eruption	271807003
+cardiac infarction	22298006
+elevated blood pressure	38341003
+myalgia/myositis - shoulder	288226003
+changeable mood	18963009
+pain, nos	22253000
+passage of bloody stools	405729008
+hip pain (finding)	49218002
+pain provoked by movement (finding)	425423002
+itchy	418290006
+loss of power in limb	309774006
+loss of energy	248274002
+involuntary quiver	26079004
+parkinson disease	49049000
+heart disease	56265001
+abdominal pain	21522001
+liver enzymes abnormal (finding)	166643006
+hypertension	38341003
+does not feel right	367391008
+menstrual cramp	431416001
+leg pain	10601006
+acute abdominal complaint	9991008
+amyotrophia, nos	88092000
+lack of energy	248274002
+tinnitus, nos	60862001
+inflammatory disorder of tendon	34840004
+tachycardia (finding)	3424008
+cramp, nos	55300003
+low back pain	279039007
+shoulder pain	45326000
+lbp - low back pain	279039007
+migraine	37796009
+flu-like symptoms	95891005
+arthralgia of knee	30989003
+reduced libido	8357008
+parkinsons disease	49049000
+lack of appetite	79890006
+bright red blood per rectum	405729008
+arthralgia	57676002
+lack of motivation	277521002
+dysmnesia	386807006
+tremor	26079004
+cardiac disorder	56265001
+memory impairment (finding)	386807006
+willis-ekbom disease	32914008
+weight increased (finding)	262286000
+itching of skin (finding)	418363000
+restlessness	24199005
+numbness of hand (finding)	309521004
+dolor	22253000
+lack of stamina	248277009
+paresthesia of hand	309086004
+breaking out - eruption	271807003
+articular pain	57676002
+shoulder region pain	45326000
+shaking all over	26079004
+pain	22253000
+muscle tension	250069006
+hypermenorrhea	386692008
+reduced mobility	8510008
+myocardial infarction, nos	22298006
+paresthesia of hand (finding)	309086004
+not feeling great	367391008
+generalized aches and pains	82991003
+flatulence	162076009
+flu-like illness	95891005
+sleeplessness	193462001
+hypertensive vascular degeneration	38341003
+loose bowel movement	62315008
+sensation of burning of skin	90673000
+stomach cramps	51197009
+myopathy	129565002
+hypertensive disorder, systemic arterial	38341003
+ringing in ears	60862001
+shoulder joint pain	267949000
+pain in lower limb (finding)	10601006
+washed out	60119000
+flatulence/wind	267052005
+tingling sensation	62507009
+colic	9991008
+irritability	55929007
+low libido	8357008
+paraesthesia of lower extremity	429783005
+muscle tiredness	80449002
+balance impairment	387603000
+weight increased (observable entity)	262286000
+peripheral neuropathy	302226006
+forgetful (finding)	55533009
+back pain	161891005
+tachycardia - pulse	86651002
+myalgia/myositis -pelvis/thigh (finding)	288230000
+generalized body aches	82991003
+idiopathic parkinsonism	49049000
+tendinitis (disorder)	34840004
+hypertensive disorder	38341003
+pulse fast	86651002
+malaise	367391008
+acid reflux (finding)	698065002
+difficulty swallowing (finding)	288939007
+pain in toe	285365001
+type ii diabetes mellitus	44054006
+forgetful	55533009
+melancholia, nos	35489007
+aching muscles	68962001
+myalgia/myositis - forearm (finding)	288228002
+depressive disorder (disorder)	35489007
+bewilderment	40917007
+feeling agitated	24199005
+exhaustion (finding)	60119000
+arthralgia of shoulder	267949000
+unable to keep still	24199005
+random blood sugar raised	166892002
+hypertensive disease	38341003
+deadness - numbness	44077006
+constant pain (finding)	426206001
+arthralgia of the lower leg (finding)	267953003
+problem with balance	387603000
+hypermenorrhoea	386692008
+unable to think clearly	247640008
+pd - parkinson's disease	49049000
+unable to walk	282145008
+tired (finding)	224960004
+neuropathy (disorder)	386033004
+heavy periods	386692008
+joint pain (finding)	57676002
+feels unwell	367391008
+weakness of limb (finding)	309774006
+stiff legs	225609009
+rha - rheumatoid arthritis	69896004
+disorder of liver	235856003
+paralysis agitans	49049000
+depressive illness	35489007
+shaking palsy	49049000
+anorexic	79890006
+asthenia	13791008
+foot cramps	102551008
+pain provoked by walking (finding)	426899007
+restless legs (disorder)	32914008
+hazy vision (disorder)	246636008
+haematuria	34436003
+gonalgia	30989003
+stiffness (finding)	271587009
+pain in lower limb	10601006
+rapid heart beat	3424008
+ld - liver disease	235856003
+stomach ache (finding)	271681002
+impaired exercise tolerance (finding)	267044007
+nauseous	422587007
+lack of energy (finding)	248274002
+dry skin (finding)	16386004
+generalised body aches	82991003
+forgetfulness	55533009
+high blood pressure disorder	38341003
+type 2 diabetes mellitus	44054006
+arthralgia of the lower leg	267953003
+tiredness	84229001
+hematochezia	405729008
+knee pain (finding)	30989003
+low back pain (disorder)	279039007
+shoulder joint pain (finding)	267949000
+thoracic back pain (disorder)	279038004
+heavy period	386692008
+plantar fasciitis	202882003
+pain in toe (finding)	285365001
+spasm, nos	45352006
+pain observations	22253000
+muscle pain (finding)	68962001
+blurred vision	246636008
+major depressive disorder, nos	35489007
+feels off-colour	367391008
+exhaustion	60119000
+muscle weakness	26544005
+proliferative arthritis	69896004
+cramp in foot (finding)	102551008
+headache, nos	25064002
+moody	286641001
+numbness of upper limb	298753001
+knee stiff	249913002
+diabetes mellitus - adult onset	44054006
+backache (finding)	161891005
+tendonitis	34840004
+muddled	40917007
+dry skin	16386004
+cramp in muscle, nos	55300003
+difficulty breathing	230145002
+muscles tire easily	80449002
+visual disturbance, nos	63102001
+has a tremor	26079004
+quivering	26079004
+tired all the time	267032009
+impaired memory	386807006
+disorder of skeletal and/or smooth muscle	129565002
+muddled thought	247640008
+abdominal colic (finding)	9991008
+generalized acute body pains	102480002
+loss of motivation (finding)	277521002
+lack of libido	248096004
+restless legs	32914008
+increased blood pressure (not hypertension)	24184005
+haematochezia	405729008
+disorder of muscle	129565002
+non-insulin-dependent diabetes mellitus	44054006
+cardiopathy, nos	56265001
+knee stiff (finding)	249913002
+mist over eyes	246636008
+pressure in chest	23924001
+stomach ache	271681002
+heavy legs	161873000
+pain in upper limb	102556003
+bright red blood in stool	405729008
+idiopathic parkinson's disease	49049000
+cerebrovascular accident	230690007
+pain of upper limb	102556003
+morbus cordis, nos	56265001
+jerking	249966004
+tired all the time (finding)	267032009
+anorexia	79890006
+cannot sleep at all (finding)	248255005
+peripheral nerve disease (disorder)	302226006
+nonspecific pain in the neck region	81680005
+limitation of motion	8510008
+myocardial infarct	22298006
+cramp in lower leg	449918009
+heart disease, nos	56265001
+elevated blood pressure	24184005
+excessive sleep	77692006
+dizziness - light-headed	386705008
+knee pain	30989003
+migraine, nos	37796009
+eruption (disorder)	271807003
+dib - difficulty in breathing	230145002
+hepatopathy	235856003
+tremor (finding)	26079004
+painful hand	53057004
+confused	40917007
+misty vision	246636008
+spasm of uterus (finding)	29542008
+confusion	40917007
+eruption of skin (disorder)	271807003
+excruciating pain	67849003
+impaired exercise tolerance	267044007
+cardiopathy	56265001
+idiopathic parkinsonism	49049000
+lumbar pain	279039007
+agitated	24199005
+limitation of joint movement (finding)	70733008
+lumbalgia	279039007
+abdominal pain (finding)	21522001
+difficulty sleeping (finding)	301345002
+cramp in calf	250084002
+nonspecific pain in the lumbar region	279039007
+pins and needles sensation	62507009
+limping	16973004
+fatigue (finding)	84229001
+upset stomach	162059005
+muscle cramp	55300003
+partial musculoskeletal mobility, nos	8510008
+weight gain finding (finding)	8943002
+dullness of senses	40917007
+skin rash	271807003
+generally unwell (finding)	213257006
+lacking in energy	248274002
+plantar fascial fibromatosis	202882003
+limitation of joint movement	70733008
+charleyhorse (finding)	54981004
+serum creatinine raised (finding)	166717003
+observation of diarrhoea	62315008
+tendonitis, nos	34840004
+drowsiness	271782001
+difficulty walking	228158008
+impairment of balance (finding)	387603000
+disturbance of memory	386807006
+dazed	40917007
+muscular atrophy	88092000
+mental dullness	419723007
+agitated behavior	24199005
+muscle fatigue	80449002
+myalgia/myositis - forearm	288228002
+incomplete paralysis	26544005
+poor memory	386807006
+diarrhoea	62315008
+generalised acute body pains	102480002
+finding of increased blood pressure	24184005
+unable to climb stairs	165247006
+abdominal cramps	51197009
+stiffness	271587009
+calf pain	300954003
+heavy menstrual bleeding	386692008
+emotional lability	18963009
+unable to concentrate (finding)	60032008
+ap - abdominal pain	21522001
+numbness of toe (finding)	309539008
+poor concentration (finding)	26329005
+heart rate fast	3424008
+feels light headed	386705008
+hypersomnia (excessive sleeping)	77692006
+neck ache	81680005
+chest pain	29857009
+variable mood	18963009
+raised blood pressure	24184005
+myalgia/myositis -pelvis/thigh	288230000
+low back pain (finding)	279039007
+tachycardia	3424008
+memory problem	386807006
+shakes	26079004
+unstable mood	18963009
+cognitive impairment	386806002
+reduced libido (finding)	8357008
+weakness	13791008
+partial musculoskeletal mobility	8510008
+foot pain (finding)	47933007
+muscles tyre easily	80449002
+numbness of toe	309539008
+pins and needles	62507009
+feeling of chest tightness	23924001
+hypersomnia (disorder)	77692006
+nausea (finding)	422587007
+disorder of skeletal and/or smooth muscle (disorder)	129565002
+skin eruption	271807003
+paresthesia of lower extremity (finding)	429783005
+vertigo - giddiness	399153001
+cervicodynia	81680005
+rash	271807003
+paraesthesia of lower limb	429783005
+menstrual cramp (finding)	431416001
+poor concentration	26329005
+raised blood pressure	38341003
+mood swings (finding)	18963009
+flatulence, eructation and gas pain	271832001
+generalized acute body aches	102480002
+pain in elbow (finding)	74323005
+heart attack, nos	22298006
+clouded consciousness (finding)	40917007
+hand cramps	250082003
+mood swings	18963009
+backache	161891005
+general feeling of illness	213257006
+generalized body pains	82991003
+htn - hypertension	38341003
+noise in ears	60862001
+heel pain	2733002
+limping (finding)	16973004
+elevated blood pressure (not hypertension)	24184005
+depressed	35489007
+high blood pressure	38341003
+unable to climb stairs (finding)	165247006
+asthenia (finding)	13791008
+painful joint	57676002
+lumbago	279039007
+cramp in calf (finding)	250084002
+influenza like illness	95891005
+trembling	26079004
+moody (finding)	286641001
+weight gain (finding)	8943002
+difficulty breathing (finding)	230145002
+dizziness (finding)	404640003
+toe pain	285365001
+pain (finding)	22253000
+muscle cramps in foot	102551008
+plantar fasciitis (disorder)	202882003
+vomiting	422400008
+feces: blood	405729008
+pain in hand	53057004
+poor short-term memory	247592009
+muddled thinking	247640008
+arthritis	3723001
+concentration impairment	60032008
+debility	13791008
+disease of liver	235856003
+somnolence	271782001
+excruciating pain (finding)	67849003
+colicky abdominal pain	9991008
+pain in upper limb (finding)	102556003
+increased body weight	8943002
+hazy vision	246636008
+chest pain (finding)	29857009
+muscle cramp, nos	55300003
+painful neck	81680005
+mood swing	18963009
+diabetes mellitus type 2	44054006
+fussiness	55929007
+diabetes mellitus type 2 (disorder)	44054006
+memory deficit	386807006
+neck pain (finding)	81680005
+intestinal colic	9991008
+infarction of heart	22298006
+cephalodynia	25064002
+nauseated	422587007
+mi - myocardial infarction	22298006
+flatulence/wind (finding)	267052005
+liver disease	235856003
+depression	35489007
+tenalgia	21545007
+acute abdominal pain	9991008
+ringing in ear (finding)	162352007
+difficulty swallowing	288939007
+swollen face	278528006
+serum cholesterol raised (finding)	166830008
+parkinson's disease (disorder)	49049000
+headache (finding)	25064002
+spasm (finding)	45352006
+tendinitis, nos	34840004
+low back syndrome	279039007
+range of joint movement reduced	70733008
+cognitive decline	386806002
+emotionally labile	18963009
+muscular atrophy, nos	88092000
+hematuria	34436003
+loss of sensation	44077006
+loss of appetite (finding)	79890006
+rotatory vertigo	399153001
+painful	22253000
+flushing	238810007
+respiration difficult	230145002
+hyperpiesis	38341003
+lack of stamina (finding)	248277009
+chest pain, nos	29857009
+increased heart rate	3424008
+impaired cognition	386806002
+liver enzymes abnormal	166643006
+cramp in foot	102551008
+pruritus	418363000
+loss of motivation	277521002
+numbness	44077006
+myosalgia	68962001
+loss of hair	278040002
+cannot sleep at all	248255005
+depressive disorder	35489007
+joint inflammation	3723001
+impairment of balance	387603000
+tired	224960004
+limp	16973004
+feeling agitated (finding)	24199005
+visual disturbance (disorder)	63102001
+systemic arterial hypertension	38341003
+anhydrotic skin	16386004
+arthralgia of the shoulder region	267949000
+generalized aches and pains (finding)	82991003
+irritable mood	55929007
+ankle pain (finding)	247373008
+cervical pain	81680005
+heart disease (disorder)	56265001
+limited mobility	8510008
+hyperpiesia	38341003
+muscle wasting disorder	88092000
+foggy vision	246636008
+labile mood	18963009
+memory impairment	386807006
+nausea	422587007
+hematochezia (finding)	405729008
+neuropathy (nerve damage)	386033004
+hand cramps (finding)	250082003
+myopathic disease	129565002
+agitated behaviour	24199005
+weight gain finding	8943002
+lightheadedness (finding)	386705008
+acid reflux	698065002
+exanthem	271807003
+atrophic arthritis	69896004
+poor short-term memory (finding)	247592009
+generalised aches and pains	82991003
+hypertensive disorder, systemic arterial (disorder)	38341003
+amyotrophia	88092000
+pain in elbow	74323005
+bleeding (finding)	131148009
+excessive upper gastrointestinal gas	162076009
+bp+ - hypertension	38341003
+sleeps too much	77692006
+restless	24199005
+vague bodily discomfort	367391008
+weakness of limb	309774006
+heel pain (finding)	2733002
+light-headedness	386705008
+part hurts	22253000
+joint pain	57676002
+tachycardia, nos	3424008
+spasm of back muscles	203095000
+feeling irritable	55929007
+flushing (disorder)	238810007
+difficulty sleeping	301345002
+abdominal colic	9991008
+flatulence, eructation and gas pain (finding)	271832001
+muscle fatigue (finding)	80449002
+eruption of skin	271807003
+muscle strength reduced	26544005
+tight chest (finding)	23924001
+stomach upset	271681002
+emesis	422400008
+general weakness	13791008
+blurred vision - hazy	246636008
+uterine spasm (disorder)	29542008
+spasmodic movement	249966004
+arthralgia of hip	49218002
+burning sensation (finding)	90673000
+hbp - high blood pressure	38341003
+chronic rheumatic arthritis	69896004
+mentally dull	419723007
+short-term memory loss	247592009
+stomach gripes	51197009
+arm pain, nos	102556003
+charleyhorse	54981004
+lack of libido (finding)	248096004
+numbness (finding)	44077006
+flatulence	267052005
+pulse fast (finding)	86651002
+insomnia (disorder)	193462001
+tatt - tired all the time	267032009
+foot pain	47933007
+no appetite	79890006
+podalgia	47933007
+tendinitis	34840004
+hand pain (finding)	53057004
+somnolence (sleepiness)	271782001
+myocardial infarction (disorder)	22298006
+upset tummy	162059005
+serum cholesterol raised	166830008
+itching (finding)	418290006
+hip pain	49218002
+tinnitus (finding)	60862001
+farting	267052005
+mi - myocardial infarction	22298006
+arthritis, nos	3723001
+belly ache	271681002
+muscle cramps	55300003
+hypersomnia	77692006
+cardiac infarction, nos	22298006
+mental status, drowsy	271782001
+tightness in throat (finding)	247323005
+cramp in muscle	55300003
+vertigo (finding)	399153001
+melancholia	35489007
+impaired walking	228158008
+rheumatoid arthritis	69896004
+burning sensation	90673000
+tinnitus	60862001
+disorder of liver (disorder)	235856003
+pain provoked by walking	426899007
+vertigo	399153001
+palpitations	80313002
+thigh pain	78514002
+weariness	84229001
+paresthesia of lower extremity	429783005
+talalgia	2733002
+paresthesia of lower limb	429783005
+excessive upper gastrointestinal gas (finding)	162076009
+short term memory loss	247592009
+tight chest	23924001
+rotary vertigo	399153001
+spasmodic movement (finding)	249966004

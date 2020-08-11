@@ -1,0 +1,449 @@
+restless leg disorder	32914008
+clenching of teeth	110302009
+restless leg syndrome (diagnosis)	32914008
+rndx sleep pattern disturbance (diagnosis)	26677001
+memory impairment	55533009
+muscle twitch (finding)	60238002
+nightmares	419145002
+disorder of ejaculation	386790008
+hyporexia	64379006
+drugged state (finding)	34951003
+shaking	26079004
+muscle twitches	60238002
+night sweats	42984000
+worn out	60119000
+decreased appetite (symptom)	64379006
+rndx sleep deprivation	130989002
+deprivation, sleep	130989002
+tremors	26079004
+poor memory	55533009
+dental clenching	110302009
+syndrome, wittmaack-ekbom	32914008
+restless legs	32914008
+reduced libido (finding)	8357008
+affect shallowness	932006
+libido decreased	8357008
+tense	263897001
+ache tummy	162059005
+abdo. discomfort	43364001
+state; panic	79823003
+stomach gripes	51197009
+tenseness	263897001
+syndrome; restless legs	32914008
+shaking/tremors	26079004
+libido, increased	58436003
+tremor, unspecified	26079004
+decreased food appetite	64379006
+overweight (diagnosis)	238131007
+panic reaction	79823003
+restless	162221009
+overweight (finding)	238131007
+increased sexual interest	58436003
+sleep deprivation [disease/finding]	130989002
+d tremors	26079004
+stomach cramps	51197009
+overweight (bmi<30)	238131007
+appetite decrease	64379006
+overweight [disease/finding]	238131007
+alcohol tolerance lowered	102612005
+tired	224960004
+tremor (situation)	26079004
+feeling intoxicated	102897001
+mental concentration difficult	60032008
+appetite stimulating	72405004
+ejaculation disorder, nos	386790008
+exhaustion	60119000
+tremor nos	26079004
+sleep deprivation (finding)	130989002
+tremor (finding)	26079004
+panic [ambiguous]	79823003
+flu-like symptoms	315642008
+loss motivation	277521002
+night sweat	42984000
+intolerance;alcohol	102612005
+shake	26079004
+overweight (physical finding)	238131007
+sleep-pattern disturbance (finding)	26677001
+urge for alcohol	228365005
+not enough sleeping	130989002
+overweight (bmi <30)	238131007
+nights sweats	42984000
+excessive crying (diagnosis)	162213003
+unable to cry (finding)	715039008
+tremor 	26079004
+reaction panic	79823003
+tummy ache	162059005
+discomfort abdominal	43364001
+tremor (physical finding)	26079004
+quiver	26079004
+buzzing sound in the ears	162351000
+quivering	26079004
+the affect demonstrated excessive crying	162213003
+disturbed sleep patterns	26677001
+increased sexual arousal	58436003
+upset; stomach	162059005
+restlessness (finding)	162221009
+increase in appetite	72405004
+excessive sleepiness during day	141000119100
+increased appetite	72405004
+unable to concentrate (finding)	60032008
+tremor, nos	26079004
+moody (finding)	286641001
+flat affect	932006
+decrease in sexual desire	8357008
+impaired sleep	26677001
+sleep deprivations	130989002
+craving alcohol (symptom)	228365005
+daytime somnolence	141000119100
+metallic taste in mouth (symptom)	11193009
+feeling;tense	263897001
+tremor symptom	26079004
+upset tummy	162059005
+feeling nervous (symptom)	424196004
+abdomen discomfort	43364001
+jerk	60238002
+washed out	60119000
+night sweats (finding)	42984000
+increase in libido	58436003
+aches tummy	162059005
+appetite increased nos	72405004
+forgetful (finding)	55533009
+buzz ears	162351000
+stomachs upset	162059005
+metallic taste (finding)	11193009
+trembles	26079004
+influenza-like symptoms (finding)	315642008
+forgetful	55533009
+abdominal discomfort (finding)	43364001
+changed sexual interest (libido): increased	58436003
+panic	79823003
+stomach cramp	51197009
+a46-a47 tremors	26079004
+stomach	300306001
+decrease appetite	64379006
+poor appetite	64379006
+twitch(ing)	60238002
+exhaustion (finding)	60119000
+alcohol cravings	228365005
+increased libido (finding)	58436003
+rndx sleep deprivation (diagnosis)	130989002
+overweight (bmi 25-30)	238131007
+increased hunger	72405004
+polyphagia	72405004
+appetite increase	72405004
+sleep deprivation	130989002
+mental concentration difficulty	60032008
+has a tremor	26079004
+upset stomach (finding)	162059005
+concentration impaired	60032008
+twitching nos	60238002
+ejaculation disorder nos	386790008
+overweight	238131007
+sexual desire increased	58436003
+teeth clenching	110302009
+involuntary shaking or trembling movements (symptom)	26079004
+ache stomach	162059005
+tired (finding)	224960004
+excessive crying	162213003
+increased sexual interest (symptom)	58436003
+twitched	60238002
+diminished motivation	277521002
+nocturnal perspiration	42984000
+detailed recall of dream (finding)	247953009
+inappetence	64379006
+metallic taste in mouth	11193009
+tremor [disease/finding]	26079004
+detailed recall of dream	247953009
+stomach problem (finding)	300306001
+marked restlessness	162221009
+tremor	26079004
+aches stomach	162059005
+trembled	26079004
+suicidal	267073005
+quivers	26079004
+tremor nos (context-dependent category)	26079004
+muscle twitch	60238002
+food appetite, decreased	64379006
+reduced concentration	247761005
+problems stomach	300306001
+restless legs syndrome [disease/finding]	32914008
+appetite increased	72405004
+unable to cry	715039008
+panic; state	79823003
+clench teeth	110302009
+buzzing ears	162351000
+sexual; arousal decreased	8357008
+feeling groggy	102897001
+appetite increasing	72405004
+limited concentration	247761005
+tremor nos	26079004
+buzz ear	162351000
+alcohol intolerance	102612005
+increased appetite (symptom)	72405004
+feeling nervous	424196004
+frightening dreams	419145002
+involuntary shaking or trembling movements	26079004
+(has a tremor) or (tremor symptom) or (shaking) (finding)	26079004
+reduced sexual desire	8357008
+feeling of restlessness	162221009
+crying excessive	162213003
+outburst of anger	274951009
+syndrome restless legs	32914008
+willis ekbom disease	32914008
+loss of motivation	277521002
+tremors/shaking	26079004
+sleep pattern disturbance	26677001
+motor exam involuntary movements tremor trembles	26079004
+muscle twitching	60238002
+panic-stricken	79823003
+over weight	238131007
+food appetite, increased	72405004
+manic mood (finding)	405273008
+terrifying dreams	419145002
+distrubed sleep pattern	26677001
+libido, decreased	8357008
+outbursts of rage	274951009
+excessive crying (physical finding)	162213003
+excessive energy	247779009
+sleep pattern disturbance (finding)	26677001
+ear buzzing	162351000
+ekbom syndrome	32914008
+memory problems	55533009
+tense feeling	263897001
+decrease in appetite	64379006
+sweating; night	42984000
+lack of adequate sleep	130989002
+buzzing in ear	162351000
+tremors as symptom	26079004
+libido excessive	58436003
+feeling;nervous	424196004
+increased appetite (finding)	72405004
+feeling tense (finding)	263897001
+restless leg syndrome (rls)	32914008
+concentration impairment	60032008
+crying, excessive (finding)	162213003
+tremor  (situation)	26079004
+panic (finding)	79823003
+anger outburst	274951009
+anger outbursts	274951009
+decreased sexual desire	8357008
+aches belly	162059005
+panicky	79823003
+restless legs; syndrome	32914008
+influenza-like illness	315642008
+metallic taste (symptom)	11193009
+daytime somnolence (finding)	141000119100
+sweat; night sweats	42984000
+suicidal (finding)	267073005
+disturbed mental concentration	60032008
+appetite reducing	64379006
+decreased sexual interest	8357008
+decrease in appetite (finding)	64379006
+flat affect (physical finding)	932006
+trembling	26079004
+rls	32914008
+taste, metallic	11193009
+disease, willis ekbom	32914008
+loss of motivation (finding)	277521002
+sleep deficit	130989002
+unable (to);concentrate	60032008
+wittmaack ekbom syndrome	32914008
+excessive sleepiness during day (symptom)	141000119100
+drugged state	34951003
+restlessness marked	162221009
+concentrate inability	60032008
+restless legs syndrome (rls)	32914008
+manic	405273008
+appetites decrease	64379006
+alcohol intolerance (diagnosis)	102612005
+twitches	60238002
+ekbom	32914008
+mania	405273008
+nightmare	419145002
+buzzing sound in ears	162351000
+feeling nervous (finding)	424196004
+restless legs syndrome	32914008
+decreased libido	8357008
+disease, willis-ekbom	32914008
+lack of motivation	277521002
+concentration difficulties	60032008
+stomachaches	162059005
+increased sexual desire	58436003
+difficulty concentration	60032008
+craving for alcohol (finding)	228365005
+lack of concentration	60032008
+syndrome, restless leg	32914008
+alcohol intolerance (finding)	102612005
+crying, excessive	162213003
+cerebration impaired	60032008
+intolerance alcohol	102612005
+jerked	60238002
+feeling intoxicated (finding)	102897001
+tastes, metallic	11193009
+patient overweight	238131007
+flat affect (finding)	932006
+feeling tense	263897001
+exhausted	60119000
+stomach problem	300306001
+drunk feeling	102897001
+inability to concentrate	60032008
+feeling jittery	424196004
+shakes	26079004
+intolerance alcoholic	102612005
+vivid dreaming	247953009
+reduced concentration (finding)	247761005
+sexual arousal decreased	8357008
+nightmares (finding)	419145002
+shaking all over	26079004
+changed sexual interest (libido): decreased	8357008
+tremor (context-dependent category)	26079004
+vivid dream	247953009
+buzzing ear	162351000
+appetite decreasing	64379006
+panic state	79823003
+buzzing in ear (finding)	162351000
+wittmaack-ekbom syndrome	32914008
+discomfort stomach	162059005
+bizarre dreams (finding)	419581008
+restless leg syndrome	32914008
+willis-ekbom disease	32914008
+disorder of ejaculation (disorder)	386790008
+deprivations, sleep	130989002
+involuntary shaking	26079004
+ear buzz	162351000
+syndrome, willis ekbom	32914008
+concentration lack	60032008
+appetite stimulated	72405004
+disorders ejaculation	386790008
+lack concentration	60032008
+decrease in libido	8357008
+rndx sleep pattern disturbance	26677001
+restlessness behavior	162221009
+inhib/loss sexual desire	8357008
+(has a tremor) or (tremor symptom) or (shaking)	26079004
+craving for alcohol	228365005
+syndrome, willis-ekbom	32914008
+clinical overweight	238131007
+ejaculatory dysfunction	386790008
+buzzing sound in ears (symptom)	162351000
+disturbed sleep pattern	26677001
+excessive;crying	162213003
+libido increased	58436003
+taste metallic	11193009
+jerking	60238002
+decreas sexual desire	8357008
+willis-ekbom syndrome	32914008
+appetite decreased	64379006
+clenching teeth (finding)	110302009
+legs restless	32914008
+restless legs (disorder)	32914008
+buzzing of ears	162351000
+poor;appetite	64379006
+griping stomach	51197009
+concentration (mental) abnormal	60032008
+outbursts of anger (finding)	274951009
+appetite poor	64379006
+restlessness	162221009
+concentration difficulty	60032008
+decreased sexual interest (symptom)	8357008
+unable to concentrate	60032008
+flu like symptoms	315642008
+sweating heavily at night	42984000
+restlessness behaviour	162221009
+upset stomach	162059005
+low libido	8357008
+jerks	60238002
+exhaustion, nos	60119000
+tremor  (finding)	26079004
+bizarre dreams	419581008
+cramp(s);stomach	51197009
+willis ekbom syndrome	32914008
+appetite increases	72405004
+lacking motivation	277521002
+stomach ache	162059005
+reduced;sexual desire	8357008
+sore tummy	162059005
+muscle twitches (symptom)	60238002
+stomach upsets	162059005
+buzzing (in);ear	162351000
+increased appetite (polyphagia)	72405004
+inhibition/loss sexual desire	8357008
+washed-out	60119000
+ekbom's syndrome	32914008
+problem;sweating;night	42984000
+nocturnal; sweating	42984000
+increased libido	58436003
+metallic taste	11193009
+craving alcohol	228365005
+feelings nervous	424196004
+the shakes	26079004
+excessive sleepiness during the day (daytime somnolence)	141000119100
+abdominal discomfort	43364001
+nightmares (symptom)	419145002
+discomfort;abdominal	43364001
+ejaculation disorder	386790008
+mental concentration impaired	60032008
+reduced libido	8357008
+nocturnal hyperhidrosis	42984000
+belly ache	162059005
+affect flat	932006
+concentration loss	60032008
+increased;appetite	72405004
+nightmares	419145002
+clenching teeth	110302009
+moody	286641001
+sexual feeling decreased	8357008
+stomach cramps (finding)	51197009
+appetite decreased nos	64379006
+metallic tastes	11193009
+excessive energy (finding)	247779009
+feeling drunk	102897001
+trembles (physical finding)	26079004
+nervousness	424196004
+flu-like symptoms (symptom)	315642008
+drunkenness feeling of	102897001
+unable to keep still	162221009
+decreased;appetite	64379006
+increase appetite	72405004
+alcohol craving	228365005
+forgetfulness	55533009
+stomach discomfort	162059005
+vivid dreams	247953009
+twitch	60238002
+clenched teeth	110302009
+twitching	60238002
+impaired concentration	60032008
+appetite stimulate	72405004
+dreaming vivid	247953009
+libido loss of	8357008
+involuntary shaking or trembling movements (tremor)	26079004
+sexual desire decreased	8357008
+drugged	34951003
+increasing libido	58436003
+panics	79823003
+sleep-pattern disturbance	26677001
+manic mood	405273008
+stomach; upset	162059005
+night sweating	42984000
+excessive crying (symptom)	162213003
+inability to maintain attention	60032008
+reduced appetite	64379006
+stomach upset	162059005
+syndrome, wittmaack ekbom	32914008
+excessive libido	58436003
+urge alcohol	228365005
+tremor nos (situation)	26079004
+tremor	26079004
+sexual desire reduced	8357008
+reduced;libido	8357008
+outbursts of anger	274951009
+metallic taste in the mouth	11193009
+decreased appetite	64379006
+increased food appetite	72405004
+tremor (diagnosis)	26079004
+influenza like symptoms	315642008
+restless leg	32914008
+ejaculation dysfunction	386790008
+stimulate appetite	72405004
+influenza-like symptoms	315642008
+sweating heavily at night (symptom)	42984000

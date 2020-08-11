@@ -1,0 +1,237 @@
+blood in feces	405729008
+tendon pain	21545007
+policeman's heel	202882003
+paresis, nos	26544005
+sore tummy	271681002
+heart attack	22298006
+elbow pain	74323005
+poor sleep	301345002
+muscle twitch	60238002
+brbpr	405729008
+clouding of consciousness	40917007
+blood in stool	405729008
+bloody stool	405729008
+fresh blood passed per rectum	405729008
+lack of concentration	60032008
+paresis	26544005
+worn out	60119000
+severe pain	76948002
+heavy legs (finding)	161873000
+muscle twitch (finding)	60238002
+coxalgia	49218002
+spasm of back muscles (finding)	203095000
+burning feet (finding)	36031001
+wooziness	40917007
+spasm - movement	249966004
+constant pain	426206001
+clouded consciousness	40917007
+decreased muscle strength	26544005
+stiff legs (finding)	225609009
+facial swelling	278528006
+stomach discomfort	271681002
+stomach cramps (finding)	51197009
+joint movement restrained	70733008
+twitch	60238002
+limitation of joint motion	70733008
+neuropathy	386033004
+muscle weakness (finding)	26544005
+claudication	16973004
+leg pain, nos	10601006
+myocardial infarction	22298006
+walking disability (finding)	228158008
+tenalgia (finding)	21545007
+upset stomach (finding)	162059005
+hand pain	53057004
+numbness of hand	309521004
+tenodynia	21545007
+decreased libido	8357008
+numbness of foot (finding)	309538000
+facial swelling (finding)	278528006
+restriction of joint motion	70733008
+limited range of motion	70733008
+thoracic back pain	279038004
+unable to concentrate	60032008
+meralgia	78514002
+infarction of heart, nos	22298006
+muzzy headed	40917007
+joint movement restricted	70733008
+blood in faeces	405729008
+dazed state	40917007
+faeces: blood	405729008
+tummy ache	271681002
+walking disability	228158008
+muscle tension (finding)	250069006
+reduced mobility (finding)	8510008
+tightness in throat	247323005
+thoracic back pain (finding)	279038004
+burning feet	36031001
+numbness of foot	309538000
+ekbom syndrome	32914008
+paraesthesia of hand	309086004
+twitching	249966004
+weight increased	262286000
+involuntary trembling	26079004
+hip joint pain	49218002
+exhaustion, nos	60119000
+thigh pain (finding)	78514002
+the shakes	26079004
+restless legs syndrome	32914008
+ankle pain	247373008
+severe pain (finding)	76948002
+lameness	16973004
+tremor, nos	26079004
+shaking	26079004
+brbpr - bright red blood per rectum	405729008
+cardiac infarction	22298006
+passage of bloody stools	405729008
+hip pain (finding)	49218002
+involuntary quiver	26079004
+leg pain	10601006
+reduced libido	8357008
+bright red blood per rectum	405729008
+lack of motivation	277521002
+tremor	26079004
+willis-ekbom disease	32914008
+weight increased (finding)	262286000
+numbness of hand (finding)	309521004
+lack of stamina	248277009
+paresthesia of hand	309086004
+shaking all over	26079004
+muscle tension	250069006
+reduced mobility	8510008
+myocardial infarction, nos	22298006
+paresthesia of hand (finding)	309086004
+sensation of burning of skin	90673000
+stomach cramps	51197009
+pain in lower limb (finding)	10601006
+washed out	60119000
+low libido	8357008
+weight increased (observable entity)	262286000
+forgetful (finding)	55533009
+pain in toe	285365001
+forgetful	55533009
+bewilderment	40917007
+exhaustion (finding)	60119000
+constant pain (finding)	426206001
+tired (finding)	224960004
+neuropathy (disorder)	386033004
+stiff legs	225609009
+foot cramps	102551008
+restless legs (disorder)	32914008
+stiffness (finding)	271587009
+pain in lower limb	10601006
+stomach ache (finding)	271681002
+impaired exercise tolerance (finding)	267044007
+dry skin (finding)	16386004
+forgetfulness	55533009
+hematochezia	405729008
+thoracic back pain (disorder)	279038004
+plantar fasciitis	202882003
+pain in toe (finding)	285365001
+exhaustion	60119000
+muscle weakness	26544005
+cramp in foot (finding)	102551008
+moody	286641001
+knee stiff	249913002
+muddled	40917007
+dry skin	16386004
+has a tremor	26079004
+quivering	26079004
+loss of motivation (finding)	277521002
+restless legs	32914008
+haematochezia	405729008
+knee stiff (finding)	249913002
+stomach ache	271681002
+heavy legs	161873000
+bright red blood in stool	405729008
+jerking	249966004
+limitation of motion	8510008
+myocardial infarct	22298006
+tremor (finding)	26079004
+painful hand	53057004
+confused	40917007
+confusion	40917007
+excruciating pain	67849003
+impaired exercise tolerance	267044007
+limitation of joint movement (finding)	70733008
+difficulty sleeping (finding)	301345002
+cramp in calf	250084002
+limping	16973004
+upset stomach	162059005
+partial musculoskeletal mobility, nos	8510008
+dullness of senses	40917007
+plantar fascial fibromatosis	202882003
+limitation of joint movement	70733008
+charleyhorse (finding)	54981004
+difficulty walking	228158008
+dazed	40917007
+incomplete paralysis	26544005
+abdominal cramps	51197009
+stiffness	271587009
+unable to concentrate (finding)	60032008
+numbness of toe (finding)	309539008
+poor concentration (finding)	26329005
+shakes	26079004
+reduced libido (finding)	8357008
+partial musculoskeletal mobility	8510008
+foot pain (finding)	47933007
+numbness of toe	309539008
+poor concentration	26329005
+pain in elbow (finding)	74323005
+heart attack, nos	22298006
+clouded consciousness (finding)	40917007
+hand cramps	250082003
+heel pain	2733002
+limping (finding)	16973004
+cramp in calf (finding)	250084002
+trembling	26079004
+moody (finding)	286641001
+toe pain	285365001
+muscle cramps in foot	102551008
+plantar fasciitis (disorder)	202882003
+feces: blood	405729008
+pain in hand	53057004
+concentration impairment	60032008
+excruciating pain (finding)	67849003
+infarction of heart	22298006
+mi - myocardial infarction	22298006
+tenalgia	21545007
+swollen face	278528006
+range of joint movement reduced	70733008
+lack of stamina (finding)	248277009
+cramp in foot	102551008
+loss of motivation	277521002
+tired	224960004
+limp	16973004
+anhydrotic skin	16386004
+ankle pain (finding)	247373008
+limited mobility	8510008
+hematochezia (finding)	405729008
+neuropathy (nerve damage)	386033004
+hand cramps (finding)	250082003
+pain in elbow	74323005
+heel pain (finding)	2733002
+spasm of back muscles	203095000
+difficulty sleeping	301345002
+muscle strength reduced	26544005
+stomach upset	271681002
+spasmodic movement	249966004
+arthralgia of hip	49218002
+burning sensation (finding)	90673000
+stomach gripes	51197009
+charleyhorse	54981004
+foot pain	47933007
+podalgia	47933007
+hand pain (finding)	53057004
+myocardial infarction (disorder)	22298006
+upset tummy	162059005
+hip pain	49218002
+mi - myocardial infarction	22298006
+belly ache	271681002
+cardiac infarction, nos	22298006
+tightness in throat (finding)	247323005
+impaired walking	228158008
+burning sensation	90673000
+thigh pain	78514002
+talalgia	2733002
+spasmodic movement (finding)	249966004

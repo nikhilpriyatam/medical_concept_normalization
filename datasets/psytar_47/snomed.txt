@@ -1,0 +1,149 @@
+exhaustion (finding)	60119000
+feeling nervous (finding)	424196004
+forgetful	55533009
+buzzing in ear	162351000
+restless legs	32914008
+tremor	26079004
+restlessness (finding)	162221009
+clenching teeth (finding)	110302009
+tense	263897001
+manic mood (finding)	405273008
+detailed recall of dream (finding)	247953009
+influenza-like symptoms	315642008
+fibromyalgia	203082005
+involuntary quiver	26079004
+increased libido	58436003
+lack of motivation	277521002
+upset stomach (finding)	162059005
+restless legs (disorder)	32914008
+feeling jittery	424196004
+night sweats	42984000
+loss of motivation	277521002
+overweight	238131007
+ekbom syndrome	32914008
+tremor (finding)	26079004
+panic state	79823003
+reduced appetite	64379006
+poor appetite	64379006
+patient overweight	238131007
+fibromyalgia (disorder)	203082005
+sleep pattern disturbance (finding)	26677001
+forgetful (finding)	55533009
+muscle twitch (finding)	60238002
+the shakes	26079004
+stomach cramps	51197009
+tenseness	263897001
+reduced concentration (finding)	247761005
+reduced libido	8357008
+stomach problem	300306001
+lack of adequate sleep	130989002
+disorder of ejaculation (disorder)	386790008
+daytime somnolence	141000119100
+trembling	26079004
+increased libido (finding)	58436003
+decrease in appetite	64379006
+manic mood	405273008
+exhaustion, nos	60119000
+unable to cry (finding)	715039008
+lack of concentration	60032008
+feeling tense	263897001
+night sweats (finding)	42984000
+worn out	60119000
+limited concentration	247761005
+shakes	26079004
+crying, excessive	162213003
+excessive energy	247779009
+quivering	26079004
+drugged state (finding)	34951003
+sleep-pattern disturbance	26677001
+detailed recall of dream	247953009
+bizarre dreams	419581008
+tremor, nos	26079004
+feeling drunk	102897001
+sleep deprivation (finding)	130989002
+willis-ekbom disease	32914008
+nightmares (finding)	419145002
+restlessness	162221009
+reduced concentration	247761005
+feeling intoxicated	102897001
+feeling tense (finding)	263897001
+decreased libido	8357008
+dental clenching	110302009
+upset stomach	162059005
+alcohol intolerance	102612005
+feeling nervous	424196004
+clenching teeth	110302009
+shaking all over	26079004
+forgetfulness	55533009
+panic (finding)	79823003
+sleep-pattern disturbance (finding)	26677001
+loss of motivation (finding)	277521002
+outbursts of anger (finding)	274951009
+stomach gripes	51197009
+motor restlessness	162221009
+abdominal discomfort	43364001
+metallic taste	11193009
+flat affect (finding)	932006
+abdominal discomfort (finding)	43364001
+nervousness	424196004
+fibromyalgia	203082005
+moody (finding)	286641001
+tired	224960004
+increased appetite	72405004
+influenza-like symptoms (finding)	315642008
+increased food appetite	72405004
+sleep deprivation	130989002
+excessive energy (finding)	247779009
+feeling intoxicated (finding)	102897001
+disorder of ejaculation	386790008
+stomach cramps (finding)	51197009
+crying, excessive (finding)	162213003
+craving for alcohol	228365005
+buzzing in ear (finding)	162351000
+bizarre dreams (finding)	419581008
+twitch	60238002
+feeling groggy	102897001
+washed out	60119000
+craving for alcohol (finding)	228365005
+ejaculation disorder	386790008
+upset tummy	162059005
+unable to cry	715039008
+alcohol intolerance (finding)	102612005
+vivid dream	247953009
+metallic taste (finding)	11193009
+restlessness behaviour	162221009
+distrubed sleep pattern	26677001
+moody	286641001
+involuntary trembling	26079004
+flat affect	932006
+abdominal cramps	51197009
+restless legs syndrome	32914008
+stomach problem (finding)	300306001
+shaking	26079004
+increased appetite (finding)	72405004
+urge for alcohol	228365005
+panic reaction	79823003
+sleep pattern disturbance	26677001
+muscle twitch	60238002
+low libido	8357008
+exhaustion	60119000
+has a tremor	26079004
+decrease in appetite (finding)	64379006
+outbursts of rage	274951009
+drugged state	34951003
+decreased food appetite	64379006
+outbursts of anger	274951009
+suicidal (finding)	267073005
+unable to concentrate (finding)	60032008
+unable to concentrate	60032008
+restlessness behavior	162221009
+nightmares	419145002
+clenching of teeth	110302009
+suicidal	267073005
+panic	79823003
+reduced libido (finding)	8357008
+concentration impairment	60032008
+overweight (finding)	238131007
+daytime somnolence (finding)	141000119100
+disturbed sleep pattern	26677001
+tired (finding)	224960004

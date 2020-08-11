@@ -1,0 +1,723 @@
+ls - loose stools	398032003
+anxiety reaction	48694002
+syncope attack	271594007
+nausea	422587007
+feels own self is unreal	79499004
+weight gain finding	8943002
+exhaustion (finding)	60119000
+severe anxiety (panic) (finding)	80583007
+headache	25064002
+afraid	1402001
+off food	79890006
+morbid hunger	32939004
+feeling nervous (finding)	424196004
+forgetful	55533009
+low motivation (finding)	26413003
+buzzing in ear	162351000
+hallucination, nos	7011001
+listless behavior	20602000
+self-harm (finding)	248061004
+difficulty maintaining relationships	424573006
+variable mood	18963009
+loss of pleasure	247796005
+strange behavior	25786006
+middle insomnia	67233009
+excessive somnolence	372947007
+restless legs	32914008
+vomiting symptoms (disorder)	249497008
+listlessness	20602000
+burning reflux	16331000
+cognitive deficit	386806002
+tinnitus	60862001
+breathlessness	267036007
+dyspnoea	267036007
+weight loss	89362005
+chronic alcoholism	66590003
+feels off-color	367391008
+tremor	26079004
+confusional state	286933003
+restlessness (finding)	162221009
+frightened	1402001
+unstable mood	18963009
+migraine	37796009
+excessive weight loss	309257005
+emergency room admission (procedure)	50849002
+feeling suicidal	225457007
+clenching teeth (finding)	110302009
+abnormal behaviour	25786006
+sweats	415690000
+restless	24199005
+migraine (disorder)	37796009
+bipolar disorder, nos	13746004
+feeling irritable	55929007
+articular pain	57676002
+tense	263897001
+dry eyes	162290004
+seeing things	64269007
+short-term memory loss	247592009
+fear (finding)	1402001
+manic mood (finding)	405273008
+feels dreams are real (finding)	225522006
+feeling agitated (finding)	24199005
+memory deficit	386807006
+xerostomia (disorder)	87715008
+detailed recall of dream (finding)	247953009
+social fear	247832004
+orgasm impairment (finding)	40915004
+xerostomia	87715008
+influenza-like symptoms	315642008
+anancastic personality disorder	1376001
+bedbound	160685001
+fibromyalgia	203082005
+racing thoughts	285303006
+tension-type headache (disorder)	398057008
+disturbance of conation, nos	25786006
+depersonalisation	79499004
+hypersomnia (excessive sleeping)	77692006
+social withdrawal	105411000
+myoneuralgia	68962001
+difficulty passing stool	14760008
+involuntary quiver	26079004
+dolor	22253000
+feels poorly	367391008
+blurred vision, nos	111516008
+yawning (finding)	248626009
+increased libido	58436003
+labile in mood	18963009
+memory impairment	386807006
+confusional state (disorder)	286933003
+impotence	397803000
+insomnia	193462001
+excessive sweating (finding)	52613005
+impaired cognition (finding)	386806002
+myalgia	68962001
+major depressive disorder	370143000
+numbness (finding)	44077006
+lack of motivation	277521002
+upset stomach (finding)	162059005
+emotionlessness	45991007
+vague bodily discomfort	367391008
+visual hallucinations	64269007
+ringing in ears	60862001
+painful	22253000
+failure to lose weight	83421005
+restricted work performance (finding)	224398005
+excessive sleepiness	77692006
+disorientation	62476001
+cervical pain	81680005
+restless legs (disorder)	32914008
+anxious cognitions	79015004
+malaise	367391008
+feels off-colour	367391008
+interrupted sleep	67233009
+rotatory vertigo	399153001
+feeling jittery	424196004
+fussiness	55929007
+rotary vertigo	399153001
+worrisome mood	79015004
+aching muscles	68962001
+blackout	271594007
+observation of diarrhea	62315008
+severe anxiety (panic)	80583007
+night sweats	42984000
+constipation	14760008
+erectile dysfunction	397803000
+nightmare disorder	111487009
+lack of feeling	45991007
+dry eyes (finding)	162290004
+bipolar disorder	13746004
+tension-type headache	398057008
+loss of motivation	277521002
+overweight	238131007
+joint pain	57676002
+costiveness	14760008
+tachycardia (finding)	3424008
+ekbom syndrome	32914008
+feels light headed	386705008
+loss of appetite	79890006
+d - diarrhoea	62315008
+yawning	248626009
+tremor (finding)	26079004
+worry	79015004
+failure of erection	397803000
+cannot stop drinking	267026004
+panic state	79823003
+pupil dilated	37125009
+emotional instability	18963009
+sexual impotence	397803000
+apathy	20602000
+loss of capacity to feel emotions	45991007
+dysmnesia	48167000
+worried	79015004
+keeps waking up	67233009
+aptyalia	87715008
+reduced appetite	64379006
+muscle pain (finding)	68962001
+pain	22253000
+disturbance in sleep behaviour	53888004
+generalized aches and pains	82991003
+drowsy	271782001
+poor appetite	64379006
+feels hot (finding)	373932008
+bed-ridden (finding)	160685001
+lack of libido (finding)	248096004
+patient overweight	238131007
+irritable mood	55929007
+tiredness	84229001
+chest pain (finding)	29857009
+fibromyalgia (disorder)	203082005
+somnolence	271782001
+bedridden patient	160685001
+drowsy (finding)	271782001
+sleep pattern disturbance (finding)	26677001
+inpatient care (regime/therapy)	394656005
+nauseated	422587007
+bipolar affective disorder	13746004
+slow flow of thought (finding)	247627003
+feeling anxious	48694002
+generalized body pains	82991003
+memory loss	48167000
+forgetful (finding)	55533009
+anorexia	79890006
+crying	304534000
+feeling high (finding)	307074005
+muscle twitch (finding)	60238002
+grinding teeth	90207007
+emotionally detached (finding)	24936000
+staying in bed	160685001
+depersonalization	79499004
+blurred vision	111516008
+joint pain (finding)	57676002
+memory gone	48167000
+numbness	44077006
+anger	75408008
+the shakes	26079004
+weight loss finding (finding)	89362005
+stomach cramps	51197009
+puerperal depression	58703003
+vertigo	399153001
+hallucinations (finding)	7011001
+hyperhidrosis	52613005
+emotional problems	386816005
+sleepiness	271782001
+tenseness	263897001
+disturbance in sleep behavior (finding)	53888004
+reduced concentration (finding)	247761005
+short term memory loss	247592009
+anxiety (finding)	48694002
+reduced libido	8357008
+admission to a & e department	50849002
+emotionally disturbed	386816005
+heart rate fast	3424008
+difficulty falling asleep	59050008
+difficulty opening bowels	14760008
+loose stool (finding)	398032003
+generalised pain	82991003
+stomach problem	300306001
+drinks continuously	267026004
+lack of adequate sleep	130989002
+nightmare, nos	111487009
+loss of capacity for enjoyment	247796005
+strange behaviour	25786006
+cn - constipation	14760008
+crying (finding)	304534000
+disorder of ejaculation (disorder)	386790008
+lightheaded	386705008
+dyspnea (finding)	267036007
+agitation	24199005
+feeling high	307074005
+climacteric flushing	427368007
+difficulty getting to sleep	59050008
+always sleepy	248262001
+headache, nos	25064002
+painful joint	57676002
+heartburn symptom	16331000
+observation of diarrhoea	62315008
+abnormal conduct	25786006
+observation of nausea	422587007
+drowsiness	271782001
+depersonalization (finding)	79499004
+shortness of breath	267036007
+daytime somnolence	141000119100
+ill-defined experience	367391008
+trembling	26079004
+finding of excessive fluid intake (finding)	267026004
+apathetic behavior	20602000
+sleeplessness	193462001
+increased libido (finding)	58436003
+slow flow of thought	247627003
+muscle ache	68962001
+emotional lability	18963009
+wide pupil	37125009
+unable to control emotions (finding)	285851007
+decrease in appetite	64379006
+sexual disorder (disorder)	231532002
+postpartum depression	58703003
+manic mood	405273008
+vertigo (finding)	399153001
+sensitivity	35209006
+exhaustion, nos	60119000
+lightheadedness (finding)	386705008
+chest pain	29857009
+generalised aches and pains	82991003
+alcohol dependence	66590003
+excessive sweating	52613005
+fear	1402001
+neck pain	81680005
+not feeling great	367391008
+teeth gnashing	90207007
+mood swings	18963009
+climacteric flushing (disorder)	427368007
+unable to cry (finding)	715039008
+suicide attempt (disorder)	82313006
+lack of concentration	60032008
+listless	20602000
+abnormal sensation of hunger	32939004
+dyspnea	267036007
+detached mood	24936000
+anorgasmia	62607004
+raised blood pressure	24184005
+chest pain, nos	29857009
+feeling tense	263897001
+lack of vitality	214264003
+nauseous	422587007
+drinks a lot - fluids	267026004
+orgasm impairment	40915004
+poor short-term memory (finding)	247592009
+unable to think clearly	247640008
+loss of sensation	44077006
+deadness - numbness	44077006
+difficulty maintaining relationships (finding)	424573006
+self-damage	248061004
+mydriatic pupil	37125009
+feeling suicidal (finding)	225457007
+night sweats (finding)	42984000
+fitful sleep	67233009
+worn out	60119000
+vomiting symptom (finding)	249497008
+feeling hopeless (finding)	307077003
+unable to control emotions	285851007
+elevated blood pressure (not hypertension)	24184005
+excessive weight gain (finding)	224994002
+fatigue	84229001
+loss of capacity to feel emotions (finding)	45991007
+impaired memory	386807006
+generalised body aches	82991003
+limited concentration	247761005
+shakes	26079004
+admission to accident and emergency department	50849002
+crying, excessive	162213003
+tinnitus (finding)	60862001
+generalized pain	82991003
+palpitations (finding)	80313002
+excessive energy	247779009
+weariness	84229001
+psychological stress	73595000
+angry mood	75408008
+morbid hunger (finding)	32939004
+aptyalism (disorder)	87715008
+racing thoughts (finding)	285303006
+social fear (finding)	247832004
+quivering	26079004
+drugged state (finding)	34951003
+light-headedness	386705008
+obsessive compulsive personality disorder	1376001
+initial insomnia (disorder)	59050008
+alcohol dependence (disorder)	66590003
+weight loss finding	89362005
+increased blood pressure (not hypertension)	24184005
+diarrhoea	62315008
+migraine, nos	37796009
+housebound (finding)	160689007
+difficulty defecating	14760008
+excessive fluid intake - finding	267026004
+middle insomnia (disorder)	67233009
+sleep-pattern disturbance	26677001
+vesperal insomnia	59050008
+major depression	370143000
+hyperhidrosis (excessive sweating)	52613005
+emotional problem	386816005
+postpartum depression (disorder)	58703003
+bed-fast	160685001
+tachycardia, nos	3424008
+loose bowel motions	62315008
+emotional blunting	6140007
+mydriasis	37125009
+detailed recall of dream	247953009
+indifference	20602000
+cognitive disturbance	386806002
+constipated	14760008
+dilated pupil (finding)	37125009
+bizarre dreams	419581008
+ha - headache	25064002
+unable to lose weight	83421005
+listless behaviour	20602000
+cephalodynia	25064002
+abnormal behavior, nos	25786006
+tremor, nos	26079004
+feeling of hopelessness	307077003
+feeling faint (finding)	248223005
+inpatient care	394656005
+tinnitus, nos	60862001
+increased sweating	52613005
+feeling drunk	102897001
+palpitations	80313002
+difficulty in sleep initiation	59050008
+disturbance of memory	386807006
+myosalgia	68962001
+dry mouth	87715008
+sleep deprivation (finding)	130989002
+willis-ekbom disease	32914008
+bad memory	386807006
+heartburn	16331000
+visual hallucination	64269007
+negative automatic thoughts	247653006
+tachycardia	3424008
+nightmares (finding)	419145002
+cannot sleep at all	248255005
+motivational deficit	26413003
+disorientated (finding)	62476001
+restlessness	162221009
+painful neck	81680005
+reduced concentration	247761005
+fatigue (finding)	84229001
+feeling intoxicated	102897001
+indifference (finding)	20602000
+waterbrash	16331000
+hypersensitivity	35209006
+does not feel right	367391008
+feeling tense (finding)	263897001
+abnormal behavior	25786006
+housebound	160689007
+sensitivity (finding)	35209006
+hot to touch	373932008
+alcohol dependence syndrome	66590003
+decreased libido	8357008
+diarrhea	62315008
+dental clenching	110302009
+lethargy	214264003
+panic attack (finding)	225624000
+difficulty coping	18232000
+somnolence (sleepiness)	271782001
+sleeps too much	77692006
+lethargy (finding)	214264003
+hypersomnia (disorder)	77692006
+upset stomach	162059005
+memory dysfunction	386807006
+alcohol intolerance	102612005
+loss of hair	278040002
+muddled thought	247640008
+lack of appetite	79890006
+grinding of teeth	90207007
+feeling nervous	424196004
+excessive weight gain	224994002
+noise in ears	60862001
+loss of memory	48167000
+hopelessness	307077003
+disturbance of orientation, nos	62476001
+suicide attempt, nos	82313006
+blurring of visual image	111516008
+part hurts	22253000
+clenching teeth	110302009
+no appetite	79890006
+shaking all over	26079004
+apathetic	20602000
+depressed mood	366979004
+frigidity proper	62607004
+forgetfulness	55533009
+constipation (finding)	14760008
+panic (finding)	79823003
+labile mood	18963009
+unable to think clearly (finding)	247640008
+cognitive decline	386806002
+pupil dilation	37125009
+sleep-pattern disturbance (finding)	26677001
+loose stool	398032003
+sweating (finding)	415690000
+loss of capacity for enjoyment (finding)	247796005
+agitated behavior	24199005
+weight gain	8943002
+depressed mood	366979004
+loss of motivation (finding)	277521002
+disturbance of conation	25786006
+finding of excessive fluid intake	267026004
+mydriasis, nos	37125009
+outbursts of anger (finding)	274951009
+anxiety	48694002
+amnesia	48167000
+visual hallucinations (finding)	64269007
+vertigo (spinning sensation)	399153001
+pain, nos	22253000
+stomach gripes	51197009
+motor restlessness	162221009
+nonspecific pain in the neck region	81680005
+wakes up at night	713822005
+abdominal discomfort	43364001
+metallic taste	11193009
+flat affect (finding)	932006
+abdominal discomfort (finding)	43364001
+nervousness	424196004
+emotionally detached	24936000
+clinical xerostomia	87715008
+detachment, mental	24936000
+cognitive impairment	386806002
+myodynia	68962001
+breathless	267036007
+emotionally apathetic	20602000
+agitated	24199005
+disturbance in sleep behavior, nos	53888004
+asialia	87715008
+always sleepy (disorder)	248262001
+fibromyalgia	203082005
+arthralgia	57676002
+moody (finding)	286641001
+dilated pupil	37125009
+weight gain finding (finding)	8943002
+social withdrawal (finding)	105411000
+tired	224960004
+increased appetite	72405004
+fear (specify)	1402001
+cervicodynia	81680005
+disorientation, nos	62476001
+influenza-like symptoms (finding)	315642008
+increased food appetite	72405004
+admission to casualty department	50849002
+memory loss - amnesia	48167000
+cephalgia	25064002
+loose motion	398032003
+amnesia, nos	48167000
+finding of increased blood pressure (finding)	24184005
+feels dreams are real	225522006
+faint	271594007
+sleep deprivation	130989002
+insomnia (disorder)	193462001
+excessive energy (finding)	247779009
+feeling intoxicated (finding)	102897001
+anankastic personality disorder	1376001
+orgasm incapacity	62607004
+disorder of ejaculation	386790008
+loss of hair (finding)	278040002
+scared	1402001
+manic-depressive psychosis	13746004
+loose feces	398032003
+stomach cramps (finding)	51197009
+syncope	271594007
+mdi - manic-depressive illness	13746004
+sob - shortness of breath	267036007
+excessive sleep	77692006
+indifferent mood	20602000
+pain observations	22253000
+dream anxiety disorder	111487009
+emotionally labile	18963009
+crying, excessive (finding)	162213003
+angry	75408008
+loose stools	398032003
+pain (finding)	22253000
+craving for alcohol	228365005
+diaphoresis	52613005
+buzzing in ear (finding)	162351000
+lack of libido	248096004
+memory impairment (finding)	386807006
+weight loss (finding)	89362005
+neck pain (finding)	81680005
+dilated pupil (qualifier value)	37125009
+self-harm	248061004
+bizarre dreams (finding)	419581008
+worrying	79015004
+twitch	60238002
+increased body weight	8943002
+abnormal conduct, nos	25786006
+feeling groggy	102897001
+muddled thinking	247640008
+washed out	60119000
+cephalalgia	25064002
+diarrhea (finding)	62315008
+nausea (finding)	422587007
+decreased body weight	89362005
+craving for alcohol (finding)	228365005
+fainting	271594007
+feeling hopeless	307077003
+ejaculation disorder	386790008
+upset tummy	162059005
+suicide attempt (event)	82313006
+unable to cry	715039008
+mood swings (finding)	18963009
+d - diarrhea	62315008
+broken sleep	67233009
+alcohol intolerance (finding)	102612005
+state of stress	73595000
+hypersomnia, nos	77692006
+difficult passing motion	14760008
+vomiting symptom	249497008
+dilated pupil, function (observable entity)	37125009
+wakes up during night	713822005
+night waking	67233009
+blunted affect	6140007
+feeling irritable (finding)	55929007
+disturbance of orientation	62476001
+obsessional personality disorder	1376001
+thinning hair	278040002
+loss of emotion	45991007
+difficulty staying asleep	67233009
+poor short-term memory	247592009
+not feeling well	367391008
+suicide attempt	82313006
+pain in head	25064002
+restlessness	24199005
+vivid dream	247953009
+neck ache	81680005
+pressure, nos	73595000
+metallic taste (finding)	11193009
+failure to lose weight (finding)	83421005
+difficulty in sleep maintenance	67233009
+generalized aches and pains (finding)	82991003
+feels unwell	367391008
+dizziness (finding)	404640003
+excessive weight loss (finding)	309257005
+agitated behaviour	24199005
+loose bowel motions	398032003
+low motivation	26413003
+increased heart rate	3424008
+dizziness	404640003
+restlessness behaviour	162221009
+anxiousness	48694002
+falling hair	278040002
+manic-depressive illness	13746004
+loose bowel movement	62315008
+panic attack	225624000
+difficulty defaecating	14760008
+stress, nos	73595000
+unable to keep still	24199005
+listless mood	20602000
+distrubed sleep pattern	26677001
+moody	286641001
+initial insomnia	59050008
+cannot get off to sleep	59050008
+lom - loss of memory	48167000
+major depressive disorder (disorder)	370143000
+involuntary trembling	26079004
+tension headache	398057008
+muscle pain	68962001
+changeable mood	18963009
+flat affect	932006
+orientation poor	62476001
+obsessive compulsive personality disorder (disorder)	1376001
+mental status, drowsy	271782001
+heartburn (finding)	16331000
+syncope (disorder)	271594007
+impotence (disorder)	397803000
+disorientated	62476001
+abdominal cramps	51197009
+finding of increased blood pressure	24184005
+restless legs syndrome	32914008
+unable to sleep	248255005
+stomach problem (finding)	300306001
+decreased motivation	26413003
+absent salivary secretion	87715008
+blunting of mood	6140007
+blurring of visual image (finding)	111516008
+admission to emergency department	50849002
+anxiety attack (finding)	300895004
+headache (finding)	25064002
+anxiety attack	300895004
+cervicalgia	81680005
+mood swing	18963009
+bipolar disorder (disorder)	13746004
+orgasm incapacity (finding)	62607004
+malaise (finding)	367391008
+sweating	415690000
+feeling angry (finding)	75408008
+abnormal behavior (finding)	25786006
+emergency room admission	50849002
+restricted work performance	224398005
+vertigo - giddiness	399153001
+shaking	26079004
+loss of appetite (finding)	79890006
+pyrosis	16331000
+bruxism	90207007
+sexual disorder	231532002
+abnormal feeling	386816005
+increased appetite (finding)	72405004
+sleepy	271782001
+anorexic	79890006
+urge for alcohol	228365005
+blood pressure elevation	24184005
+lethargic	214264003
+memory problem	386807006
+rapid heart beat	3424008
+grinding teeth (finding)	90207007
+profuse sweating	52613005
+hallucinations	7011001
+panic reaction	79823003
+sleep pattern disturbance	26677001
+disturbance in sleep behavior	53888004
+muscle twitch	60238002
+feeling agitated	24199005
+cognitive dysfunction	386806002
+obsessional personality	1376001
+blunted affect (finding)	6140007
+orientation confused	62476001
+low libido	8357008
+excessive somnolence (finding)	372947007
+exhaustion	60119000
+lightheadedness	386705008
+cannot sleep at all (finding)	248255005
+aptyalism	87715008
+amnesia (finding)	48167000
+has a tremor	26079004
+weight gain (finding)	8943002
+feels hot	373932008
+difficulty coping (finding)	18232000
+dream anxiety disorder (disorder)	111487009
+negative automatic thoughts (finding)	247653006
+decrease in appetite (finding)	64379006
+loose faeces	398032003
+irritability	55929007
+outbursts of rage	274951009
+constipation (disorder)	14760008
+drugged state	34951003
+emergency room admission, nos	50849002
+apathetic behaviour	20602000
+decreased food appetite	64379006
+outbursts of anger	274951009
+worried (finding)	79015004
+nightmare	111487009
+diminished pleasure	247796005
+head pain	25064002
+suicidal (finding)	267073005
+unable to concentrate (finding)	60032008
+diarrhea, nos	62315008
+depressed mood (finding)	366979004
+impaired adjustment	18232000
+dizziness - light-headed	386705008
+feeling faint	248223005
+stress	73595000
+impaired cognition	386806002
+wakes up during night (finding)	713822005
+unable to concentrate	60032008
+hallucination	7011001
+restlessness behavior	162221009
+nightmares	419145002
+loose bowel movement	398032003
+clenching of teeth	110302009
+suicidal	267073005
+panic	79823003
+reduced libido (finding)	8357008
+elevated blood pressure	24184005
+concentration impairment	60032008
+overweight (finding)	238131007
+stress (finding)	73595000
+dysmnesia	386807006
+daytime somnolence (finding)	141000119100
+disturbed sleep pattern	26677001
+stuck in bed	160685001
+vomiting symptoms	249497008
+bed-ridden	160685001
+fright	1402001
+feeling angry	75408008
+hypersomnia	77692006
+sweating profusely	52613005
+emotional problems (finding)	386816005
+generalized body aches	82991003
+tired (finding)	224960004
+poor memory	386807006

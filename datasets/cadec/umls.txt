@@ -1,0 +1,3046 @@
+insomnia: [transient] or [nos] (disorder)	193462001
+rectal bleeding bright red	405729008
+articular pain	57676002
+breathlessness	230145002
+shortness of breath (context-dependent category)	230145002
+vascular hypertensive disorders	38341003
+influenza like illness	95891005
+syndrome, wittmaack-ekbom	32914008
+dry skin (finding)	16386004
+blood in stool	405729008
+feet numbness	309538000
+pain (symptom)	22253000
+pulse fast	86651002
+backache, unspecified (finding)	161891005
+tendinitis (disorder)	34840004
+r arthritis	69896004
+parkinson disease lewy body	49049000
+foot pains	47933007
+colic [disease/finding]	9991008
+feeling of total lack of energy	248274002
+shoulder pain	45326000
+light headed	386705008
+feeling of tightness in the throat	247323005
+myopathy, nos	129565002
+thoracic back pain	279038004
+constrictions throat	247323005
+chest pain [disease/finding]	29857009
+stiff legs	225609009
+rh arthritis	69896004
+stomach discomfort	162059005
+agitated behaviour	24199005
+backache, unspecified	161891005
+syndrome, restless leg	32914008
+burning foot	36031001
+breathless	230145002
+quivering	26079004
+palpitation(s)	80313002
+thorax pain	29857009
+myalgia/myositis -pelvis/thigh	288230000
+chest pain, unspecified	29857009
+arthritis (diagnosis)	3723001
+symptom nausea	422587007
+moods, irritable	55929007
+weaknesses, muscle	26544005
+unspecified pain	22253000
+gain weight	262286000
+arthralgia (diagnosis)	57676002
+charley horse	54981004
+tightness throat	247323005
+hair falling	278040002
+parkinson's dis	49049000
+pain, generalized (context-dependent category)	82991003
+gait, limp	16973004
+back muscle spasm	203095000
+pain muscles	68962001
+muscle disorders	129565002
+diabetes mellitus, noninsulin dependent	44054006
+washed out	60119000
+chest tightness (situation)	23924001
+reduced libido (finding)	8357008
+insomnia: [transient] or [nos]	193462001
+swallowing disorder	288939007
+back pain - finding	161891005
+arthritis, unspecified	3723001
+muscular diseases	129565002
+cardiovascular stroke	22298006
+decreased exercise tolerance (procedure)	267044007
+hypertensive vascular degeneration	38341003
+stomach; upset	162059005
+disease of liver [ambiguous]	235856003
+arthralgia of the shoulder region (& [shoulder joint])	267949000
+fatigue extreme	248274002
+neck pain (symptom)	81680005
+feeling of throat tightness (finding)	247323005
+aches, neck	81680005
+concentration lack	60032008
+generalized muscle aches	68962001
+unable (to);concentrate	60032008
+attack heart (nos)	22298006
+difficulty walking	228158008
+arthritis (disorder)	3723001
+pain;gastric	271681002
+hand cramp	250082003
+pain; generalized	82991003
+decreased mobility	8510008
+fresh blood passed per rectum (finding)	405729008
+rash and other nonspecific skin eruption	271807003
+appetite loss (situation)	79890006
+numbness of toes	309539008
+atrophies, muscular	88092000
+accident; cerebrovascular	230690007
+cramp(s);calf	250084002
+mentally dull	419723007
+decreased sexual interest (symptom)	8357008
+disease or syndrome of heart	56265001
+diffuse arthralgia	57676002
+labile moods	18963009
+inability to maintain attention	60032008
+rheumatoid arthritis (diagnosis)	69896004
+palpitations	80313002
+amyotrophia, nos	88092000
+strokes, cardiovascular	22298006
+migraine syndromes	37796009
+influenza-like illness (disorder)	95891005
+diabetes mellitus, maturity onset	44054006
+pain;arm	102556003
+pain; abdominal	21522001
+light-headedness	386705008
+pins and needles	62507009
+decrease in energy	248274002
+deglutition disorder	288939007
+palpitations	80313002
+nonspecific pain in the lumbar region	279039007
+nauseated	422587007
+muscle aches, generalized (myalgias)	68962001
+arthritis or polyarthritis, atrophic	69896004
+blood pressure rises	24184005
+has a tremor	26079004
+pain;abdominal	21522001
+headache	25064002
+decreased sexual desire	8357008
+blood in feces	405729008
+back ache, low	279039007
+spasms nos	45352006
+adult-onset diabetes	44054006
+arthritis, inflammatory	3723001
+dyspnoea, nos	230145002
+dorsalgia unspecified	161891005
+parkinsons dis	49049000
+pain in stomach	21522001
+arthritides	3723001
+jerk	60238002
+liver and intrahepatic bile duct disorder	235856003
+ringing in ears	162352007
+non-ambulatory	282145008
+pain tendons	21545007
+high bp	38341003
+increased; blood pressure	24184005
+hip joint pains	49218002
+headache nos	25064002
+liver enzymes abnormal	166643006
+abdominal colic	9991008
+drowsiness	271782001
+upper extremity pain	102556003
+muscle weakness nos	26544005
+htn	38341003
+dyspnoea - symptom	230145002
+memory impairment (finding)	386807006
+ra - rheumatoid arthritis	69896004
+cephalgias	25064002
+decreased exercise tolerance	267044007
+hepatopathy	235856003
+t2dm - type 2 diabetes mellitus	44054006
+abdominal pain nos	21522001
+disease, cardiac	56265001
+muscular pains	68962001
+restless legs syndrome (rls)	32914008
+hip pain (finding)	49218002
+fatigue	248274002
+generalized pain	82991003
+chest pain nos	29857009
+muscle twitches	60238002
+pain; thorax	29857009
+ra (rheumatoid arthritis)	69896004
+foot pain (finding)	47933007
+mood alterations	18963009
+limb pain hand	53057004
+soreness, muscle	68962001
+neck pain [disease/finding]	81680005
+lewy body parkinson dis	49049000
+memory problem	386807006
+tachycardia, unspecified (situation)	86651002
+hand pain	53057004
+cva, nos	230690007
+migraine type headaches	37796009
+weight increased (finding)	262286000
+exercise intolerance	267044007
+pain in upper limb (disorder)	102556003
+muscles tire easily	80449002
+backache symptom nos	161891005
+unable to climb stairs	165247006
+spasm of back muscles	203095000
+infarct, myocardial	22298006
+hypersomnia nos	77692006
+cerebral stroke	230690007
+elevated serum creatinine	166717003
+ap - abdominal pain	21522001
+impair memory	386807006
+flatulence, eructation and gas pain	271832001
+excessive overactivity, nos	24199005
+coronary attack	22298006
+difficulty sleeping (finding)	301345002
+cervicalgias	81680005
+blood pressure raised	24184005
+cardiac dis	56265001
+hair thinning (physical finding)	278040002
+emotional instability	18963009
+back pains	161891005
+insomnia (symptom)	193462001
+fatigued	248274002
+nausea nos (finding)	422587007
+increase blood pressure	24184005
+diabetes mellitus: [adult onset] or [noninsulin dependent]	44054006
+insomnia (context-dependent category)	193462001
+cerebrovascular accident (disorder) [ambiguous]	230690007
+exanthema [disease/finding]	271807003
+pain legs	10601006
+flu-like illness	95891005
+face swelling	278528006
+asthenia 	13791008
+syndrome, willis-ekbom	32914008
+diabetes; niddm	44054006
+diabetes mellitus, maturity-onset	44054006
+cva - cerebrovascular accident unspecified	230690007
+(symptom: [sob] or [breathlessness] or [dyspnoea]) or (breathlessness)	230145002
+shortness of breath/dyspnoea	230145002
+hemorrhage (morphologic abnormality)	131148009
+backache lower	279039007
+memory disturbance	386807006
+generalised muscle aches	68962001
+sob (shortness of breath)	230145002
+unable (to);sleep	248255005
+forelimb painful	102556003
+paraesthesia hand	309086004
+dizzy	404640003
+elevated serum cholesterol	166830008
+tachycardia, unspecified	86651002
+gain wt	262286000
+blood loss	131148009
+type ii diabetes	44054006
+sleep difficult	301345002
+hypermenorrhoea -retired-	386692008
+pain foot	47933007
+arthralgias (knees)	30989003
+losses, hair	278040002
+arthritis; atrophic	69896004
+pain in a joint, site unspecified	57676002
+ld - liver disease	235856003
+atrophy muscle	88092000
+mental concentration difficult	60032008
+low back aches	279039007
+rndx unspecified pain (diagnosis)	22253000
+back; pain	161891005
+fatigue	248274002
+cramp in foot (finding)	102551008
+depression	35489007
+muddled thought	247640008
+forgetful (finding)	55533009
+respiration difficult	230145002
+high blood creatinine level	166717003
+cramped hands	250082003
+memory poor	386807006
+pain in lower limb	10601006
+shoulder joint pain	267949000
+myocardial infarcts	22298006
+diabetes;non insulin depend	44054006
+breathlessness nos	230145002
+tenalgia	21545007
+serum creatinine concentration increased above normal	166717003
+rash	271807003
+flatulence, eructation and gas pain (context-dependent category)	271832001
+serum cholesterol raised	166830008
+abnormal liver enzymes	166643006
+emotionally labile	18963009
+knee pain	30989003
+pain in joint - coxalgia	49218002
+nonspecific chest pain	29857009
+pain;chest	29857009
+myocardial infarction [disease/finding]	22298006
+brain vascular accident	230690007
+migraine; headache	37796009
+depressive disorder, nos	35489007
+inhib/loss sexual desire	8357008
+rash (symptom)	271807003
+abdominal pain (finding)	21522001
+pains	22253000
+chest pain nos	29857009
+numbness of toe (finding)	309539008
+raised bp	24184005
+cramps muscles	55300003
+stomach gripes	51197009
+non-insulin-dependent diabetes mellitus	44054006
+somnolence	271782001
+headed light	386705008
+feces: blood	405729008
+feet burning	36031001
+cramps foot muscle	102551008
+flatulence and gas pain nos	271832001
+back pain (symptom)	161891005
+pain; muscle	68962001
+hepatic disease nos	235856003
+shaking/tremors	26079004
+agitated	24199005
+tendonitis (diagnosis)	34840004
+pain in toe (finding)	285365001
+chest pain or discomfort	29857009
+liver disorders	235856003
+back pain lumbar	279039007
+pains, chest	29857009
+mood variable	18963009
+elevated creatinine	166717003
+breathing difficult	230145002
+sleeping too much	77692006
+arthralgia (knee)	30989003
+low back pain (finding)	279039007
+pains severe	76948002
+noises in ear (finding)	162352007
+tremor	26079004
+palpitation	80313002
+muscle wasting	88092000
+knees stiffness	249913002
+memory problems	55533009
+backache; unspecified	161891005
+surg comp - hypertension	38341003
+heavy periods	386692008
+hepatic: hepatocellular	235856003
+htn - hypertension	38341003
+musculoskeletal foot/feet pain	47933007
+tiredness (finding)	248274002
+alopecia unspecified (disorder)	278040002
+cerebrovascular strokes	230690007
+cardiovascular strokes	22298006
+tiredness	248274002
+bleed_nos	131148009
+tightness in chest	23924001
+dyspnoea	230145002
+mental concentration difficulty	60032008
+limitation of joint motion	70733008
+systemic hypertension	38341003
+increase in heart rate	86651002
+profuse menstrual flow	386692008
+blood pressure, increased	38341003
+agitated behavior (finding)	24199005
+heart disease nos (disorder)	56265001
+insomnia (situation)	193462001
+colicky pain	9991008
+neurocognitive dysfunction	386806002
+toes pain	285365001
+agitation	24199005
+muscle spasms in calf	250084002
+increase in blood pressure	24184005
+arthralgia of the hip	49218002
+ketosis resistant diabetes	44054006
+breaking out - eruption	271807003
+fatigue (context-dependent category)	248274002
+disorder hepatic	235856003
+neck; pain	81680005
+stomach upset	162059005
+paraesthesia of lower extremity	429783005
+head pained	25064002
+parkinson's	49049000
+cerebrovascular accident nos	230690007
+burning; sensation	90673000
+stiffness;knee	249913002
+alopecia (diagnosis)	278040002
+ringing (in);ear	162352007
+high blood pressure disorder	38341003
+pain in lower limb nos	10601006
+disorder cardiac (nos)	56265001
+involuntary shaking or trembling movements (tremor)	26079004
+heart rate increased	86651002
+back pain lower back	279039007
+diabetes mellitus type 2 (disorder)	44054006
+apoplexy, cerebrovascular	230690007
+pain abdominal	21522001
+loss of motivation (finding)	277521002
+loss; hair	278040002
+hip arthralgia	49218002
+pain, nos	22253000
+back aches, low	279039007
+difficulty walking (finding) [ambiguous]	228158008
+arthritis	3723001
+disease disorders heart	56265001
+gout rheumatic	69896004
+head; pain	25064002
+hair thinning	278040002
+joint inflammation	3723001
+emotional lability (symptom)	18963009
+pain;head	25064002
+spasm muscle	45352006
+consciousness clouding	40917007
+diabetes mellitus - adult onset	44054006
+joint: [pain - arthralgia] or [ache] (disorder)	57676002
+myopathic changes	129565002
+fatigue [disease/finding]	248274002
+spasms (context-dependent category)	45352006
+myalgia and myositis shoulder	288226003
+light-headed	386705008
+headache migrainous	37796009
+tendonitides	34840004
+fasciitis, plantar	202882003
+swallowing disorders	288939007
+lacking in energy (finding)	248274002
+arthritis, nos	3723001
+loss of appetite - symptom (finding)	79890006
+shortness of breath dyspnea	230145002
+limps	16973004
+abnormal enzymes liver	166643006
+falls hair	278040002
+painful joints	57676002
+fatigues	248274002
+leg pain	10601006
+heavy leg	161873000
+wt gain	262286000
+nonketotic; diabetes	44054006
+appetite; lack or loss	79890006
+rectal bleeding	405729008
+elevated blood pressure	24184005
+insomnia - symptom	193462001
+abdomen pain	21522001
+myalgia unspecified	68962001
+poor short-term memory (finding)	247592009
+serum creatinine increased	166717003
+moody (finding)	286641001
+idiopathic parkinsons dis	49049000
+paresthesia of lower limb	429783005
+libido, decreased	8357008
+cerebral apoplexy, nos	230690007
+insomnia	193462001
+mental status, drowsy	271782001
+stroke, cerebrovascular	230690007
+paralysis agitans	49049000
+parkinson`s disease	49049000
+excessive upper gastrointestinal gas (finding)	162076009
+colic nos (situation)	9991008
+pain elbow	74323005
+pain;musculoskeletal;foot/feet	47933007
+myospasm	45352006
+exanthem (context-dependent category)	271807003
+migraine disorders [disease/finding]	37796009
+heart diseases	56265001
+impairment, cognitive	386806002
+headache, migraine	37796009
+feel headed light	386705008
+reduced mobility (finding)	8510008
+nausea symptoms	422587007
+muscle cramps foot	102551008
+heart disease, nos	56265001
+disorders, migraine	37796009
+knee stiff (finding)	249913002
+uterine spasm (diagnosis)	29542008
+disturbed mental concentration	60032008
+lameness	16973004
+blood high pressure	38341003
+decrease in sexual desire	8357008
+cva - cerebrovascular accident	230690007
+joint pain-unspec	57676002
+diabetes mellitus -adult onset	44054006
+parkinson's syndrome	49049000
+abdominal pain nos (situation)	21522001
+tremor  (situation)	26079004
+pain provoked by movement	425423002
+spasm, nos	45352006
+parkinson's disease, lewy body	49049000
+walking, difficulty	228158008
+spasm; uterus	29542008
+faeces: blood	405729008
+disorder, depressive	35489007
+pain;generalised	82991003
+range of joint movement reduced	70733008
+ambulatory difficulty	228158008
+bleeding (finding)	131148009
+cramps	55300003
+bright red blood with stool	405729008
+bleeding, nos	131148009
+alopecia unspecified	278040002
+reduced;mobility	8510008
+blood elevate pressure	24184005
+decrease in muscle strength	26544005
+head ache	25064002
+knees aching	30989003
+headache (finding)	25064002
+stiffness; knee	249913002
+blood pressure; increased	24184005
+stroke, neurological	230690007
+breathing difficulties	230145002
+heart disease (diagnosis)	56265001
+maturity onset diabetes mellitus	44054006
+willis ekbom syndrome	32914008
+depressive disorder	35489007
+neuropathies	386033004
+general aches and pains	82991003
+arms pain	102556003
+diabetes mellitus, ketosis resistant	44054006
+uterine spasm	29542008
+muscle spasm of back (physical finding)	203095000
+hypertensive vascular disease	38341003
+proliferative arthritis	69896004
+deglutition dis	288939007
+pressure blood increased	24184005
+rndx fatigue	248274002
+pains, muscle	68962001
+dorsopathy low back pain	279039007
+weakness, muscular	26544005
+tachycardia, nos	86651002
+gonalgia	30989003
+cramp in lower limb (finding)	449917004
+atrophy - muscular	88092000
+skin dryness	16386004
+joint inflamed	3723001
+(cervicalgia) or (neck pain nos) (disorder)	81680005
+pain of upper limb	102556003
+stiffness	271587009
+atrophies, muscle	88092000
+type ii diabetes mellitus (disorder)	44054006
+heavy prolonged periods	386692008
+lack (of);energy	248274002
+noises in head	162352007
+diabetes; type ii	44054006
+flatulence, eructation and gas pain (situation)	271832001
+generalized aches and pains (finding)	82991003
+type ii diabetes mellitus	44054006
+loss of appetite (finding)	79890006
+diabetes mellitus, ketosis-resistant	44054006
+muscle atrophy was seen	88092000
+diseases disorders heart	56265001
+pain [disease/finding]	22253000
+cramps hand	250082003
+aching knee	30989003
+low back syndrome	279039007
+cerebral vascular accident	230690007
+[x]disorder of muscle, unspecified (disorder)	129565002
+unspecified dorsalgia	161891005
+myalgias	68962001
+unstable mood	18963009
+agitates	24199005
+myalgia [disease/finding]	68962001
+difficulty in walking nos	228158008
+eruption of skin (disorder)	271807003
+forelimb pain	102556003
+toes numbness	309539008
+jerking	60238002
+difficulty breathing (symptom)	230145002
+disorders of muscles (m60-m63)	129565002
+serum cholesterol elevated	166830008
+exanthem	271807003
+adult-onset; diabetes	44054006
+heart--diseases	56265001
+appetite lost	79890006
+(symptom: [sob] or [breathlessness] or [dyspnoea]) or (breathlessness) (finding)	230145002
+cerebrovascular accidents	230690007
+spots	271807003
+disorder;depressive	35489007
+pain, low back	279039007
+dyspnea, nos	230145002
+fatigue; muscle	80449002
+extreme fatigue	248274002
+disorder; depressive	35489007
+excessive flatulence (finding)	162076009
+atrophy; muscle	88092000
+knee joint pain (symptom)	30989003
+have headaches	25064002
+blood pressure elevation	24184005
+knee stiffness	249913002
+heart disease, unspecified	56265001
+gastroesophageal reflux	698065002
+abdominal pain nos (context-dependent category)	21522001
+hand paresthesias	309086004
+dyspnoea (situation)	230145002
+pain;musculoskeletal;shoulder	45326000
+nerve; disorder	386033004
+reflux	698065002
+arterial pressure nos increased	24184005
+feeling;irritable	55929007
+loss; muscle	88092000
+policemans heel	202882003
+aching joints	57676002
+pain back	161891005
+stomach; pain	271681002
+trembles	26079004
+inflammatory arthropathy	3723001
+cardiac infarction	22298006
+poor memory	55533009
+unspecified disorder of liver	235856003
+myalgia/myositis - shoulder	288226003
+heart racing	86651002
+diabetes mellitus, stable	44054006
+difficulties, ambulation	228158008
+neuropathy (diagnosis)	386033004
+abnormal liver enzyme	166643006
+heels, policeman's	202882003
+tenalgia (finding)	21545007
+paresthesia (numbness/tingling) of lower limb	429783005
+ringing in the ears	162352007
+cutaneous eruption, nos	271807003
+thorax painful	29857009
+cerebral vascular events	230690007
+impaired memory	386807006
+syndrome; restless legs	32914008
+dyspneas	230145002
+pain toes	285365001
+complaining of "tired all the time"	267032009
+heart race	86651002
+vascular hypertensive disorder	38341003
+shortness of breath	230145002
+idiopathic parkinson disease	49049000
+bright red blood stool	405729008
+pain	22253000
+exanthemata	271807003
+gas excessive	162076009
+numbness of lower limb (finding)	309537005
+diseases of the liver	235856003
+acid reflux (finding)	698065002
+parkinson dis idiopathic	49049000
+tired all the time	267032009
+pain;elbow	74323005
+quivers	26079004
+asthenia (situation)	13791008
+cephalgia	25064002
+irritable (& symptom)	55929007
+(has a tremor) or (tremor symptom) or (shaking)	26079004
+numbness in feet	309538000
+mood disorder of depressed type	35489007
+bloody feces	405729008
+shaking; palsy	49049000
+neurosis, depressive	35489007
+feeling of tightness in throat (symptom)	247323005
+disorder; liver	235856003
+palpitations (situation)	80313002
+apoplexy	230690007
+tendonitis nos	34840004
+gaining wt	262286000
+cramp(s);hand	250082003
+libido loss	248096004
+exanthema	271807003
+flatulence, eructation and gas pain nos (situation)	271832001
+loss of sensation	44077006
+tightness in throat (finding)	247323005
+clouding of sensorium	40917007
+paresthesia hand	309086004
+loss; appetite	79890006
+lacking energy	248274002
+shoulder; pain	45326000
+aching joint	57676002
+migraine headache (diagnosis)	37796009
+blood pressure high	38341003
+flatulence, eructation and gas pain nos (context-dependent category)	271832001
+sleeplessness	193462001
+parkinson disease (pd)	49049000
+feels light headed	386705008
+eruption of skin	271807003
+non-insulin dependent diabetes mellitus	44054006
+rheumatoid arthritis nos (disorder)	69896004
+diabetes type ii	44054006
+cardiac disorder	56265001
+sleep disorder insomnia	193462001
+hypertensive disorder, systemic arterial (disorder)	38341003
+cardiac arrhythmia, tachycardia	86651002
+diabetes mellitus, adult-onset	44054006
+vascular hypertension	38341003
+partial musculoskeletal mobility	8510008
+disturbance memory/concentration	386807006
+hemorrhage nos (disorder)	131148009
+insomnia, unspecified	193462001
+dorsopathy dorsalgia	161891005
+numbness of foot	309538000
+constriction chest	23924001
+drowsiness, function	271782001
+high blood pressures	38341003
+quick pulse	86651002
+difficulty in swallowing (context-dependent category)	288939007
+twitches	60238002
+knee pain (finding)	30989003
+muscle wasting, nos	88092000
+depressive neuroses	35489007
+cognitive impairments	386806002
+lack of concentration	60032008
+fatigue, muscle	80449002
+hypertensive disease (disorder)	38341003
+limited range of motion	70733008
+elevated bp (excl k86 k87)	24184005
+range of motion decreased (physical finding)	70733008
+hepatic pathology	235856003
+numbness feet	309538000
+pain in upper limb (finding)	102556003
+disease disorders parkinson's	49049000
+heart; frequency high	86651002
+disorder of skeletal and/or smooth muscle	129565002
+pain in the knees	30989003
+restless legs	32914008
+bp+ - hypertension	38341003
+noninsulin-dependent diabetes	44054006
+maturity onset diabetes	44054006
+difficulty;remembering	386807006
+nausea	422587007
+diabetes; maturity-onset	44054006
+numbness (symptom)	44077006
+mies	22298006
+finding of increased blood pressure	24184005
+stiff legs (finding)	225609009
+joint pain	57676002
+fector hepaticus	235856003
+pain;musculoskeletal;hip	49218002
+pain;back low	279039007
+belly ache	271681002
+gains, weight	262286000
+muscles cramps	55300003
+libido loss of	248096004
+asthenic	13791008
+labile mood (physical finding)	18963009
+impaired exercise tolerance	267044007
+hands paresthesias	309086004
+cognitive deficits	386806002
+extravasation of blood	131148009
+thinning hair	278040002
+pain in hand	53057004
+tightness;chest	23924001
+shortness of breath; breath	230145002
+loss of appetite - symptom	79890006
+hip pain musculoskeletal	49218002
+backache - finding	161891005
+insomnia disorder	193462001
+abdominal pain (situation)	21522001
+pain in arm (diagnosis)	102556003
+palsy, shaking	49049000
+diabetes mellitus, adult onset type	44054006
+prolonged heavy periods	386692008
+pains, shoulder	45326000
+card	56265001
+stomach cramps	51197009
+pain in head nos (context-dependent category)	25064002
+blood in faeces	405729008
+back pain thoracic	279038004
+tired	248274002
+muscle weakness (symptom)	26544005
+mood labile	18963009
+weakness, muscle	26544005
+arthritis, rheumatoid	69896004
+heel pain (finding)	2733002
+liver disease, nos	235856003
+niddm; diabetes	44054006
+deglutition disorders [disease/finding]	288939007
+hepatic disorder	235856003
+swallowing difficult	288939007
+much sleep too	77692006
+breathlessness	230145002
+sense of pain	22253000
+wasting;muscle(s)	88092000
+appetite; lack of	79890006
+neuropathy nos	386033004
+cutaneous eruption on skin	271807003
+generalised body aches	82991003
+tendinitis nos	34840004
+limitation of joint movement	70733008
+walking problems	228158008
+myopathic syndrome, nos	129565002
+drowsiness	271782001
+unspecified disorder of muscle	129565002
+flatul/eructat/gas pain	271832001
+brain attack	230690007
+muscle disease	129565002
+dyspnoeas	230145002
+diabete type 2	44054006
+muscle disease or syndrome	129565002
+weight increase	262286000
+dizziness	404640003
+mody	44054006
+cardiopathies	56265001
+excessive gas	162076009
+hypersomnia	77692006
+paresthesia lower limb	429783005
+chest symptom tightness	23924001
+unable (to);walk	282145008
+heavy legs	161873000
+pains, cranial	25064002
+finding of nausea (finding)	422587007
+thigh pain (symptom)	78514002
+pain joint	57676002
+difficulties gait	228158008
+increased purposeless goalless activity, nos	24199005
+cramps calves	250084002
+menorrhagia	386692008
+rha - rheumatoid arthritis	69896004
+muddled thinking	247640008
+muscle; loss	88092000
+increased blood pressure	38341003
+generalised aches and pains	82991003
+impairments, cognitive	386806002
+numbness sensation	44077006
+c/o - "tired all the time"	267032009
+hbp - high blood pressure	38341003
+confused	40917007
+pain in foot	47933007
+and back pain	161891005
+dizziness symptom	404640003
+lower leg pain	10601006
+rash and other nonspecific skin eruption nos (context-dependent category)	271807003
+changeable mood	18963009
+tired (finding)	224960004
+type 2 diabetes mellitus non-insulin dependent	44054006
+cramps hands	250082003
+accident cerebrovascular	230690007
+heart disease	56265001
+somnolent	271782001
+cramps foot	102551008
+palpitations nos	80313002
+concentration impaired	60032008
+pain in the elbows	74323005
+pain in the arms	102556003
+difficult; swallowing	288939007
+numbness of lower limb	309537005
+back; pain, low	279039007
+concentration impairment	60032008
+flatulence, eructation and gas pain nos	271832001
+[x]hypertensive diseases	38341003
+arthralgia of shoulder region	267949000
+mi, myocardial infarction	22298006
+atrophic; arthritis	69896004
+head pain	25064002
+tight chest (finding)	23924001
+aching knees	30989003
+extremity paresthesia, lower	429783005
+ache;generalised	82991003
+pain head	25064002
+hepatic disease (nos)	235856003
+hypertensive disorder	38341003
+colic	9991008
+muscle aches	68962001
+restlessness	24199005
+body generalized pain	82991003
+upper limb pain	102556003
+appetite; loss	79890006
+instability emotional	18963009
+chest pain nos (context-dependent category)	29857009
+(tinnitus) or (hearing noises)	162352007
+cephalalgias	25064002
+cramps, muscle	55300003
+knee joint stiffness	249913002
+joint pains	57676002
+muscle disorder nos	129565002
+fast pulse	86651002
+pain, muscle	68962001
+vascular accidents, brain	230690007
+exhaustion (finding)	60119000
+haemorrhage nos (disorder)	131148009
+sexual; desire, loss	248096004
+depression nos	35489007
+disease (or disorder); tendon, inflammatory	34840004
+myalgia/myositis - forearm (finding)	288228002
+influenza-like illness	95891005
+spots	271807003
+shortness of breath (symptom)	230145002
+tiredness (situation)	248274002
+amyotrophy, nos	88092000
+weight gain finding (finding)	262286000
+stroke/cerebrovasc accident	230690007
+a-51 myopathies	129565002
+myalgia and myositis myalgia	68962001
+pain stomach	271681002
+(cervicalgia) or (neck pain nos)	81680005
+decrease in range of motion	70733008
+skin rash	271807003
+hypertension arterial	38341003
+pains muscle	68962001
+type 2 diabetes mellitus (diagnosis)	44054006
+feeling of tightness in throat	247323005
+loss (of);appetite	79890006
+charleyhorse	54981004
+myopathic syndrome	129565002
+diseases, heart	56265001
+restless leg syndrome (diagnosis)	32914008
+facial swelling (finding)	278528006
+pain, cranial	25064002
+stroke cerebral	230690007
+spasm [disease/finding]	45352006
+elevated bp (excluding k86 k87)	24184005
+heart rate, increased	86651002
+pain in heel	2733002
+pain symptoms	22253000
+difficulties walking	228158008
+chest pain, unspecified (context-dependent category)	29857009
+hindlimb painful	10601006
+(hypertensive disease) or (hypertension)	38341003
+lower extremity pain musculoskeletal	10601006
+migraine, nos	37796009
+light-headedness	386705008
+impaired walking	228158008
+rheumatoid; arthritis	69896004
+diabetes mellitus type 2	44054006
+c/o - nausea	422587007
+excessive bleeding during period	386692008
+paresthesia of lower extremity	429783005
+dry;skin	16386004
+blood loss of (nos)	131148009
+fast heart rate (symptom)	86651002
+restless leg syndrome (rls)	32914008
+difficulty ambulation	228158008
+increased creatinine	166717003
+paralysis; agitans	49049000
+arthralgia (hip)	49218002
+dullness of senses	40917007
+pain in hand (diagnosis)	53057004
+syndrome, willis ekbom	32914008
+difficulty breathing [ambiguous]	230145002
+dizziness (situation)	404640003
+migraine	37796009
+muddled	40917007
+pain over the back	161891005
+weight gains	262286000
+numbness;toe(s)	309539008
+muscle spasm(s)	45352006
+hemorrhage, nos	131148009
+loss, hair	278040002
+knees stiff	249913002
+bright red blood per rectum (symptom)	405729008
+infarctions (myocardial)	22298006
+muscle weakness	26544005
+limping as symptom	16973004
+eruption; skin	271807003
+adult onset diabetes mellitus	44054006
+loss of motivation	277521002
+back ache (diagnosis)	161891005
+pain finding	22253000
+stroke [disease/finding]	230690007
+gait difficulty	228158008
+spasm;muscle(s)	45352006
+cognitive decline	386806002
+dyspnea - symptom	230145002
+palpitations nos	80313002
+hand pain (finding)	53057004
+impaired cognition	386806002
+raised serum creatinine	166717003
+insomnia nos (disorder)	193462001
+disorder of muscle, nos	129565002
+extremities numbness upper	298753001
+myopathy	129565002
+libido decreased	8357008
+adult-onset diabetes mellitus	44054006
+muscular fatigue	80449002
+disturbance; memory	386807006
+maturity-onset; diabetes	44054006
+knee arthralgia	30989003
+pain;leg	10601006
+swallowing difficulties	288939007
+difficulty sleep	301345002
+liver enzymes abnormal (finding)	166643006
+stroke (cerebrum)	230690007
+joint movement decreased	70733008
+muscle cramp foot	102551008
+pain;musculoskeletal;hand	53057004
+joint: [pain - arthralgia] or [ache]	57676002
+lack of energy	248274002
+general aches pains	82991003
+increases weight	262286000
+muscle cramps in feet (symptom)	102551008
+numbness foot	309538000
+numbness toes	309539008
+agitated (& symptom)	24199005
+woozy	404640003
+rapid heart rate	86651002
+increased weight	262286000
+calve cramps	250084002
+flatulence excessive	162076009
+unspecified tinnitus	162352007
+unable to sleep	248255005
+lightheaded	386705008
+apoplexy, nos	230690007
+dorsalgia (finding)	161891005
+pain;thigh	78514002
+thoracodynia	29857009
+pain generalized muscle	68962001
+dizziness (symptom)	404640003
+pain in joint, site unspecified	57676002
+diabetes mellitus (adult onset)	44054006
+memory deficit	386807006
+musculoskeletal elbow pain	74323005
+muscle pain generalized	68962001
+mobility, partial	8510008
+cephalodynias	25064002
+weight gaining	262286000
+hands pain	53057004
+lower extremity paresthesia	429783005
+rndx memory impairment	386807006
+spasm - movement	249966004
+joint pain shoulder	267949000
+pulse increased	86651002
+pain muscular	68962001
+disturb memory/concentration	386807006
+calf muscle cramp	250084002
+diseases parkinson's	49049000
+brbpr - bright red blood per rectum	405729008
+cordis; morbus	56265001
+pains, abdominal	21522001
+disorder of muscle (diagnosis)	129565002
+back pain	161891005
+stroke, cerebral	230690007
+increased sleep	77692006
+headache (excluding n02 n89 r09)	25064002
+muscle discomfort	68962001
+hepatic disorder nos	235856003
+observation of nausea	422587007
+stomach ache	162059005
+arm pain, nos	102556003
+restless legs; syndrome	32914008
+liver disease, unspecified	235856003
+fatigue nos	248274002
+inability to walk	282145008
+cramp in muscle, nos	55300003
+depressivity	35489007
+coxalgia	49218002
+numbness of foot (symptom)	309538000
+tremor nos	26079004
+insomnia nos	193462001
+hindfoot painful	47933007
+irritable mood (physical finding)	55929007
+cramp in calf	250084002
+knee pain musculoskeletal	30989003
+upper extremity numbness	298753001
+numbness of upper extremities	298753001
+increased blood pressure	24184005
+hypersomnia	77692006
+tension muscle	250069006
+uterus; spasm	29542008
+gastro-oesophageal reflux	698065002
+spasms, muscle	45352006
+pain, neck	81680005
+mood disorder of depressed type (disorder)	35489007
+difficulty concentration	60032008
+disorder of muscle (disorder)	129565002
+pain, cervical	81680005
+legs stiff	225609009
+moody	18963009
+cramping muscles	55300003
+muscle twitches (symptom)	60238002
+neck pain nos	81680005
+myocardial infarctions	22298006
+worn out	60119000
+muscle cramps in lower leg	250084002
+disease;liver	235856003
+muscle spasm	45352006
+pains, joint	57676002
+diminished motivation	277521002
+disorder infarction myocardial	22298006
+backaches, low	279039007
+tremor  (finding)	26079004
+pain;musculoskeletal;elbow	74323005
+high; arterial tension	38341003
+pain, chest	29857009
+haemorrhage nos	131148009
+3-02 hypertensive diseases	38341003
+musculoskeletal hip pain	49218002
+fast heart rate	86651002
+pulse rapid	86651002
+arthritis [disease/finding]	3723001
+needles pin sensation	62507009
+diabetes mellitus, non insulin dependent	44054006
+colic (context-dependent category)	9991008
+twitch(ing)	60238002
+moody	286641001
+too much sleep	77692006
+altered moods	18963009
+arthralgia of the knee	30989003
+loss (of);libido	248096004
+feet burn	36031001
+concentrate inability	60032008
+abdmnal pain unspcf site	21522001
+cholesterol serum elevated	166830008
+poor exercise tolerance	267044007
+attack hearts	22298006
+hypersomnia (disorder)	77692006
+lower limb numbness	309537005
+myopathic condition	129565002
+impaired concentration	60032008
+'stiffness'	271587009
+bloody stool	405729008
+mood swing	18963009
+thoracic back pain (disorder)	279038004
+unspecified back pain	161891005
+diseases of liver	235856003
+headaches	25064002
+mood swings (finding)	18963009
+unspecified tinnitus (finding)	162352007
+numbness of hand (finding)	309521004
+infarcts, myocardial	22298006
+cramp(s);muscle(s)	55300003
+back pain, lower	279039007
+feeling irritated	55929007
+pain severe	76948002
+disturbance of memory	386807006
+tiredness (context-dependent category)	248274002
+idiopathic parkinsonism	49049000
+pain (finding)	22253000
+poor swallowing	288939007
+time tired	248274002
+low back pain (disorder)	279039007
+spasm(s), muscle	45352006
+shoulder pains	45326000
+hypermenorrhea (finding)	386692008
+weight increased	262286000
+cramping hands	250082003
+bleeding problems	131148009
+tinnitus, unspecified	162352007
+syndrome parkinson's	49049000
+rash/nonspec.skin eruption	271807003
+cervicalgia	81680005
+pain, lower back	279039007
+lack of stamina	248277009
+sleeping too much (hypersomnia)	77692006
+pressure, high blood	38341003
+migraine syndrome	37796009
+dorsalgia, unspecified	161891005
+pain; neck	81680005
+skin rashes	271807003
+section 3-1 heart diseases	56265001
+myalgia/myositis -pelvis/thigh (disorder)	288230000
+decreased libido	8357008
+generalized pain nos	82991003
+non-insulin-dependent; diabetes	44054006
+difficulty in walking (finding)	228158008
+pain;hand	53057004
+excessive menstrual flow	386692008
+limp	16973004
+hypertensive disease, nos	38341003
+cognitive deficit	386806002
+pain in the hands	53057004
+blood pressure increase	24184005
+pain, abdominal	21522001
+tired out	248274002
+trembled	26079004
+abdominal pain	21522001
+numbness (finding)	44077006
+inflammatory disorder of joint	3723001
+complications affecting other specified body systems, not elsewhere classified, hypertension	38341003
+pain in thigh	78514002
+chest pain (diagnosis)	29857009
+pain;heel	2733002
+pain; stomach	271681002
+exhausted	60119000
+pain; back	161891005
+fatigue, muscular	80449002
+calf cramps muscle	250084002
+muscles tyre easily	80449002
+rash and other nonspecific skin eruption nos	271807003
+jerking	249966004
+rash nos	271807003
+ringing of ears	162352007
+liver disorder nos (disorder)	235856003
+difficulties sleeping	301345002
+[x]diseases of the liver	235856003
+calf pains	300954003
+stroke	230690007
+stroke nos	230690007
+ringing buzzing tinnitus	162352007
+numbness	44077006
+dib - difficulty in breathing	230145002
+blood elevates pressure	24184005
+insomnia nos	193462001
+cognitive disturbance	386806002
+rash (nonspecific)	271807003
+heel pain	2733002
+diabetes mellitus (niddm)	44054006
+ache, neck	81680005
+disorder liver	235856003
+increase weight	262286000
+painful arm	102556003
+rheumatoid arthritis systemic	69896004
+syndrome, stroke	230690007
+haematochezia	405729008
+nonspecific pain in the neck	81680005
+eruption	271807003
+1-20 inflammatory arthropathies	3723001
+ami	22298006
+thoracic back pain (finding)	279038004
+rheumatoid arthritis (disorder)	69896004
+cannot sleep at all	248255005
+feeling irritable	55929007
+neck pain (finding)	81680005
+amyotrophia	88092000
+restriction of joint motion	70733008
+fast heartbeat	86651002
+constriction throat	247323005
+tremor (diagnosis)	26079004
+morbus cordis	56265001
+tremors/shaking	26079004
+limping	16973004
+noninsulin dependent diab.mell	44054006
+cervical pain	81680005
+pain, head	25064002
+myalgia (diagnosis)	68962001
+hypersomnia (situation)	77692006
+dysphagia (disorder)	288939007
+chest pain	29857009
+increased purposeless goalless activity	24199005
+cerebrovascular accident, nos	230690007
+musculoskeletal toe pain	285365001
+numbness in toe(s)	309539008
+diabetes mellitus, adult onset	44054006
+cardiopathy	56265001
+hypersomnia (context-dependent category)	77692006
+variable mood	18963009
+irritable (& symptom) (finding)	55929007
+falling hair	278040002
+insomnia	193462001
+pain provoked by walking (finding)	426899007
+range of motion decreased	70733008
+muscle thinning	88092000
+anorexia	79890006
+37 hemorrhages	131148009
+spasms nos	45352006
+disorders, depressive	35489007
+pain provoked by walking	426899007
+difficulties swallowing	288939007
+twitching	60238002
+hypermenorrhoea	386692008
+back pain, unspecified	161891005
+diseases, cardiac	56265001
+cramp in lower limb	449917004
+cerebrovascular stroke	230690007
+blood increase pressure	24184005
+burning	90673000
+hemorrhages	131148009
+pain, joint	57676002
+diabetes, type 2	44054006
+discomfort in joints	57676002
+dorsal pain	161891005
+exhaustion	60119000
+niddm-non-ins dep diabetes mel	44054006
+palpitations (symptom)	80313002
+myalgia/myositis -pelvis/thigh (finding)	288230000
+tinnitus, unspecified ear	162352007
+muscle pain	68962001
+palpitations nos (finding)	80313002
+weight increasing	262286000
+cramp in lower leg	449918009
+clouded consciousness	40917007
+finding of nausea	422587007
+tendon pain	21545007
+difficulty swallowing	288939007
+depressive; neurosis	35489007
+gastralgia	271681002
+changed sexual interest (libido): decreased	8357008
+pins needles	62507009
+stomach cramps (finding)	51197009
+parkinson dis	49049000
+calf cramping	250084002
+symptoms nausea	422587007
+the shakes	26079004
+pain;foot/feet	47933007
+feeling of chest tightness	23924001
+stroke/cva unspecified	230690007
+excessive menstrual bleeding	386692008
+decreased muscle strength	26544005
+muscle cramps in foot	102551008
+muscular cramp	55300003
+aodm	44054006
+shoulder; joint pain	267949000
+faces swelling	278528006
+painful hip	49218002
+muscle cramps (symptom)	55300003
+a tachycardic pulse was noted	86651002
+depressive; disorder	35489007
+heavy menstrual periods	386692008
+tremors as symptom	26079004
+stomachaches	271681002
+chest pain (situation)	29857009
+nausea (disorder)	422587007
+numbness of upper limb (finding)	298753001
+hypertension, arterial	38341003
+libido loss of	8357008
+pain in toe (diagnosis)	285365001
+idiopathic parkinson dis	49049000
+arthralgia - hip	49218002
+mi - myocardial infarction	22298006
+tremor (situation)	26079004
+disease;parkinsons	49049000
+joint movement restrained	70733008
+constant pain (finding)	426206001
+gastrodynia	271681002
+upset; stomach	162059005
+decreased energy	248274002
+difficulty sleeping	301345002
+amyotrophia nos (disorder)	88092000
+mood lability	18963009
+poor short-term memory	247592009
+gastrooesophageal reflux	698065002
+feeling agitated (finding)	24199005
+spots 	271807003
+dysphagia, unspecified	288939007
+tightness of chest	23924001
+knee; stiffness	249913002
+chest pain or discomfort reported as pain	29857009
+breath shortnesses	230145002
+pain neck	81680005
+diabetes non-insulin dependent	44054006
+increased body weight	262286000
+hindlimb pain	10601006
+belly ache	162059005
+pain in unspecified hip	49218002
+difficulty walking (finding)	228158008
+cholesterol serum increased	166830008
+flatulence,eructation,gas	271832001
+parkinson disease [disease/finding]	49049000
+hip pains	49218002
+tinnitus nos (finding)	162352007
+muscle atrophy (physical finding)	88092000
+abdomen; colic	9991008
+heart throbbing	80313002
+hepatic disorder (nos)	235856003
+tinnitus, ringing/buzzing ear	162352007
+high pulse rate	86651002
+heart rate fast	86651002
+sexual desire decreased	8357008
+infarct myocardial	22298006
+painful joint	57676002
+cutaneous eruptions	271807003
+musculoskeletal hand pain	53057004
+backache; low	279039007
+muscle wasting (finding)	88092000
+insomnia (disorder)	193462001
+mood swings	18963009
+loss memory short term	247592009
+cva	230690007
+headache migraine	37796009
+feeling of throat tightness	247323005
+tenodynia	21545007
+tendonitis	34840004
+numbness toe	309539008
+heartbeats increased	86651002
+gained weight	262286000
+insomnia nos (situation)	193462001
+headache (context-dependent category)	25064002
+ht	38341003
+liver; disease	235856003
+hair losses	278040002
+arthritis rheumatoid	69896004
+stiff knee	249913002
+nerve disorders (diagnosis)	386033004
+muscle pain/fibrositis	68962001
+tired all the time (finding)	267032009
+tremor, nos	26079004
+parkinsonism, primary	49049000
+restless leg	32914008
+backache (disorder)	161891005
+myocardial infarction, (mi)	22298006
+unspecified abdominal pain	21522001
+pain, generalised	82991003
+menstruation; excessive	386692008
+cramp foot	102551008
+sense; burning	90673000
+burning sensation (finding)	90673000
+backache symptoms	161891005
+falling hairs	278040002
+drowsy (finding)	271782001
+amyotrophy nos	88092000
+feeling headed light	386705008
+liver dis	235856003
+claudication	16973004
+insomnia (disorder) [ambiguous]	193462001
+diabetes, maturity onset	44054006
+pain; back, low	279039007
+pain observations	22253000
+tendinitis	34840004
+wasting - muscle	88092000
+hemorrhage nos	131148009
+nonspecific pain in the neck region	81680005
+queasy	422587007
+rheumatoid disease	69896004
+myopathic diseases and syndromes	129565002
+abdominal colic (context-dependent category)	9991008
+rndx cardiac (diagnosis)	56265001
+muscular diseases [disease/finding]	129565002
+creatinine serum increased	166717003
+muscle soreness	68962001
+pain in lower limb (finding)	10601006
+loss (of);hair	278040002
+heart attacks	22298006
+somnolence (sleepiness)	271782001
+aches generalized	82991003
+gastroesophageal reflux (finding)	698065002
+nausea [disease/finding]	422587007
+dysphagia nos	288939007
+hindfoot pain	47933007
+hemorrhage	131148009
+loss of hair (finding)	278040002
+weight increasing (finding)	262286000
+hand pain (symptom)	53057004
+light-headedness (finding)	386705008
+difficulty;swallowing	288939007
+vascular cerebral accident	230690007
+ha	25064002
+weight gain (finding)	262286000
+loss of energy	248274002
+disorder heart	56265001
+infarction;heart	22298006
+blood fresh stools	405729008
+colic  (finding)	9991008
+pain in back	161891005
+cramps (muscle)	55300003
+obtundation	419723007
+rash/nonspec.skin erupt.nos	271807003
+types of pain	22253000
+myalgia/myositis - shoulder (disorder)	288226003
+rheumatic gout	69896004
+tinnitus symptom nos	162352007
+paralysis agitans <parkinsonism>	49049000
+abnormal hepatic enzyme	166643006
+exhaustion, nos	60119000
+hypersomnia nos	77692006
+heartbeat (pulse);fast	86651002
+tremor (physical finding)	26079004
+muscular weakness	26544005
+swelling face	278528006
+chest pain, unspecified	29857009
+lumbar back pain	279039007
+part hurts	22253000
+extravasation blood	131148009
+cerebrovascular accident (disorder)	230690007
+difficulty swallowing (finding)	288939007
+hypertensive disease	38341003
+aches muscle	68962001
+hypersomnia nos (disorder)	77692006
+motor exam involuntary movements tremor trembles	26079004
+hip joints pain	49218002
+blood pressure elevated	24184005
+cognitive dysfunction [disease/finding]	386806002
+limited mobility	8510008
+liver disease nos	235856003
+hyperpiesia	38341003
+shake	26079004
+asthenia  (finding)	13791008
+pains in legs	10601006
+myalgia/myositis - lower leg (disorder)	288231001
+observation of tinnitus	162352007
+(alopecia) or (thinning of hair)	278040002
+burning sensations	90673000
+cannot get food down	288939007
+parkinson's disease (disorder)	49049000
+syndrome heart disease	56265001
+rash and other nonspecific skin eruption (context-dependent category)	271807003
+stomach pain (diagnosis)	271681002
+cramping foot	102551008
+asthenia nos (situation)	13791008
+muscle cramps in the calf	250084002
+muscular pain	68962001
+memory deficits	386807006
+colic abdominal	9991008
+neuropathy (disorder)	386033004
+myosalgia	68962001
+dysphagia nos (situation)	288939007
+mood disorder with depressive feature	35489007
+migraine disorders	37796009
+amyotrophies	88092000
+muscle spasms	45352006
+lack of energy (finding)	248274002
+facial puffiness	278528006
+asthenia (finding)	13791008
+dizzyness	404640003
+plantar fasciitis (disorder)	202882003
+pulse rate increased	86651002
+sensation of burning of skin	90673000
+elevate blood pressure	24184005
+generalized acute body aches	102480002
+chronic rheumatic arthritis	69896004
+back pain in	161891005
+face puffiness	278528006
+bleed_nos problem	131148009
+difficulty, ambulation	228158008
+head pains	25064002
+pain abdo	21522001
+attack - heart	22298006
+asthenia nos (context-dependent category)	13791008
+irritable moods	55929007
+trembles (physical finding)	26079004
+mood changes	18963009
+brain vascular accidents	230690007
+change in mood	18963009
+stable diabetes mellitus	44054006
+chest symptom palpitation	80313002
+myopathy nos	129565002
+swallowing; difficult	288939007
+loss libido	248096004
+muscle atrophy	88092000
+tachycardias	86651002
+dysphagia (situation)	288939007
+diabetes mellitus non-insulin-dependent	44054006
+unable to get off a bed (finding)	301676004
+knee joint pain (finding)	30989003
+cervicodynia	81680005
+ringing in the ears (tinnitus)	162352007
+unspecified chest pain	29857009
+painful	22253000
+back pain nos	161891005
+ache;stomach	271681002
+cerebral; accident	230690007
+bodies disease lewy parkinson's	49049000
+backache - disorder	161891005
+cervicalgia - pain in neck	81680005
+migraine, unspecified	37796009
+shoulder; pain, joint	267949000
+heavy menstrual bleeding	386692008
+neck ache	81680005
+lack concentration	60032008
+aches, low back	279039007
+tinnitus (diagnosis)	162352007
+disorders migraine	37796009
+deficit, memory	386807006
+memory problems	386807006
+hypersomnia (excessive sleeping)	77692006
+loss; sensation	44077006
+(alopecia unspecified) or (baldness) or (hair loss)	278040002
+headedness light	386705008
+lability emotional	18963009
+heart beat; rapid	86651002
+inability to walk (symptom)	282145008
+walking disability (finding)	228158008
+headache (symptom)	25064002
+haemorrhage, unspecified	131148009
+pain; chest	29857009
+abdominal pains	21522001
+energy loss	248274002
+backache symptom	161891005
+foot pain	47933007
+calves cramps	250084002
+lbp - low back pain	279039007
+arthralgia of shoulder region (diagnosis)	267949000
+spasms (situation)	45352006
+toe numbness	309539008
+insomnia symptom	193462001
+foot/feet pain	47933007
+arm pain	102556003
+cerebrovascular; accident	230690007
+menstruation excessive	386692008
+muscles--diseases	129565002
+unable to think clearly	247640008
+knee pains	30989003
+colic 	9991008
+hip pain	49218002
+gastric pain	271681002
+stiff leg	225609009
+impaired cognition (finding)	386806002
+forgetful	55533009
+infarction of heart, nos	22298006
+tendinitis, nos	34840004
+depressive disorder [disease/finding]	35489007
+problem;walking	228158008
+cranial pain	25064002
+poor memory	386807006
+arthritic-like pain	57676002
+walking difficulty	228158008
+alopecia (physical finding)	278040002
+tremor 	26079004
+hips pain	49218002
+parkinson's disease nos (disorder)	49049000
+pd - parkinson's disease	49049000
+foot numbness	309538000
+excessive upper gastrointestinal gas	162076009
+shoulder joint pain (symptom)	267949000
+heart disorders	56265001
+syndrome, wittmaack ekbom	32914008
+shortness (of);breath	230145002
+difficulty in walking nos (finding)	228158008
+nausea (symptom)	422587007
+pains, cervical	81680005
+asthenia	13791008
+elevated blood pressure	38341003
+muscle sorenesses	68962001
+generalised pain	82991003
+upset stomach (finding)	162059005
+spasmodic movement (finding)	249966004
+non insulin dependent diabetes	44054006
+(alopecia) or (thinning of hair) (disorder)	278040002
+pain in head nos	25064002
+abdominal pain	21522001
+myopathy unspecified	129565002
+musculoskeletal shoulder pain	45326000
+(symptom: [sob] or [breathlessness] or [dyspnea]) or (breathlessness)	230145002
+neckaches	81680005
+noise in ears	162352007
+hypertension, nos	38341003
+ear; murmur	162352007
+disease;heart	56265001
+arm pains	102556003
+shoulder pain (disorder)	45326000
+griping stomach	51197009
+mental dullness	419723007
+ache tummy	162059005
+diabetes, adult onset	44054006
+hemorrhage (diagnosis)	131148009
+altered mood	18963009
+muscle aches (symptom)	68962001
+dysfunctions, cognitive	386806002
+reported muscle spasms	45352006
+cranial pains	25064002
+stomach pain	21522001
+chest tightness of	23924001
+joint pain (finding)	57676002
+hypertensive disease nos (disorder)	38341003
+impairments memory	386807006
+arthralgia of shoulder	267949000
+arthralgia of knee	30989003
+[x]disorder of muscle, unspecified	129565002
+reduced sexual desire	8357008
+finding of tinnitus	162352007
+diabetes;adult onset	44054006
+morbus; cordis	56265001
+asthenia [disease/finding]	13791008
+ears, ringing in	162352007
+tinnitus, nos	162352007
+back over pain	161891005
+muscle cramping	55300003
+menses regular with excessive bleeding	386692008
+stomach ache (finding)	271681002
+quiver	26079004
+spasm of back muscles (finding)	203095000
+tachycardia by pulse (physical finding)	86651002
+weakness;muscle(s)	26544005
+numbness (context-dependent category)	44077006
+parkinson's disease, idiopathic	49049000
+c/o - "tired all the time" (context-dependent category)	267032009
+dyspnea (situation)	230145002
+weight gain	262286000
+chest pain or discomfort (symptom)	29857009
+policeman's heels	202882003
+tendon inflamed	34840004
+stiffness in knee	249913002
+myopathy, unspecified	129565002
+decreased range of motion	70733008
+low back derangement syndrome	279039007
+tremor symptom	26079004
+muscular atrophy (diagnosis)	88092000
+rapid heart beat	86651002
+hypermenorrhea -retired-	386692008
+policeman's heel	202882003
+ache muscles	68962001
+i feel tightness in my chest	23924001
+reduced mobility	8510008
+difficulty walking (symptom)	228158008
+morbus cordis, nos	56265001
+legs heavy	161873000
+atrophic arthritis	69896004
+legs restless	32914008
+generalized acute body pains (finding)	102480002
+low backache	279039007
+hair absent	278040002
+walking leg pain	16973004
+neckache	81680005
+exanthem (diagnosis)	271807003
+limb pain arm	102556003
+cervical pains	81680005
+rndx nausea (diagnosis)	422587007
+serum cholesterol raised (finding)	166830008
+pain in head nos (situation)	25064002
+tinnitus (symptom)	162352007
+myocardial infarction syndrome	22298006
+tachycardia - pulse	86651002
+restless legs syndrome [disease/finding]	32914008
+arthralgia of hip (diagnosis)	49218002
+infarction, myocardial	22298006
+muscular dis	129565002
+skin; eruption	271807003
+accident - cerebrovascular	230690007
+ache diffuse	82991003
+restless legs syndrome	32914008
+walking disability	228158008
+myalgia/myositis - shoulder (finding)	288226003
+generalised acute body pains	102480002
+eruption (disorder)	271807003
+sleep difficulties	301345002
+sensation, burning	90673000
+shoulder pain (finding)	45326000
+abnormal liver enzyme (diagnosis)	166643006
+red blood in bowel movement	405729008
+liver diseases [disease/finding]	235856003
+disease, liver	235856003
+lightheadedness	404640003
+blood increases pressure	24184005
+plantar fasciitis	202882003
+arthritis; rheumatoid	69896004
+colic	9991008
+numbness of upper limb	298753001
+accident; cerebral	230690007
+feeling queasy	422587007
+disease of liver (disorder)	235856003
+generalised aches	82991003
+noises in ear	162352007
+rndx memory impairment (diagnosis)	386807006
+alopecia areata	278040002
+arthralgia of the shoulder region (& [shoulder joint]) (disorder)	267949000
+diabetes, maturity-onset	44054006
+aches muscles	68962001
+muscle spasm of back	203095000
+rapid; heart beat	86651002
+[x]disorder of muscle, unspec	129565002
+unable to walk	282145008
+attacks coronary	22298006
+pain, generalized (situation)	82991003
+pain general/multiple sites	82991003
+muscle disorder	129565002
+pain;stomach	271681002
+backache	161891005
+agitated behavior	24199005
+tummy ache	271681002
+heavy period	386692008
+pain in elbow	74323005
+numbness in foot	309538000
+alopecia nos (disorder)	278040002
+tinnitus [disease/finding]	162352007
+colic nos (context-dependent category)	9991008
+pain in joint - arthralgia	57676002
+pain; low back	279039007
+stomach cramp	51197009
+pins and needles (physical object)	62507009
+hand pain musculoskeletal	53057004
+obtundation mental	419723007
+muscle weakness [disease/finding]	26544005
+flatulence, eructation and gas pain (finding)	271832001
+hem	131148009
+lightheadedness	386705008
+pain thoracic	29857009
+myalgic	68962001
+agitated (& symptom) (finding)	24199005
+impairment;cognitive	386806002
+much sleeping too	77692006
+raised blood pressure (disorder)	38341003
+joint movement restricted	70733008
+appetite loss	79890006
+extremity pain, upper	102556003
+intolerance exercise	267044007
+depression; behavioral disorder	35489007
+weight gain finding	262286000
+sleepiness	271782001
+migraine headaches	37796009
+cognitive dysfunctions	386806002
+arthralgia of the shoulder region	267949000
+disorder of heart	56265001
+cramp muscle	55300003
+hip joint pain (symptom)	49218002
+reported chest pain	29857009
+non-ins-dep diabetes mellitus	44054006
+disease, willis ekbom	32914008
+arthralgia of hip	49218002
+s.o.b.	230145002
+back ache	161891005
+dizziness	404640003
+depressive disorder (disorder)	35489007
+musculoskeletal knee pain	30989003
+cva nos	230690007
+spasm, muscular	45352006
+calf cramps	250084002
+stroke, cardiovascular	22298006
+skeletal muscle disease	129565002
+lack of appetite (finding)	79890006
+chest pain (context-dependent category)	29857009
+blood; extravasation	131148009
+paralysis;agitans	49049000
+adult onset diabetes	44054006
+noninsulin-dependent diabetes mellitus	44054006
+light-headedness (situation)	386705008
+hypersomnias	77692006
+willis-ekbom syndrome	32914008
+cva, cerebrovascular accident	230690007
+random blood sugar raised	166892002
+disorder of liver	235856003
+atrophy, muscle	88092000
+[x]diseases of the liver (disorder)	235856003
+muscular spasms	45352006
+mental concentration impaired	60032008
+slow-onset diabetes mellitus	44054006
+spasms	45352006
+muscular disease	129565002
+shaking palsy	49049000
+arthritis or polyarthritis, rheumatic	69896004
+colic;abdominal	9991008
+diabetes mellitus type ii	44054006
+willis ekbom disease	32914008
+rise in blood pressure	24184005
+stomach pain/ache	271681002
+late onset diabetes	44054006
+rapid pulse	86651002
+ears ringing	162352007
+irritable mood	55929007
+heart diseases [disease/finding]	56265001
+ache in joint	57676002
+increased serum creatinine	166717003
+nausea symptom	422587007
+knee; joint pain	30989003
+tachycardia [disease/finding]	86651002
+shortness of breath (sob)	230145002
+flatul, eructation & gas pain	271832001
+policeman heel	202882003
+parkinson's disease (diagnosis)	49049000
+excessive;gas	162076009
+trouble breathing	230145002
+myocardial infarction, nos	22298006
+fatigue muscles	80449002
+memory deficit	386807006
+pain in joint	57676002
+numbness of hand	309521004
+arthrodynia	57676002
+mood irritable	55929007
+cannot sleep - insomnia	193462001
+muscle cramp [disease/finding]	55300003
+numbness of foot (finding)	309538000
+excruciating pain (finding)	67849003
+thorax; pain	29857009
+unable to concentrate	60032008
+pain in unspecified shoulder	45326000
+tendonitis, nos	34840004
+muscle ache	68962001
+lumbago (diagnosis)	279039007
+muscle wasting disorder	88092000
+sexual feeling decreased	8357008
+asthenia (diagnosis)	13791008
+respiratory difficulty	230145002
+drowsiness (function)	271782001
+tremor (finding)	26079004
+muscles tension	250069006
+excessive menstruation	386692008
+respiratory difficulties	230145002
+cannot sleep at all (finding)	248255005
+pain muscle	68962001
+emotional lability	18963009
+a26-a29 types of pain	22253000
+short-term memory poor	247592009
+palpitations nos (situation)	80313002
+tummy ache	162059005
+limb pain leg	10601006
+agitated - symptom	24199005
+confusion	40917007
+neuropathy - (nos)	386033004
+muscle spasms (physical finding)	45352006
+trembling	26079004
+syndrome; migraine	37796009
+twitched	60238002
+spasms (diagnosis)	45352006
+d tremors	26079004
+tinnitus (disorder)	162352007
+flatulence/gas pain/belching	271832001
+throat constriction	247323005
+muscle twitching	60238002
+knee; pain, joint	30989003
+backache symptom nos (finding)	161891005
+abdominal pain, unspecified site	21522001
+low back pain [disease/finding]	279039007
+menstruation;excessive	386692008
+calvities	278040002
+burning sensation	90673000
+short-term memory loss	247592009
+blood pressure rise	24184005
+low backaches	279039007
+leg stiff	225609009
+abdominal colic (finding)	9991008
+hepatic enzyme abnormal	166643006
+insomnia dis	193462001
+diseases of liver (k70-k77)	235856003
+parkinson's disease, nos	49049000
+limped	16973004
+pain in joints	57676002
+foot cramps	102551008
+pain knee	30989003
+muscle spasm of calf	250084002
+hypertensive diseases	38341003
+backache, unspecified (disorder)	161891005
+generalized aches and pains	82991003
+hypertensive disease nos	38341003
+arthralgia nos (finding)	57676002
+lameness of biped limb	16973004
+nerve disorders	386033004
+ekbom syndrome	32914008
+disturbances of sleep/insomnia	193462001
+diseases parkinson	49049000
+cramps, muscular	55300003
+muscular spasm	45352006
+drowsiness (symptom)	271782001
+low back ache	279039007
+pain in unspecified knee	30989003
+strokes	230690007
+disease, willis-ekbom	32914008
+feeling sick	422587007
+wooziness	40917007
+diabetes mellitus, slow onset	44054006
+menorrhagia [disease/finding]	386692008
+cramping	55300003
+tight chest	23924001
+bleeding (symptom)	131148009
+partial musculoskeletal mobility, nos	8510008
+plantar fasciitis (diagnosis)	202882003
+tendinitides	34840004
+weight gain (physical finding)	262286000
+spasms, muscular	45352006
+breath shortness	230145002
+cramp in muscle	55300003
+poor concentration	26329005
+low back pains	279039007
+alopecia disorders	278040002
+back pain (finding)	161891005
+excessive overactivity	24199005
+fresh blood in stool	405729008
+numbness (situation)	44077006
+migraine; syndrome	37796009
+headache [disease/finding]	25064002
+parkinsons dis lewy body	49049000
+abdominalgia	21522001
+breathlessnesses	230145002
+abdo pain	21522001
+numbness;hand	309521004
+pain;back;lumbar	279039007
+arterial hypertension	38341003
+lower limb pain	10601006
+chest pain, nos	29857009
+rndx cardiac	56265001
+shakes	26079004
+arthralgia nos	57676002
+body weight gain	262286000
+arthralgias	57676002
+colic; abdomen	9991008
+muscle tiredness	80449002
+cutaneous eruption	271807003
+difficulty in swallowing nos	288939007
+cardiac diseases	56265001
+irritability; abnormal	55929007
+extravasation; blood	131148009
+disease hearts	56265001
+abdominal pain (context-dependent category)	21522001
+bleeding -retired-	131148009
+dysphagia	288939007
+cerebral; apoplexy	230690007
+hepatic disease	235856003
+involuntary shaking or trembling movements	26079004
+syndrome myocardial infarction	22298006
+sensation loss	44077006
+breath; shortness of breath	230145002
+reported muscle spasms (symptom)	45352006
+sob	230145002
+backpain	161891005
+murmur; ear	162352007
+inability to sleep	248255005
+sleeping too much (symptom)	77692006
+dorsalgia	161891005
+diabetes mellitus, type 2	44054006
+sleep too much	77692006
+cramp in hand	250082003
+tired time	248274002
+increased heart rate	86651002
+cerebral apoplexy	230690007
+mod	44054006
+noninsulin dependent diabetes mellitus	44054006
+cerebrovascular accident	230690007
+fascitis plantar	202882003
+thinning of hair	278040002
+diabetes mellitus, type ii	44054006
+stomach pain	271681002
+unable to walk (finding)	282145008
+diabetes; non-insulin-dependent	44054006
+musculoskeletal thigh pain	78514002
+blood pressures, high	38341003
+foot burning	36031001
+hip painful	49218002
+liver--diseases	235856003
+dyspnea (finding) [ambiguous]	230145002
+hypersomnia nos (situation)	77692006
+palsy shaking	49049000
+excessive sleep	77692006
+strokes, cerebral	230690007
+hip; joint pain	49218002
+spasmodic movement	249966004
+myopathic disease, nos	129565002
+heavy periods nos	386692008
+toe pain	285365001
+fatigue (finding)	248274002
+body general pain	82991003
+lack libido	248096004
+muscle spasms in calf (symptom)	250084002
+shaking all over	26079004
+depressive disorder nos	35489007
+stomach ache	271681002
+drowsiness, function (observable entity)	271782001
+hypersomnia, unspecified	77692006
+diabetes	44054006
+libido; loss	248096004
+leg pain, nos	10601006
+teninitis	34840004
+poor concentration (finding)	26329005
+shortness of breath	230145002
+bright red blood per rectum	405729008
+arthritide	3723001
+bp - high blood pressure	38341003
+fatiguing	248274002
+headache (situation)	25064002
+lack of libido	248096004
+abdominal pain (symptom)	21522001
+depressive neurosis	35489007
+noninsulin dependent diabetes	44054006
+cognitive dysfunction	386806002
+rapid heartbeat	86651002
+diabetes, type ii	44054006
+pain in chest	29857009
+diseases and syndromes of heart	56265001
+muscle twitch (finding)	60238002
+disease (or disorder); muscle	129565002
+dyspnoea (finding)	230145002
+hypersomnia, nos	77692006
+abdominal pain nos	21522001
+mood change	18963009
+pain in thigh (diagnosis)	78514002
+back muscle spasms	203095000
+tatt - tired all the time	267032009
+ringing in the ear	162352007
+insomnia [ambiguous] (disorder)	193462001
+reduced libido	8357008
+myalgia/myositis - forearm (disorder)	288228002
+rheumatoid arthritis nos	69896004
+difficulty breathing (finding)	230145002
+lumbalgia	279039007
+muscular fatigue, nos	80449002
+strokes, cerebrovascular	230690007
+pain;toe(s)	285365001
+puffiness face	278528006
+muscle; weakness	26544005
+amyotrophy	88092000
+constriction in throat (finding)	247323005
+paraesthesia of (numbness/tingling) of lower limb	429783005
+flu like illness	95891005
+'flu-like illness	95891005
+chest tightness	23924001
+arthritis;inflammatory	3723001
+knee joint pain	30989003
+back pain, low	279039007
+lower backache (diagnosis)	279039007
+rash/nonspec.skin eruption	271807003
+muscle fatigue	80449002
+type 2 diabetes	44054006
+spasmodic abdominal pain	9991008
+light-headed feeling	386705008
+light head	386705008
+systemic htn	38341003
+paresthesia of lower extremity (finding)	429783005
+abnormal; irritability	55929007
+dyspnea	230145002
+tachycardia (by pulse measurement)	86651002
+ringing-buzzing-tinnitus	162352007
+pains, back	161891005
+depressive disorders	35489007
+arthritis (finding)	3723001
+spasms nos (situation)	45352006
+tinnitus aurium	162352007
+spasm	55300003
+liver disorder nos	235856003
+cephalodynia	25064002
+tired all the time	248274002
+disorders of muscles	129565002
+upset tummy	162059005
+dorsal back pain	161891005
+asthenia (context-dependent category)	13791008
+arthritis, unspecified, site unspecified	3723001
+loss of hair	278040002
+tremor nos (context-dependent category)	26079004
+painful hand	53057004
+weight increased (observable entity)	262286000
+parkinson's disease	49049000
+muscle spasm (disorder)	45352006
+colic (situation)	9991008
+musculoskeletal leg pain	10601006
+heart infarction	22298006
+rndx fatigue (diagnosis)	248274002
+tinnitus symptom nos (finding)	162352007
+fasciitis; plantar	202882003
+muscular cramps	55300003
+cardiac infarct	22298006
+abdominal; pain	21522001
+concentration difficulties	60032008
+chest pain nos (situation)	29857009
+inability walk	282145008
+alopecia (disorder)	278040002
+back muscles spasms	203095000
+pain;generalized	82991003
+spasm (finding)	45352006
+atrophy;muscular	88092000
+heavy menstruation	386692008
+tightness in throat	247323005
+pain in unspecified elbow	74323005
+irritable - symptom	55929007
+loss; sexual desire	248096004
+lewy body parkinson's disease	49049000
+pain, generalized	82991003
+a46-a47 tremors	26079004
+labile mood	18963009
+deglutition disorders	288939007
+arthritis, rheumatic	69896004
+stiffness in knee joint	249913002
+myodynia	68962001
+parkinsons dis idiopathic	49049000
+burn feet	36031001
+lacking in energy	248274002
+apoplexy; cerebral	230690007
+insomnia disorder (diagnosis)	193462001
+pain in calf (disorder)	300954003
+skin eruption	271807003
+stroke and cerebrovascular accident unspecified	230690007
+cramp (disorder)	55300003
+tired all the time (& [c/o -])	267032009
+cervicalgia (diagnosis)	81680005
+deficits, memory	386807006
+inflammatory disorder of tendon	34840004
+nonspecif skin erupt nec	271807003
+colic nos	9991008
+fasciitis, plantar [disease/finding]	202882003
+rash, skin	271807003
+disorder of muscle, unspecified	129565002
+fasciitis plantar	202882003
+red blood in bowel movement (hematochezia)	405729008
+mi	22298006
+problems walking	228158008
+pain, generalised (situation)	82991003
+muscle; atrophy	88092000
+headache;migraine	37796009
+diabetes mellitus nos late onset	44054006
+lacking motivation	277521002
+loss (of);sensation	44077006
+insomnia nos (context-dependent category)	193462001
+lack of libido (finding)	248096004
+jerked	60238002
+dizziness (finding)	404640003
+infarction (mi), myocardial	22298006
+thigh pain (finding)	78514002
+depressive dis	35489007
+pain in knee	30989003
+labile in mood	18963009
+cramp	55300003
+arthralgia - knee / patella / tibia / fibula	30989003
+pain in calf (finding)	300954003
+dazed state	40917007
+shoulder pain joint	267949000
+pain; head	25064002
+upset stomach	162059005
+ache	22253000
+muscle tissue disease	129565002
+infarction; myocardial	22298006
+cardiopathy, nos	56265001
+diabetes mellitus, noninsulin-dependent	44054006
+muscle weakness (finding)	26544005
+muscle cramps in the feet	102551008
+heart attack	22298006
+short term memory loss	247592009
+generalized; pain	82991003
+sob - shortness of breath	230145002
+migraine nos	37796009
+muscle atrophies	88092000
+arms pains	102556003
+pain in head	25064002
+decreased sexual interest	8357008
+numbness	44077006
+thoracalgia	29857009
+serum cholesterol increased	166830008
+hemorrhage (nos)	131148009
+irritibility	55929007
+dyspnoea	230145002
+muscle tension	250069006
+generalized aches	82991003
+liver diseases of	235856003
+general body pain	82991003
+fatigue muscle	80449002
+restless	24199005
+noises in;ear	162352007
+paraesthesia of lower limb	429783005
+myopathies (diagnosis)	129565002
+pain in toe	285365001
+myalgia/myositis - lower leg (finding)	288231001
+joints pain	57676002
+washed-out	60119000
+atrophy (muscular)	88092000
+menstrual bleeding, heavy	386692008
+tachycardia nos	86651002
+high blood pressure	38341003
+hbp	38341003
+finding of increased blood pressure (finding)	24184005
+constant pain	426206001
+hemorrhage [disease/finding]	131148009
+rheumatoid arthritis	69896004
+liver	235856003
+diabetes type 2	44054006
+myopathic conditions	129565002
+difficulties walk	228158008
+gut pain	21522001
+cramp hands	250082003
+fatigue (diagnosis)	248274002
+reduced;sexual desire	8357008
+emotional; instability	18963009
+[x]depressive disorder nos	35489007
+general aches and pains	82991003
+sleeping difficulties	301345002
+tendon; disorder, inflammatory	34840004
+limited motion of range	70733008
+maturity-onset diabetes mellitus	44054006
+dysphagia, nos	288939007
+hepatocellular disease	235856003
+disturbance in cognition	386806002
+lumbar pains	279039007
+tinnitus symptom (non-specific)	162352007
+difficulty swallowing (dysphagia)	288939007
+chest pain nos (finding)	29857009
+asthenia  (situation)	13791008
+muscles pains	68962001
+dizzying	404640003
+gastric pains	271681002
+cannot sleep	248255005
+gains weight	262286000
+undetermined stroke	230690007
+back aches	161891005
+appetite impaired	79890006
+spasm of muscle	45352006
+symptoms tinnitus	162352007
+cerebral strokes	230690007
+muscle spasm back	203095000
+headache migraines	37796009
+abdominal pain [disease/finding]	21522001
+restlessness marked	24199005
+disorder deglutition	288939007
+palpitations (context-dependent category)	80313002
+calf muscle cramps	250084002
+stomachache	271681002
+arterial hypertension systemic	38341003
+disorder muscle	129565002
+ache stomach	162059005
+pain, back	161891005
+red blood in stool	405729008
+pain;shoulder	45326000
+facial swelling	278528006
+tightness of breath	230145002
+inflammatory disorder of joint (disorder)	3723001
+elevated bp	24184005
+serum cholesterol concentration increased above normal	166830008
+cerebration impaired	60032008
+gastric reflux	698065002
+excessive menses	386692008
+excruciating pain	67849003
+heel, policeman's	202882003
+calves cramping	250084002
+backache, nos	161891005
+muscle fatigue (finding)	80449002
+rndx nausea	422587007
+infarction of heart	22298006
+morbus cordis nos	56265001
+ekbom	32914008
+hypermenorrhea	386692008
+menstruation increased	386692008
+diabetes; adult-onset	44054006
+muscle; fatigue	80449002
+difficulty breathing	230145002
+neck pain	81680005
+lumbago (disorder)	279039007
+eruption, nos	271807003
+spasm uterine	29542008
+uterine spasm (disorder)	29542008
+back pains, low	279039007
+pain toe	285365001
+cramp muscles	55300003
+generalized aching	82991003
+niddm diabetes mellitus	44054006
+headache (excl n02 n89 r09)	25064002
+nausea nos	422587007
+alopecia, unspecified	278040002
+nauseas	422587007
+lewy body parkinson disease	49049000
+[x]hypertensive diseases (disorder)	38341003
+memory; disturbance	386807006
+vascular brain accident	230690007
+decreas sexual desire	8357008
+swollen face	278528006
+atrophy, muscular	88092000
+blood bright red stools	405729008
+disease idiopathic parkinsons	49049000
+burning feet (finding)	36031001
+drowsy	271782001
+alopecia, nos	278040002
+heavy menstrual period (finding)	386692008
+back pain over	161891005
+myocardial infarction (mi)	22298006
+depressive illness	35489007
+off food	79890006
+diseases, liver	235856003
+spasms uterine	29542008
+hands numbness	309521004
+diabetes mellitus: [adult onset] or [noninsulin dependent] (disorder)	44054006
+difficulty;breathing	230145002
+numbness of hand (symptom)	309521004
+memory impairment	55533009
+pain;musculoskeletal;knee	30989003
+cognitive defects	386806002
+willis-ekbom disease	32914008
+difficult swallowing	288939007
+pain;musculoskeletal;thigh	78514002
+insomnia 	193462001
+infarction;myocardial	22298006
+shortness of breath (situation)	230145002
+drowsiness (context-dependent category)	271782001
+inability to concentrate	60032008
+tendon; inflammation	34840004
+stiffness of knee joint (symptom)	249913002
+pain dorsal	161891005
+pain in head nos	25064002
+dry skin	16386004
+weaknesses, muscular	26544005
+aching muscles	68962001
+weight gain [disease/finding]	262286000
+heavy legs (finding)	161873000
+increased pulse rate	86651002
+numbness;foot	309538000
+influenza-like illness (finding)	95891005
+shoulder pain [disease/finding]	45326000
+short of breath	230145002
+excitement abnormal	24199005
+alopecias	278040002
+pins and needles sensation	62507009
+apoplexy; stroke	230690007
+disorder of muscle	129565002
+muscle dis	129565002
+labile mood (finding)	18963009
+alopecia nos	278040002
+menorrhagia (diagnosis)	386692008
+exanthem	271807003
+generalized ache	82991003
+heart palpitations	80313002
+pain provoked by movement (finding)	425423002
+muscle(s) cramp(s)	55300003
+myalgia/myositis - forearm	288228002
+colics	9991008
+sleeping excessive	77692006
+sexual desire reduced	8357008
+generalized acute body pains	102480002
+systemic rheumatoid arthritis	69896004
+diabetes; nonketotic	44054006
+heart disease disorder	56265001
+walking; difficulty	228158008
+can't get food down	288939007
+generalized body pains	82991003
+paraesthesia lower limb	429783005
+unable to walk (history)	282145008
+thoracic pain	29857009
+pain in hip	49218002
+attacks hearts	22298006
+systemic arterial hypertension	38341003
+pain (b280-b289)	22253000
+myocardial infarction (diagnosis)	22298006
+tightness chest	23924001
+myocardial infarct	22298006
+tension;muscle(s)	250069006
+inflammatory arthropathies	3723001
+5-80-81 diseases of the liver	235856003
+flooding during periods	386692008
+syndrome restless legs	32914008
+clouded consciousness (finding)	40917007
+bleeding problem	131148009
+restless leg syndrome	32914008
+disorder of muscle -retired-	129565002
+pain;joint(s)	57676002
+t2d	44054006
+heavy menstrual period	386692008
+ringing/buzzing/tinnitus	162352007
+spasm of uterus	29542008
+blood pressure; high	38341003
+flatulence, eructation and gas pain nos	271832001
+increased serum cholesterol	166830008
+cardiac; infarction	22298006
+clouding of consciousness	40917007
+sore tummy	271681002
+spasm of uterus (finding)	29542008
+spasm	45352006
+liver disorder	235856003
+sexual arousal decreased	8357008
+alopecia [disease/finding]	278040002
+foot muscle cramp	102551008
+rapid; heart	86651002
+knee stiff	249913002
+limping (finding)	16973004
+deadness - numbness	44077006
+paresthesia of hand	309086004
+heart disease (disorder)	56265001
+pain in the thigh	78514002
+lower back pains	279039007
+difficulty;walking	228158008
+cramp, muscular	55300003
+flatulence/gas/belching	271832001
+racing heart	86651002
+paresthesia of hand (finding)	309086004
+skin dry	16386004
+mood altered	18963009
+memory impairment	386807006
+(has a tremor) or (tremor symptom) or (shaking) (finding)	26079004
+colic  (situation)	9991008
+impaired exercise tolerance (finding)	267044007
+aching in knees	30989003
+depression (diagnosis)	35489007
+light-headedness (context-dependent category)	386705008
+nausea (situation)	422587007
+migraine headache	37796009
+cervicodynias	81680005
+disease of liver	235856003
+non-insulin-dependent diabetes	44054006
+nauseating	422587007
+exanthem (situation)	271807003
+(alopecia unspecified) or (baldness) or (hair loss) (disorder)	278040002
+restless leg disorder	32914008
+rls	32914008
+thigh pain	78514002
+hair loss	278040002
+rndx unspecified pain	22253000
+chest pain or discomfort reported as pain (symptom)	29857009
+constriction in throat	247323005
+breathlessness symptom	230145002
+burning sensation nos	90673000
+diabetes mellitus type 02	44054006
+pain in upper extremities	102556003
+migraine (disorder)	37796009
+backache nos	161891005
+pains, head	25064002
+cva unspecified	230690007
+headache, cephalalgia	25064002
+chest pain	29857009
+sleep disorder hypersomnia	77692006
+pain;musculoskeletal;toe(s)	285365001
+sexual; arousal decreased	8357008
+difficulty in swallowing	288939007
+headache, nos	25064002
+numbness of toe	309539008
+oesophageal reflux	698065002
+flatulence, eructation and gas pain	271832001
+hyperpiesis	38341003
+sleeps too much	77692006
+disease hepatocellular	235856003
+pain in limb, hand	53057004
+increased sleeping	77692006
+exercise tolerance decreased	267044007
+limb pain thigh	78514002
+maturity-onset diabetes	44054006
+tremor	26079004
+dizziness - light-headed	386705008
+limping (symptom)	16973004
+tremor nos	26079004
+shaking	26079004
+involuntary shaking or trembling movements (symptom)	26079004
+spasms  (finding)	45352006
+muzzy headed	40917007
+sick feeling	422587007
+reflux;esophageal	698065002
+pain calf	300954003
+short of breath symptom	230145002
+limitation of joint movement (finding)	70733008
+muscle tension (finding)	250069006
+low back pain (symptom)	279039007
+alopecia	278040002
+niddm - non-insulin dependent diabetes mellitus	44054006
+arthritis nos	3723001
+cerebrovascular accident, (cva)	230690007
+pain in arm	102556003
+stroke nos (disorder)	230690007
+chest pain, unspecified (situation)	29857009
+generalized pain (symptom)	82991003
+cephalalgia	25064002
+haemorrhages	131148009
+irritable	55929007
+chest tightness	23924001
+ponderal increased	262286000
+dyspnoea nos	230145002
+loss of libido	248096004
+low libido	8357008
+backs pain	161891005
+blood elevations pressure	24184005
+ra	69896004
+exanthems	271807003
+range joint movement reduced	70733008
+gastresophageal reflux	698065002
+unstable mood (finding)	18963009
+cramp, muscle	55300003
+cramps calf	250084002
+arthralgia - shoulder region	267949000
+acid reflux	698065002
+ear ringing	162352007
+flatulence and gas pain nos	271832001
+twitching nos	60238002
+poor sleep	301345002
+systemic hypertension (diagnosis)	38341003
+pain;neck	81680005
+agitate	24199005
+hypertension	38341003
+stroke, not specified as haemorrhage or infarction	230690007
+backache symptom nos (disorder)	161891005
+myalgia unspecified (finding)	68962001
+shoulder joint pain (finding)	267949000
+calf cramp	250084002
+concentration loss	60032008
+bp raised	24184005
+heart dis	56265001
+reduced;libido	8357008
+plantar; fasciitis	202882003
+pain gastric	271681002
+vascular accident, brain	230690007
+blood increasing pressure	24184005
+disturbance of memory, nos	386807006
+insomnia, nos	193462001
+flatulence, eructation, and gas pain	271832001
+myocardial necrosis	22298006
+hemorrhage term	131148009
+hand cramps	250082003
+pain;knee	30989003
+stomachs upset	162059005
+swelling of face	278528006
+sore tummy	162059005
+pain in foot (diagnosis)	47933007
+bleed	131148009
+blood elevation pressure	24184005
+hand cramps (finding)	250082003
+nausea (context-dependent category)	422587007
+amyotrophia nos	88092000
+wittmaack ekbom syndrome	32914008
+stroke, not specified as hemorrhage or infarction	230690007
+generalised aching	82991003
+pains, low back	279039007
+myopathies	129565002
+involuntary shaking	26079004
+inflammation; tendon	34840004
+flu-like illness nos (finding)	95891005
+rash, nos	271807003
+dizziness (context-dependent category)	404640003
+swollen;face	278528006
+pain in upper limb nos	102556003
+bright red blood in stool	405729008
+pain;back;thoracic	279038004
+no appetite	79890006
+pain in elbow (finding)	74323005
+aches belly	162059005
+heart trouble	56265001
+myocardial infarction (disorder)	22298006
+diminished ability to concentrate	26329005
+haemorrhage	131148009
+muscle cramps in feet	102551008
+lower backache	279039007
+tendinitis nos (disorder)	34840004
+spasms  (situation)	45352006
+paralysis agitans parkinsonism	49049000
+decrease in libido	8357008
+diabetes;type 2	44054006
+ringing in ear	162352007
+myalgia/myositis - lower leg	288231001
+fatigue (situation)	248274002
+bleeding (disorder)	131148009
+heart diseases: general terms	56265001
+recurrent rectal bleeding	405729008
+cardiac disease	56265001
+obtunded	419723007
+muscular weaknesses	26544005
+rash and other nonspecific skin eruption nos (situation)	271807003
+calf cramp muscles	250084002
+liver disease	235856003
+dysfunction, cognitive	386806002
+loss memory short-term	247592009
+elbow pain	74323005
+drowsiness was observed	271782001
+impairment memory	386807006
+pain, generalized	82991003
+muscle spasm (finding)	45352006
+spasm, muscle	45352006
+impairment;memory	386807006
+cva - cerebrovascular accident (& unspecified [& stroke]) (disorder)	230690007
+pain tendon	21545007
+podalgia	47933007
+neuropathy, nos	386033004
+shoulder region pain	45326000
+rapid heart beat	86651002
+walking difficulties	228158008
+pain;musculoskeletal;arm	102556003
+attacking heart	22298006
+joint ache	57676002
+high; blood pressure	38341003
+migraine nos (disorder)	37796009
+aches tummy	162059005
+difficulty in swallowing (situation)	288939007
+liver enzyme abnormal	166643006
+dyspnea [disease/finding]	230145002
+sleep excessive	77692006
+decreased motion range	70733008
+muscle strength reduced	26544005
+random blood sugar raised (finding)	166892002
+dysphagia nos (context-dependent category)	288939007
+spasms	45352006
+light headedness	386705008
+stroke and cerebrovascular accident unspecified (disorder)	230690007
+hematochezia	405729008
+"tatt" - tired all the time	267032009
+shortness of breath symptom	230145002
+pins and needles (finding)	62507009
+drowsy (physical finding)	271782001
+cramping hand	250082003
+menorrhagia (finding)	386692008
+diabetes mellitus maturity onset	44054006
+neck pains	81680005
+cvas (cerebrovascular accident)	230690007
+twitch	60238002
+pain in shoulder	45326000
+sleepy	271782001
+cramps in the calves	250084002
+generalized myalgia	68962001
+blood pressure raising	24184005
+jerk	249966004
+myalgia nos	68962001
+cramp(s);stomach	51197009
+breathing shortness	230145002
+pain;muscle(s)	68962001
+passage of bloody stools	405729008
+menorrhagia nos	386692008
+tachycardia	86651002
+myopathy (disorder)	129565002
+stomachaches	162059005
+in chest tightness	23924001
+pain nos	22253000
+irritable symptom	55929007
+weariness	248274002
+claudications	16973004
+muscular disorders	129565002
+arthritis inflammatory	3723001
+asthenia nos	13791008
+breathlessness (situation)	230145002
+restless legs (disorder)	32914008
+burning feet	36031001
+stiffness of knee joint	249913002
+lightheadedness (finding)	386705008
+inhibition/loss sexual desire	8357008
+decrease in mobility	8510008
+lack of appetite	79890006
+cerebrovascular apoplexy	230690007
+backaches	161891005
+pain in calf	300954003
+backache symptom (finding)	161891005
+menstrual flow excessive	386692008
+skeletal muscle spasm (finding)	45352006
+muscular atrophy, nos	88092000
+tachycardia (finding)	86651002
+tachycardia (diagnosis)	86651002
+lbp	279039007
+ekbom's syndrome	32914008
+pain generalized	82991003
+diffuse joint pains	57676002
+difficulty in swallowing	288939007
+hypertensive cardiovascular disease or syndrome	38341003
+stomach upsets	162059005
+libido lack	248096004
+increased;weight	262286000
+muscle; pain	68962001
+brbpr	405729008
+rash and other nonspecific skin eruption	271807003
+cva (cerebral vascular accident)	230690007
+pain in upper limb	102556003
+bleeds	131148009
+diabetes, ketosis resistant	44054006
+diabetes mellitus, type 2 [disease/finding]	44054006
+heart rate high	86651002
+infarctions myocardial	22298006
+neurocognitive disturbance	386806002
+low back pain (diagnosis)	279039007
+rashes	271807003
+abnormal excitement	24199005
+memory loss short term	247592009
+generalised acute body aches	102480002
+myocardial infarction nos	22298006
+3-10 heart diseases: general terms	56265001
+maturity onset diabetes mellit	44054006
+type ii; diabetes	44054006
+dyspnea nos	230145002
+wittmaack-ekbom syndrome	32914008
+cramp in calf (finding)	250084002
+unable to think clearly (finding)	247640008
+back pain [disease/finding]	161891005
+paraesthesia of hand	309086004
+poor concentration (observable entity)	26329005
+memory retention disorder	386807006
+bwgain	262286000
+diabetes mellitus non insulin dependent	44054006
+ache back	161891005
+bellyache	21522001
+pain, unspecified	22253000
+mentally dull (finding)	419723007
+meralgia	78514002
+lumbar pain	279039007
+ache;generalized	82991003
+stroke unspecified	230690007
+feeling throat tightness	247323005
+serum creatinine raised	166717003
+arthralgia [disease/finding]	57676002
+notalgia	161891005
+aches stomach	162059005
+excessive bleeding during period (symptom)	386692008
+hypertensive disorder, systemic arterial	38341003
+hypersomnia nos (context-dependent category)	77692006
+neck aches	81680005
+throat tightness	247323005
+upper extremity pain musculoskeletal	102556003
+diabetes mellitus, slow-onset	44054006
+ncdmm	44054006
+numbness in hand	309521004
+cva (cerebrovascular accident)	230690007
+myalgia and myositis shoulder (diagnosis)	288226003
+red blood in bowel movement (symptom)	405729008
+nausea (finding)	422587007
+stroke/cerebrovascular accident	230690007
+pulse fast (finding)	86651002
+difficulty in walking (diagnosis)	228158008
+abdominal colic (situation)	9991008
+hip joint pain	49218002
+elbows pain	74323005
+pain; shoulder	45326000
+pain in unspecified lower leg	10601006
+myopathic disease	129565002
+niddm	44054006
+9-52 depressive disorders	35489007
+type 2 diabetes mellitus	44054006
+efflorescence	271807003
+rash/nonspec.skin erupt.nos	271807003
+charleyhorse (finding)	54981004
+muscle weaknesses	26544005
+back pain (disorder)	161891005
+disorder migraine	37796009
+abnormally heavy bleeding during menstruation	386692008
+muscle cramps	55300003
+difficulties, ambulatory	228158008
+arterial pressure high	24184005
+infarcts myocardial	22298006
+sleepy (finding)	271782001
+tachycardia by pulse	86651002
+myopathic disease or syndrome	129565002
+dry skin (symptom)	16386004
+foot cramp	102551008
+neurosis; depressive	35489007
+headache	25064002
+irritability	55929007
+difficult sleeping	301345002
+blood pressure increased	24184005
+rash and other nonspecific skin eruption nos	271807003
+excessive; menstruation	386692008
+primary parkinsonism	49049000
+diabetes mellitus - adult ons	44054006
+swallowing difficulty	288939007
+low back; pain	279039007
+memory impaired	386807006
+hearing noises	162352007
+tremor, unspecified	26079004
+aches, back	161891005
+diabetes mellitus, non-insulin-dependent	44054006
+cramp in lower leg (finding)	449918009
+diseases parkinsons	49049000
+cardiac disorders	56265001
+disorders neuropathy	386033004
+insomnias	193462001
+discomfort stomach	162059005
+stiffness (finding)	271587009
+hepatic disorders (diagnosis)	235856003
+flu-like illness nos (disorder)	95891005
+feels tightness in the chest	23924001
+heartbeat (pulse);rapid	86651002
+feel sick	422587007
+ear noise	162352007
+tinnitus (finding)	162352007
+ht - hypertension	38341003
+ha - headache	25064002
+exanthemas	271807003
+muscular disorder	129565002
+low back pain	279039007
+fresh blood stool	405729008
+nausea	422587007
+tremor nos (situation)	26079004
+dyspnea, unspecified	230145002
+bad memory	386807006
+pain finding (finding)	22253000
+parkinson s disease	49049000
+tinnitus nos	162352007
+nauseous	422587007
+hypertension nos	38341003
+spasms 	45352006
+muscle pain (finding)	68962001
+disorder, migraine	37796009
+arthralgia - shoulder	267949000
+lack of; appetite	79890006
+severe pain (finding)	76948002
+instability (emotional)	18963009
+shoulder pain musculoskeletal	45326000
+rheumatoid arthritis, unspecified	69896004
+cognitive function abnormal	386806002
+esophageal reflux	698065002
+diabetes mellitus non insulin-dep	44054006
+pains toe	285365001
+myalgia	68962001
+pressure arterial increased	24184005
+unable to get off a bed	301676004
+generalized muscle aches (symptom)	68962001
+painful neck	81680005
+muscles pain	68962001
+ache head	25064002
+stroke syndrome	230690007
+lack of motivation	277521002
+abd. pain	21522001
+pain in neck	81680005
+hand paresthesia	309086004
+heart attack, nos	22298006
+a-38 migraines	37796009
+dry	16386004
+haemorrhage, nos	131148009
+excessive sleeping	77692006
+dorsalgia (diagnosis)	161891005
+feeling agitated	24199005
+excessive flatulence	162076009
+muscle atrophy, nos	88092000
+mobility decreased	8510008
+ambulation difficulties	228158008
+(hypertensive disease) or (hypertension) (disorder)	38341003
+fussiness	55929007
+breathlessness (context-dependent category)	230145002
+disorder of skeletal and/or smooth muscle (disorder)	129565002
+chest pains	29857009
+hepatic diseases	235856003
+fresh blood passed per rectum	405729008
+parkinsons disease	49049000
+abdominal colic	9991008
+ambulation difficulty	228158008
+nonspecific pain lumbar region	279039007
+asthenia nos	13791008
+problem with walking	228158008
+raised blood pressure	24184005
+sleeping difficulty	301345002
+tremor [disease/finding]	26079004
+disorders, deglutition	288939007
+migrainous headache	37796009
+syndrome; low back	279039007
+wooziness	404640003
+inflammatory arthritis	3723001
+anorexic	79890006
+muscular tension	250069006
+dysphagias	288939007
+hematochezias	405729008
+flatulence,eructation,gas	271832001
+limbs lower numbness	309537005
+tremors	26079004
+talalgia	2733002
+ears ring	162352007
+arthralgia of knee (diagnosis)	30989003
+instability; emotional	18963009
+dyspnea	230145002
+chest pain (finding)	29857009
+unable to climb stairs (finding)	165247006
+hair; loss	278040002
+dizziness [disease/finding]	404640003
+palpitations nos (context-dependent category)	80313002
+charley-horse	54981004
+dysphagia nos	288939007
+jerks	60238002
+cva - cerebrovascular accident (& unspecified [& stroke])	230690007
+heart throb	80313002
+headaches, migraine	37796009
+dysphagia	288939007
+tatt	267032009
+ears noises	162352007
+muscular atrophies	88092000
+limb pain foot	47933007
+ringing in ear (finding)	162352007
+muscle cramp, nos	55300003
+arthralgia	57676002
+lumbago	279039007
+skeletal muscle disorder	129565002
+stiffness of knee joint (diagnosis)	249913002
+painful knee	30989003
+lightheadedness (symptom)	386705008
+tachycardia, unspecified (context-dependent category)	86651002
+palsy; shaking	49049000
+rheumatoid arthritis, unspecified, site unspecified	69896004
+diseases of the heart	56265001
+tinnitus	162352007
+generalised aches and pains (finding)	82991003
+disease of liver, nos	235856003
+pain in leg	10601006
+diabetes mellitus, non-insulin dependent	44054006
+pain;musculoskeletal;leg	10601006
+dolor	22253000
+menstruation; heavy	386692008
+muscle twitch	60238002
+neuroses, depressive	35489007
+hemorrhage, unspecified	131148009
+disease cardiac	56265001
+muscle spasm (diagnosis)	45352006
+cramp, nos	55300003
+tired	224960004
+tatt	248274002
+arthritis, rheumatoid [disease/finding]	69896004
+dyspnea (context-dependent category)	230145002
+cutaneous eruption (morphologic abnormality)	271807003
+headache; migraine	37796009
+complaining of "tired all the time" (finding)	267032009
+ketosis-resistant diabetes mellitus	44054006
+parkinson disease, idiopathic	49049000
+difficulties sleep	301345002
+parkinson's disease nos	49049000
+bald	278040002
+hematochezia (finding)	405729008
+neuropathy (nerve damage)	386033004
+difficulty in walking	228158008
+headed lighted	386705008
+baldness	278040002
+musculoskeletal arm pain	102556003
+mood, irritable	55929007
+walking inability	282145008
+myoneuralgia	68962001
+ache, back	161891005
+rash and other nonspecific skin eruption (situation)	271807003
+dry skin (physical finding)	16386004
+forgetfulness	55533009
+numbness in toes	309539008
+ache, low back	279039007
+reflux;oesophageal	698065002
+drowsiness (situation)	271782001
+arthralgia - pelvis / hip / femur	49218002
+muscle pains	68962001
+pains, lower back	279039007
+disorder of liver (disorder)	235856003
+gastro-esophageal reflux	698065002
+agitans; paralysis	49049000
+disease parkinson's	49049000
+lower back pain	279039007
+gain, weight	262286000
+palpitations (diagnosis)	80313002
+limb pain toe	285365001
+difficulty swallowing (symptom)	288939007
+disease, heart	56265001
+hypersomnia 	77692006
+stroke, nos	230690007
+hypertension [disease/finding]	38341003
+fasciitis;plantar	202882003
+muscle atrophy (disorder)	88092000
+difficult breathing	230145002
+infarctions, myocardial	22298006
+back pains, lower	279039007
+insomnia disorders	193462001
+heart disease nos	56265001
+breathing difficulty	230145002
+pain in unspecified thigh	78514002
+lumbago nos	279039007
+dysphagia (context-dependent category)	288939007
+disease parkinson s	49049000
+unable to keep still	24199005
+bleeding	131148009
+appetite absent	79890006
+neuropathy	386033004
+stiff knees	249913002
+myocardial infarction	22298006
+foot muscle cramps	102551008
+swallowing dis	288939007
+reduced mobility (diagnosis)	8510008
+liver diseases	235856003
+ache muscle	68962001
+lower extremity paresthesias	429783005
+dysphagia (diagnosis)	288939007
+chest tightness (context-dependent category)	23924001
+idiopathic parkinson's disease	49049000
+knee(s) pain	30989003
+disorder of muscle, unspec	129565002
+heavy; menstruation	386692008
+cramp in foot	102551008
+cramp(s)	55300003
+muscle cramp	55300003
+raised blood pressure (finding)	24184005
+aches back	161891005
+hair loss disorder	278040002
+parkinson disease	49049000
+pain in leg (diagnosis)	10601006
+diffuse joint pains (symptom)	57676002
+ear ringing sound	162352007
+calf pain	300954003
+pain, generalised	82991003
+stroke/cva - undefined	230690007
+constricted chest	23924001
+dyspnea (finding)	230145002
+apoplexy, cerebral	230690007
+ear noises	162352007
+migraine disorder	37796009
+cardiac disorder nos	56265001
+numbness of toes (symptom)	309539008
+lack of stamina (finding)	248277009
+difficult; walking	228158008
+stroke; apoplectic	230690007
+bleeding menstrual heavy	386692008
+breathlessness nos (finding)	230145002
+ambulatory difficulties	228158008
+heart irregularities	80313002
+colic nos	9991008
+bright red rectal bleeding	405729008
+dorsodynia	161891005
+muscular atrophy	88092000
+tremor (context-dependent category)	26079004
+swallowing difficulties (dysphagia)	288939007
+asthenia	13791008
+energy decreased	248274002
+cognitive impairment	386806002
+lumbago syndrome	279039007
+severe pain	76948002
+excessive sleepiness	77692006
+unable to concentrate (finding)	60032008
+tiredness	248274002
+[x] lack of libido	248096004
+pain chest	29857009
+attack coronary	22298006
+muscular atrophy [disease/finding]	88092000
+blood pressure, high	38341003
+colicky abdominal pain	9991008
+concentration (mental) abnormal	60032008
+flu-like illness nos	95891005
+tachycardia, unspecified	86651002
+lumbago (disorder) [ambiguous]	279039007
+increasing weight	262286000
+elbow pains	74323005
+head pain cephalgia	25064002
+loss of appetite	79890006
+concentration difficulty	60032008
+elevation blood pressure	24184005
+psychomotor agitation	24199005
+hip; pain, joint	49218002
+finding of tinnitus (finding)	162352007
+hepatic disorders	235856003
+insomnia - symptom	193462001
+chest; pain	29857009
+hypersomnia (diagnosis)	77692006
+cramp (finding)	55300003
+heart disorder	56265001
+(tinnitus) or (hearing noises) (disorder)	162352007
+weakness muscle	26544005
+appetite loss	79890006
+hand numbness	309521004
+back paining	161891005
+generalized body aches	82991003
+appetite loss (context-dependent category)	79890006
+low; backache	279039007
+disease parkinsons's	49049000
+feeling irritable (finding)	55929007
+palpitations (finding)	80313002
+pain;back	161891005
+non-insulin dependent diabetes	44054006
+inflammation of joint nos	3723001
+pains, neck	81680005
+anhydrotic skin	16386004
+backache, low	279039007
+serum creatinine raised (finding)	166717003
+ache stomach	271681002
+rise in bp	24184005
+feeling bilious	422587007
+loss motivation	277521002
+migraines	37796009
+pain, shoulder	45326000
+backache (finding)	161891005
+cardiac infarction, nos	22298006
+dazed	40917007
+spasms nos (context-dependent category)	45352006
