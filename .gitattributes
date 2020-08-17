@@ -2,3 +2,4 @@ resources/snomed_kg.txt filter=lfs diff=lfs merge=lfs -text
 resources/snomed_kg/snomed-test.txt filter=lfs diff=lfs merge=lfs -text
 resources/snomed_kg/snomed-train.txt filter=lfs diff=lfs merge=lfs -text
 resources/snomed_kg/snomed-valid.txt filter=lfs diff=lfs merge=lfs -text
+resources/snomed_kg/*.txt filter=lfs diff=lfs merge=lfs -text
