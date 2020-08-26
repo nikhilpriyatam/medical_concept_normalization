@@ -23,10 +23,8 @@ from transformers import RobertaForSequenceClassification
 
 # File paths
 HOME = '/home/nikhil/OneDrive/ws_mcn/'
-# DATA_PATH = HOME + 'data/psytar_47/'
-# SID_EMB_PATH = HOME + 'resources/sid_to_line.pkl'
-DATA_PATH = HOME + sys.argv[1]
-SID_EMB_PATH = HOME + sys.argv[2]
+DATA_PATH = HOME + 'data/cadec_62/'
+SID_EMB_PATH = HOME + 'resources/sid_to_transE.pkl'
 SID_DESC_PATH = HOME + 'resources/sid_to_desc.pkl'
 SID_LABEL_PATH = DATA_PATH + 'labels.txt'
 WS_PATH = DATA_PATH + 'ws_uniq.txt'
@@ -228,19 +226,19 @@ def get_cv_acc(pretrained_model, n_folds, training=True):
 
 if __name__ == '__main__':
     model_init = get_mcn_model()
-    n_folds = int(sys.argv[3])
+    n_folds = 5
     df = pd.read_csv(SNOMED_PATH, sep='\t', lineterminator='\n', header=None)
     snm_txt, snm_lbl = df.iloc[:, 0].tolist(), df.iloc[:, 1].tolist()
     model_snm = train_model(snm_txt, snm_lbl, model_init, n_epochs=70)
     snm_acc = get_cv_acc(model_snm, n_folds=n_folds, training=False)
-    print(snm_acc) # 0.6389
+    print(snm_acc)
 
     ws_txt, ws_lbl = get_ws_phrases_kbest(5)
     model_snm_ws = train_model(ws_txt, ws_lbl, model_snm, n_epochs=50)
     snm_ws_acc = get_cv_acc(model_snm_ws, n_folds=n_folds, training=False)
-    print(snm_ws_acc) # 0.7372
+    print(snm_ws_acc)
 
-    model_snm_ws_snm = train_model(snm_txt, snm_lbl, model_snm_ws, n_epochs=20)
+    model_snm_ws_snm = train_model(snm_txt, snm_lbl, model_snm_ws, n_epochs=30)
     snm_ws_snm_acc = get_cv_acc(model_snm_ws_snm, n_folds=n_folds,
                                 training=False)
-    print(snm_ws_snm_acc) # 0.7787
+    print(snm_ws_snm_acc)
